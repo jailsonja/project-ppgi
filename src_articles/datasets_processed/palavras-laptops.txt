@@ -1,0 +1,259 @@
+11 size ->> {"Great MacBook features that you've come to expect in an ultra portable 11 size."}
+128 gig storage ->> {'The 128 gig storage drive is very compact and easily managed.'}
+17 ->> {'Beautiful 17 in screen.'}
+256gb ->> {'256GB is just too small.'}
+500gb hard disk ->> {'A 500GB hard disk is just an astoundingly huge amount of storage space.'}
+adapters ->> {"Chose this over the new macbook 12-inch because although no retina display, it was better priced, faster processor, and didn't want to make a hassle over buying expensive usb-c adapters which are not yet the norm."}
+amount of usb available ->> {'I like the sleek design and amount of USB available.'}
+amount of usb ports ->> {'This computer has an adequate amount of USB ports.'}
+appearance ->> {"Very good in appearance but the battery doesn't last that long it says 8 hours but in fact it's only 3 hours"}
+apple computer ->> {"It's the first Apple computer I have owned and I love that it syncs with my iPhone."}
+apple product ->> {'Another great Apple product.'}
+apple products ->> {'Love apple products and the size of this is perfect for traveling and everyday use', 'Since I am my families IT support - I love Apple products - take them out of the box and hand them over to my daughters and RARELY have to deal with any problems.', 'Love apple products.', 'I love my Apple products, I had always brought PC, but time after time had the same problem with every computer, therefore no more PC in my house, now everything is Apple', 'Apple products are the best!', 'I am a fan of Apple products.', 'I recommend All Apple products are the best quality..'}
+applications ->> {'Good for basic applications.'}
+apps ->> {'Lightweight, FAST, and so many of the apps I already had work with OS X making app conversion easy!', 'Felt limited on apps.', 'MacBook Air features fifth-generation Intel Core processors with stunning graphics, all-day battery life*, ultrafast flash storage, and great built-in apps.'}
+backlit keyboard ->> {'Great backlit keyboard with ten key pad.'}
+batter life ->> {'The quality of programs and batter life are excellent.'}
+battery ->> {'I love my laptop, only bad thing battery runs low fast.', 'Long lasting battery.'}
+battery life ->> {'the only draw back on this product is the battery life it last for about 1:30 to 2 Hours in normal use and 45 to an hour while using the GPU.', 'The only draw back is the battery life (approximately 8 hours) .', 'Battery life is true to estimate about 8 hours.', 'Battery life is OK. Lots of power saving modes.', 'Battery life is good.', 'The battery life on this is impressive for its size as well.', 'MacBook Air features fifth-generation Intel Core processors with stunning graphics, all-day battery life*, ultrafast flash storage, and great built-in apps.', 'I did not give this computer 5 stars because it seems that the battery life is relatively short.', 'It has a great battery life.', 'Fast and great battery life.', 'The laptop is pretty good, the battery life is reasonable, and the touch screen is great.', "The only draw I've had besides a little creaking in the touchpad area, is the abysmal battery life.", 'Great battery life and functionality.', 'Long battery life permits use in extended meetings without recharging.', 'Starts up quickly, great battery life.', 'This Air model has plenty of hard drive space for most, responds quickly, and has great battery life.', 'I particularly like the battery life in this model, and the touch pad is very responsive even with just a light touch.'}
+big ->> {'The laptop is a little big and heavy.'}
+boot ->> {'Very pleased with this computer...fast to boot, loads programs quickly, keyboard feels "right".'}
+boots up ->> {'Laptop boots up extremely fast and can handle any program or game with ease.'}
+brand ->> {'The salesman recommended it saying that Asus was a very stable brand and had great longevity because they manufacture the majority of their own components.'}
+build quality ->> {'Nice screen and solid build quality overall.'}
+buy ->> {'Good Buy!', 'Great buy!', 'Excellent buy for the money.'}
+carry ->> {'Wanted an easy to carry laptop to travel with, this works out great.', 'It is lightweight and easy to carry across campus.', "It's not heavy and not big so perfect for daily carry and use.", 'Its easy to carry when I travel.'}
+change screens ->> {'Had trouble, after a week, that it was slow to change screens or scroll up and down.'}
+charger ->> {'I LOVE the charger.'}
+charges ->> {'Charges fast.'}
+checking emails ->> {"It's perfect for checking emails, logging into my work computer, and watching movies between appointments."}
+chromebook ->> {'This is a sturdy and fast Chromebook that does all that I want for an extremely reasonable cost.', 'great Chromebook but inconsistent track pad or untrained fingers.'}
+color lights ->> {'The keyboard is solid and I love the multi color lights.'}
+compact ->> {'Its light and compact.', 'I love it, I love how small and compact it is.'}
+compatible microsoft office apps ->> {'The compatible Microsoft Office Apps are an added plus as I am a full-time student finishing up my dissertation.'}
+computer ->> {'Its a great computer if you can find one that will actually work.', 'Very displeased with the computer.', 'I love buying a computer that:', 'Just about everything with this computer is impressive.', 'I searched for a 2in1 computer but none of them were good enough, so I decided that gaming can be much better on one of these computer and believe me this is computer great.', 'Employees were very helpful and helped me choose a great computer for my needs.', 'This computer is amazing and most games i play i am a high to ultra setting geting an avg FFP of around 60 to -58 and a AVG FPS of about 45-50. which is amazing.', 'Great computer for the value.', 'Computer works very well and is very easy to use.', 'This computer is compact and it fits well in her bag for easy carrying, yet it is big enough for getting the work done.', "Great computer, haven't used a pc in 10 years I've been using macs but going back to school I needed a pic to run specific software and this has been a great product", 'Great price, great computer, and with everything I wanted.', 'I needed a computer and the sales person got me the best computer for my needs.', 'Computer is very fast and has lots of memory.', 'So far seems to be a great computer!', 'It is a great computer.', 'This computer worked out fantastically well.', 'This computer is great, plenty of hard drive space & memory.', 'Overall this computer is awesome!', 'The computer is very user friendly if you are familiar with Apple products.', 'This is the WORST computer I have bought EVER!', 'I love this computer and Best computer for a new model and brand..', 'Republic of gamers is one of the fastest computer I have played on and I"ve been gaming for over 10 years.', 'Great computer for someone learning to use a computer.', 'Really great computer!', 'the computer is super, lightweight and fast -- recommend for traveling and any other work.', 'This is a great computer.', 'Great price for a good computer', 'This is a really fun computer.', 'Very fast, lightweight computer.', 'I would recommend this for anyone wanting a compact yet powerful computer that integrates well with other Apple products.', 'great first computer, easy set up, love the touch screen', "I love the actual Computer, but when I bought it, I handed it over to get a SSD and updated to Window's 10.", 'This is a great computer for the price.', 'Easy computer for my daughter going to college.', 'The computer is super fast, the keyboard has a great feel to it and the unit has a super solid construction.', 'Bought a year ago and has been my main computer since.', 'This is a beautiful computer, as you all know.', 'I am in my first year of college and like this computer so far.', 'Great computer.', 'Excellent computer for business.', 'Very happy with computer.', "This is an excellent computer, I'm very pleased with this product."}
+computer programs ->> {'Internet and computer programs VERY slow.'}
+computers ->> {'This computers great because of the processor and graphics card.'}
+controls ->> {'The 4GB RAM and 1080 HD is an upgrade, but few manual controls limit picture, but it is okay for the pricepoint.'}
+conversion ->> {'Lightweight, FAST, and so many of the apps I already had work with OS X making app conversion easy!'}
+cost ->> {'This is a sturdy and fast Chromebook that does all that I want for an extremely reasonable cost.', "I'm sure those are cost prohibitive for me personally."}
+custom keyboard ->> {'Custom keyboard is very nice looking but it has a bit of flex to the left.'}
+deal ->> {'Totally not worth the original price tag but I got an exceptional deal that it was hard to pass up.', 'perfect deal'}
+design ->> {'I love the design.'}
+device ->> {'A small let down, but a great device none the less.', 'This is a great device!'}
+disappointed ->> {'Disappointed.'}
+disk drive ->> {'Only problem I have with it I it lacks a disk drive'}
+display ->> {'The computer has a nice keyboard (my first backlit keyboard, the display is very nice, the programs are responsive and startup is very fast compared to my Windows experience, plus the MacBook is light and compact.', 'Performance is great, with an awesome display.', 'Works great but got a virus relatively quick nice display'}
+downfall laptop ->> {'Downfall laptop gets dirty if you care about appearance'}
+durable ->> {"It's thin, light and durable enough to take everywhere you go."}
+ease ->> {'I use a Lenovo Edge at work and love the ease and the speed, so I wanted one for my personal use and I am so happy with the chose that I made.'}
+easy ->> {"I just play my music and shop for my kicks so this is perfect for me it's fast and easy that's all I need and care about"}
+easy to carry ->> {'I got the 11" and it is so light and easy to carry with me.'}
+efficient ->> {'Efficient and nice touch'}
+effort ->> {'Setting up my HP printer took a little effort as I muddled until I downloaded installation software from HP.'}
+electronic ->> {"This is the worst electronic I've ever owned."}
+end games ->> {"This machine is not for gaming in anyway...but even for simple low end games that don't require mega memory capability like crosswords and such its passable."}
+equipment performanc ->> {"This is the first time with a MacBook and, for a while, I've been very happy with the equipment performance."}
+everything ->> {'Screen/keyboard/trackpad are the same but everything else is improved.'}
+expensive ->> {'How does that even happen to an expensive computer.'}
+experience ->> {'Everything was a great experience!', 'All my experience with an Apple are very positive, never have a problem for the 10 years I owned it.', "Don't buy this unit expecting a great experience on Windows 10."}
+fast ->> {'Lightweight, FAST, and so many of the apps I already had work with OS X making app conversion easy!', "It's fast and updates quickly.", 'Very fast, lightweight computer.', 'Light, fast, noiseless and, a true pleasure to set up and integrate within my home network.', "Great graphics, back-lit keyboard, and plenty fast to do anything I've tried on it so far.", 'i buy this laptop its just awesome its light , fast and thin', 'Just what I was looking for nice screen and really fast', 'Very fast!', 'Light, large screen, fast.', 'It has been great its fast and reliable for a college student', 'It is fast, reliable, large screen, thin ... Definitely recommend.', "I just play my music and shop for my kicks so this is perfect for me it's fast and easy that's all I need and care about", 'Even faster after the bigger SSD swap.', 'Super fast, love the touch screen, flip able screen, 1 terabyte storage and great price!', 'Fast, no issues at all.'}
+features ->> {'It has many features that my older laptop did not.', "It's a perfect size and its features as a whole are amazing", 'Big features small price.'}
+find a case ->> {'A good laptop but difficult to find a case (needed a 16.5inch case).'}
+finish ->> {'Stunning fit and finish.'}
+fit ->> {'This one was pretty cheap and a good fit.', 'Stunning fit and finish.'}
+flash storage ->> {'MacBook Air features fifth-generation Intel Core processors with stunning graphics, all-day battery life*, ultrafast flash storage, and great built-in apps.'}
+footprint ->> {'good performance in a small and lightweight footprint'}
+freeze ->> {'Only problem so far has been a total freeze which required factory reset and had to reinstall everything'}
+functionality ->> {'Great battery life and functionality.'}
+functioning ->> {'Functioning well.'}
+game playing ->> {'Game playing OK but get hot fast not wroth 1300 hundreds!'}
+gaming ->> {'A bit heavy to carry around but has great speed and works well for gaming.', "Other than that it's great for gaming, movies and other uses."}
+gaming laptop ->> {'Great Gaming Laptop for those that want it.'}
+get around ->> {'I found it pretty easy to get around and do most of the things I like to do with my Windows 7.'}
+gift ->> {'This was a perfect gift.'}
+google apps ->> {'Great for working with Google apps.'}
+gpu ->> {"The GPU wasn't too bad, it ran LoL just fine."}
+graphics ->> {'MacBook Air features fifth-generation Intel Core processors with stunning graphics, all-day battery life*, ultrafast flash storage, and great built-in apps.', "Great graphics, back-lit keyboard, and plenty fast to do anything I've tried on it so far.", 'I play video games and the graphics on this laptop are perfect for it.', 'Great for graphics and processor heavy applications like Photoshop or Corel.', 'Hard to get dedicated graphics in a laptop.', 'I like touch screen and good graphics also perfect for school work.', 'Graeat graphics, too.', 'Graphics look great, love the large screen.'}
+graphics capabilities ->> {'It is easy to setup and use and has great memory and graphics capabilities.'}
+graphics card ->> {'I like this laptop it is good and fast and I like the graphics card', 'The graphics card is basic but upgradeable, works great for Diablo 3 and Sims4.'}
+graphs ->> {'It does more than what I expected and does great graphs, and is much faster than my old one.'}
+hard drive ->> {'I just wish it had a bigger hard drive.', "The hard drive is very small so you can't store a lot on it."}
+hard drive space ->> {'This computer is great, plenty of hard drive space & memory.', 'This Air model has plenty of hard drive space for most, responds quickly, and has great battery life.'}
+hard shiny plastic ->> {"I didn't like the hard shiny plastic."}
+hardware ->> {'I like the computer hardware.'}
+hardware features ->> {'Love all the hardware features of this laptop but Windows 8.1 is really really problematic.'}
+hd screen ->> {'Nice HD screen.'}
+hdd ->> {'Bought this laptop to play civ 5 and roller coaster tycoon... Total upgrade on visual for my civ 5... Just wish it had a faster hdd..'}
+heavy ->> {'A bit heavy to carry around but has great speed and works well for gaming.', 'The laptop is a little big and heavy.', "It's little heavy.."}
+hook up ->> {'The picture quality is very good and it was easy to hook up.'}
+i -7 processor ->> {'the I -7 processor is probably an over kill.'}
+install ->> {'Easy to install.'}
+intel core processors ->> {'MacBook Air features fifth-generation Intel Core processors with stunning graphics, all-day battery life*, ultrafast flash storage, and great built-in apps.'}
+internal memory ->> {'The internal memory is plenty, although I my own external drive to store my music and files.'}
+internet ->> {'Internet and computer programs VERY slow.', 'The plastic is cheap and scratchy, there are round circles poking out of the bottom, Google Chrome keeps crashing, the internet is slow as dirt.'}
+internet connection ->> {"With 100 gigs of cloud storage for 2 years free, as long as you have a fast Internet connection, it's a great option for a laptop."}
+investment ->> {'Our Mac Air was a great investment for our school age children.'}
+key strokes ->> {'Key strokes feel cheap had to hard reboot twice (not same as PC laptop, so OK)'}
+keyboard ->> {'The keyboard is solid and I love the multi color lights.', 'I do like the lighted keyboard.', 'Backlit keyboard is a nice feature.', 'Speed is fast, nice keyboard, and I love the touch screen.', "Great graphics, back-lit keyboard, and plenty fast to do anything I've tried on it so far.", 'Good keyboard and touchscreen features but the touchpad is little too sensitive.', 'This has a nice big, clear screen and a full-size keyboard.', 'the keyboard on this computer is really bad .', 'The customize-able keyboard is nice and the screen is large and crisp.', 'The computer has a nice keyboard (my first backlit keyboard, the display is very nice, the programs are responsive and startup is very fast compared to my Windows experience, plus the MacBook is light and compact.', 'Despite the small size the keyboard is easy and comfortable to use.', 'Virtual keyboard is not very responsive.'}
+keyboard letter size ->> {'So happy to have this MAC, love the keyboard letter size, the screen is clear and sharp.'}
+keyboards ->> {"I'm more of a desktop person so I never liked tiny screens and keyboards."}
+keys ->> {'keys to close and ultra sensitive .'}
+lap top ->> {'This lap top is perfect for my 15 year old son.'}
+laptop ->> {'I really love this laptop because not only does it have a lot of memory and run fast, but it is easy to use.', 'This laptop is great for your average gaming, the Intel core i7 and the gtx 965m will let you play most games to high-medium settings at 60 fps.', "I love this laptop, it's my first gaming laptop and for what I'm wanting to play it's fantastic.", 'Great laptop.', 'More of a desktop replaced than a portable laptop.', 'Greta laptop.', 'This laptop is great for all applications.', 'The perfect laptop', 'The functionality and size make this the perfect laptop for home and travel.', 'Overall a good laptop.', 'This laptop is lightweight and the battery holds the charge for a long time.', 'The laptop is good, it is top of the line Intel I7 processor, does the job.', 'Great laptop overall!', 'This laptop is not as fast as I had hoped.', 'Real neat laptop.', 'For different reasons I needed to add an Apple laptop to the devices I own and the MacBook Air that I got not only has all I need but also provides with a very portable laptop that is going to be handy in many circumstances.', 'A good laptop but difficult to find a case (needed a 16.5inch case).', 'This is a very good laptop and is very easy to use.', 'I upgraded from a Toshiba purchased in 2006 with Windows XP LOL, so this new laptop is awesome all around!', 'Laptop is rugged, well built, light, and fast.', 'Laptop seems very quick, picture is good, sound could be better - but for the price this unit it seems like a winner.', "I got this just yesterday and it's the worst laptop I've ever used.", 'This laptop with touch screen and weight is perfect for my business in sells where I need to be mobile', 'Very Nice Laptop.', 'My laptop has been really great so far.', 'Great Laptop for the money we paid.', 'This is a very good laptop color looks really good and it runs fast', '=J Its a great laptop.', 'Great bargain price for a high-end laptop with lots of RAM.', 'Perfect laptop for our family needs.', 'I love my laptop, only bad thing battery runs low fast.', 'Great laptop for gaming fast.', 'The laptop also stays very cool considering the stress i was tossing at it to test it out.', 'The laptop is pretty good, the battery life is reasonable, and the touch screen is great.', 'This is the best extremely portable laptop around.', 'was a good laptop.', 'Good reliable laptop with quick Wi-Fi and startup.', 'I love this laptop and could not say enough good things about it.', 'With the Windows 10 upgrade, this expensive laptop got very slow process (like turning on, opening an explorer, any program) and is not able to run Age of Empires III correctly.', 'I feel so high tech...love the touch screen feature...great laptop...I work in corporate and keno a is all they use', 'Toshiba is an excellent laptop, this is the second Toshiba I have owned and I will stick to this brand.', "I've had this laptop for about 3 weeks now and it's the nicest little laptop I have ever encountered.", 'i love this laptop so far , no complain just one word simply love it', 'I love this laptop!!', 'What I have is a new slow laptop.', 'The laptop is very slim and lightweight.', 'As an upgrade to my 5 year old Dell, this laptop has been great so far.'}
+laptop specs ->> {'The laptop specs are good for what you pay.'}
+laptops ->> {'one of the best laptops out right now.', "This is one of the most expensive laptops I've ever purchased (the Alienware I exchanged it for being the most expensive) and so far this is the worst."}
+large ->> {'A little large but other than that no complaints....'}
+laser printer ->> {'I like the laptop hate the windows 8 problems my laser printer is not compatible with Windows 8 was with 7.'}
+learning curve ->> {'So lightweight and the learning curve is not too bad.'}
+lenovo ->> {'Lenovo is at the top of my list!', 'Returning it tomorrow and getting something else THAT IS NOT LENOVO GARBAGE.'}
+lenovo edge ->> {'The Lenovo Edge is an excellent system.'}
+lenovo lapto ->> {'Although very different from our older HP, we are enjoying our new Lenovo laptop.'}
+lenovo laptop ->> {'Although the process of purchasing was a headache, I actually really like my Lenovo laptop.', "Couldn't be happier with my Lenovo laptop.", 'The Lenovo laptop is lightweight, looks and works great!'}
+lenovo laptops ->> {'I love Lenovo laptops, hence I knew I was going to buy another.'}
+lenovo laptp ->> {'The Lenovo laptp is excellent.'}
+lenovo program for photos ->> {"The Lenovo program for photos is great for viewing, but it doesn't recognize when photos are duplicated."}
+light ->> {'Light, fast, noiseless and, a true pleasure to set up and integrate within my home network.', 'i buy this laptop its just awesome its light , fast and thin', 'Since its so light, I find myself using it like my iPad mini.', 'It is very light.', "It's thin, light and durable enough to take everywhere you go.", 'Light, large screen, fast.', 'Its light and compact.', "He loves how light small it is for travel, it's fast enough to use for all his homework.", 'This is good for any student who needs something quick, small, light, and mobile.', 'Looks great, its light and portable, feels nice in hands, back lit keyboard, and the touch display is excellent.', 'I got the 11" and it is so light and easy to carry with me.', 'Light and portable.', 'User friendly, light and easy to use.', 'I love how light, sturdy, and thin it is.'}
+lighter ->> {'This newer one is so much lighter and thinner.'}
+lightweight ->> {'Lightweight, FAST, and so many of the apps I already had work with OS X making app conversion easy!', "Small and lightweight, would have liked to known that there is a 8gb one on apple's website.", 'Fantastic product, part of the Apple ecosystem, lightweight and portable.', 'So lightweight and the learning curve is not too bad.', 'It is lightweight and easy to carry across campus.', 'Slim and lightweight.'}
+loads ->> {"It certainly comes on quickly, loads quickly, gets me online quickly, and handles most daily online needs (THAT'S going to spoil me)."}
+loads programs ->> {'Very pleased with this computer...fast to boot, loads programs quickly, keyboard feels "right".'}
+longevity ->> {'The salesman recommended it saying that Asus was a very stable brand and had great longevity because they manufacture the majority of their own components.'}
+looks ->> {"its beautiful it just looks great and runs well I haven't installed any of my games yet but I am excited to I have used minecraft on it and it runs awesome.", 'Looks great, its light and portable, feels nice in hands, back lit keyboard, and the touch display is excellent.'}
+mac ->> {'I love my Mac and it is great for my dual credit classes and streaming videos for that class.', 'I use a larger desktop when I want to do heavier work but for traveling, this Mac is a dream come true.'}
+mac air ->> {'The Mac Air is very light and portable.'}
+mac airbook ->> {'I am completely happy with choosing the Mac AirBook.'}
+mac book ->> {"Perfect for school assignments, I got the one with more memory so I wouldn't have to worry about filling it up but I absolutely love my mac book!!!!!!"}
+macbook ->> {'The computer has a nice keyboard (my first backlit keyboard, the display is very nice, the programs are responsive and startup is very fast compared to my Windows experience, plus the MacBook is light and compact.', "Great MacBook features that you've come to expect in an ultra portable 11 size.", 'First time buying a MacBook and am very impressed.'}
+macbook air ->> {'The MacBook Air is a great computer for everyday use.', 'Love my new MacBook Air!', 'I love my MacBook Air!.', 'The MacBook Air is outstanding.'}
+machine ->> {'Nice machine, light weight, compact and powerful processing.', 'Overall a great machine!', 'Otherwise this is a great machine.', 'Excellent machine for the price.', 'Great machine.', 'It was a good machine and I had maxed it out with performance enhancers but I could not get around the fact that Windows XP was dead and any new applications, games or programs would not work in that environment anymore.', 'This is a very capable little machine that I have used as a daily driver for about a month.', 'Needed a highly portable machine that could handle big presentations and spreaders sheets.', 'As far as I can tell the machine works great.'}
+materials ->> {'The materials are just poor.'}
+mba 11inch ->> {'Love my MBA 11inch.'}
+memory ->> {'It is easy to setup and use and has great memory and graphics capabilities.', 'Computer has great memory and great RAM it is also easy to use', 'This computer is great, plenty of hard drive space & memory.', 'Fast with lots of memory and storage.', 'Computer is very fast and has lots of memory.', 'I bought this laptop for its great everyday use specs - Intel Core i3, 500GB hard drive, and 4GB upgradeable memory.'}
+microphone ->> {'So, mi super microphone is useless on this Asus.'}
+mobile ->> {'This is good for any student who needs something quick, small, light, and mobile.'}
+model ->> {'I debated about getting the 13" but am I ever glad I decided to go with this smaller model.', 'It is the Intel AC 3160 which is an inferior 1 x 1 model.'}
+money ->> {'well worth the money.', 'So I have to spend more money.', "Don't waste your money on this laptop."}
+mouse pad ->> {'Only two things to get use to: the mouse pad is very sensitive and the screen resizes when not expected and the black shows fingerprints.', 'Mouse pad is horrible and the quality is ridiculous.'}
+movies ->> {"Other than that it's great for gaming, movies and other uses."}
+navigate ->> {'Very easy to navigate and a great screen size!'}
+navigation ->> {'Once I grasped it navigation became easier and convenient.'}
+nice touch ->> {'Efficient and nice touch'}
+noiseless ->> {'Light, fast, noiseless and, a true pleasure to set up and integrate within my home network.'}
+not big ->> {"It's not heavy and not big so perfect for daily carry and use."}
+not heavy ->> {"It's not heavy and not big so perfect for daily carry and use."}
+notebooks ->> {'One of the best notebooks I have owned.'}
+nvidia video player ->> {'super fast, great nvidia video player and so much storage.'}
+optical drive ->> {'Optical drive a little noisy but ok with me.'}
+original price tag ->> {'Totally not worth the original price tag but I got an exceptional deal that it was hard to pass up.'}
+other uses ->> {"Other than that it's great for gaming, movies and other uses."}
+pc ->> {'This PC is perfect for someone looking for a reliable touchscreen PC that can handle applications with ease.', "I've had this pc for while now and the only complaint I have is if I unplug the headphones it will mute my pc but overall I love this pc.", 'If your looking for a FAST PC this lil guys is amazing..'}
+performance ->> {'Performance is great, with an awesome display.', 'Good performance.', 'The performance is excellent.', 'Nice performance in games, fast response, comfortable screen resolution.', 'As the 8gb ram allows for multitasking and high performance in demanding software.', 'good performance in a small and lightweight footprint', 'This is my first laptop and I am very happy so far with the performance.'}
+performances ->> {'the laptop has a ver y good quality and performances even for playing through the web'}
+physical keyboard ->> {'Physical keyboard freezes, runs slow when it does work.'}
+picture ->> {'Laptop seems very quick, picture is good, sound could be better - but for the price this unit it seems like a winner.'}
+picture quality ->> {'The picture quality is very good and it was easy to hook up.'}
+plastic ->> {'The plastic is cheap and scratchy, there are round circles poking out of the bottom, Google Chrome keeps crashing, the internet is slow as dirt.'}
+play video games ->> {'I play video games and the graphics on this laptop are perfect for it.'}
+plays games ->> {'Plays games very well.'}
+portability ->> {'lacks retina definition, great portability, not bad.'}
+portable ->> {'Very light weight and portable.', 'Fantastic product, part of the Apple ecosystem, lightweight and portable.', 'Also it so portable....easy to use and it turns on/off easily.', 'Looks great, its light and portable, feels nice in hands, back lit keyboard, and the touch display is excellent.', 'Small size and light weight make it easily portable.', 'Light and portable.'}
+power ->> {'Battery will last you only 2-3 hrs on balanced power or higher.'}
+presentation creation ->> {'Trackpad/mouse started sticking immediately, highlighting everything on page, and making any document or presentation creation extremely difficult.'}
+presentations ->> {'Needed a highly portable machine that could handle big presentations and spreaders sheets.'}
+price ->> {'Great bargain price for a high-end laptop with lots of RAM.', 'Decent price, great specs.', 'Great price too.', 'Overall a great buy for the price!', 'Big features small price.', 'Super fast, love the touch screen, flip able screen, 1 terabyte storage and great price!', 'Laptop seems very quick, picture is good, sound could be better - but for the price this unit it seems like a winner.', 'The price was right for all the features it has.', "And for the price it's amazing!", 'Lots of horse power to spare and 3D accelerator for a great price.', 'Great price, great computer, and with everything I wanted.', 'great price, easy to shop and pick it out.', 'Easy to use and a great price.', 'Great price for a good computer', 'The price was great and so far we are very happy with this purchase.', "just bought it last week and im already using it.i can tell you this:it's a cheaper price with a higher end,it's more than worth already!"}
+priced ->> {"Chose this over the new macbook 12-inch because although no retina display, it was better priced, faster processor, and didn't want to make a hassle over buying expensive usb-c adapters which are not yet the norm."}
+pricepoint ->> {'The 4GB RAM and 1080 HD is an upgrade, but few manual controls limit picture, but it is okay for the pricepoint.'}
+pricey ->> {'Might be a bit pricey compared to other laptops, but with Apple, you really get what you pay for!'}
+problems ->> {'The computer had many problems that are manufacturing flaws known to Lenovo: , screen blacks out, computer turns off unexpectedly.'}
+process ->> {'With the Windows 10 upgrade, this expensive laptop got very slow process (like turning on, opening an explorer, any program) and is not able to run Age of Empires III correctly.'}
+process of purchasing ->> {'Although the process of purchasing was a headache, I actually really like my Lenovo laptop.'}
+processing ->> {'Nice machine, light weight, compact and powerful processing.'}
+processing speed ->> {'The processing speed is almost instantaneous.'}
+processor ->> {"Chose this over the new macbook 12-inch because although no retina display, it was better priced, faster processor, and didn't want to make a hassle over buying expensive usb-c adapters which are not yet the norm.", 'Fast processor able to handle most games.'}
+product ->> {'Great product', 'Fantastic product, part of the Apple ecosystem, lightweight and portable.', 'the product is fine as expected.', 'Very pleased with product.', "Great computer, haven't used a pc in 10 years I've been using macs but going back to school I needed a pic to run specific software and this has been a great product", 'Overall, great product, runs smooth, no problems.', "This product works perfectly so far,the only thing I have noticed was that when I buy it, it was windows 8 and since it was possible to change it to windows 10 for free, I did that; but after downloading windows 10, it's performance became a little bit slower, specially when I start it, and after starting then it becomes faster again, that was the only issue and other than that everything works perfectly and it fulfilled my expectations.", 'Great product!', "This is an excellent computer, I'm very pleased with this product.", 'Apple has gone and done it again with this awesome product!', 'Very pleased with this product.', 'Awesome product.', "My son loves this product , he wanted it very badly , it was a gift for Christmas and he's very happy."}
+programs ->> {'The computer has a nice keyboard (my first backlit keyboard, the display is very nice, the programs are responsive and startup is very fast compared to my Windows experience, plus the MacBook is light and compact.', 'Runs all programs quickly.'}
+purchase ->> {"I'm very happy with this purchase.", "I did a lot of looking out there for a laptop running 7 and I though I would end up with something refurbished, so I'm very pleased with this purchase.", 'The purchase was fast and the salesman was very professional.', 'Very happy with the purchase.', 'The price was great and so far we are very happy with this purchase.'}
+quality ->> {'Mouse pad is horrible and the quality is ridiculous.', 'the laptop has a ver y good quality and performances even for playing through the web'}
+quality of programs ->> {'The quality of programs and batter life are excellent.'}
+quick ->> {'This is good for any student who needs something quick, small, light, and mobile.'}
+ram ->> {'The RAM is just enough for me to play my music.', 'Great bargain price for a high-end laptop with lots of RAM.', 'Needs more RAM.', 'Computer has great memory and great RAM it is also easy to use'}
+ran ->> {'I bought this for my daughter for college and it has ran great.'}
+reliable ->> {'I love everything we bought, all are very reliable', 'It has been great its fast and reliable for a college student', 'It is fast, reliable, large screen, thin ... Definitely recommend.', 'it is easy to use and very reliable.'}
+resolution ->> {'But what I like the most is its resolution.', 'The touch screen flickers on and off, it crashes randomly, not to mention the poor resolution it randomly turns into.'}
+response ->> {'Nice performance in games, fast response, comfortable screen resolution.'}
+retina definition ->> {'lacks retina definition, great portability, not bad.'}
+run ->> {'I really love this laptop because not only does it have a lot of memory and run fast, but it is easy to use.'}
+runs ->> {'Runs fast and quiet.', 'Physical keyboard freezes, runs slow when it does work.', "its beautiful it just looks great and runs well I haven't installed any of my games yet but I am excited to I have used minecraft on it and it runs awesome.", 'Overall, great product, runs smooth, no problems.', 'The laptop runs fine.', 'This is a very good laptop color looks really good and it runs fast'}
+runs all my games ->> {'This laptop runs all my games perfectly.'}
+runs games ->> {'Runs games very smoothly as well'}
+salesman ->> {'The purchase was fast and the salesman was very professional.'}
+school work ->> {"I offered to get him any laptop he thought best for his purposes (school work mostly), and he wanted the newest version of the exact same 11inch MacBook Air - he loves it, and it's been perfect for his high school work!"}
+screen ->> {'The screen and size of this laptop is excellent!', 'I like the large screen and ability to flip.', 'The screen falls back sometime.', 'I love the big screen.', 'Just what I was looking for nice screen and really fast', 'Convertible 15.6 Touch-Screen Laptop screen is perfect for presentations and watching movies on a plain.', 'So happy to have this MAC, love the keyboard letter size, the screen is clear and sharp.', 'Then screen was freezing and shaking.', 'Light, large screen, fast.', 'This has a nice big, clear screen and a full-size keyboard.', 'Only two things to get use to: the mouse pad is very sensitive and the screen resizes when not expected and the black shows fingerprints.', 'It is fast, reliable, large screen, thin ... Definitely recommend.', 'Nice screen and solid build quality overall.', 'The computer had many problems that are manufacturing flaws known to Lenovo: , screen blacks out, computer turns off unexpectedly.', 'The customize-able keyboard is nice and the screen is large and crisp.', 'Crisp screen.', 'the screen is a lil small compared to my 15" dell.', 'Graphics look great, love the large screen.'}
+screen resolution ->> {'Nice performance in games, fast response, comfortable screen resolution.'}
+screen size ->> {'Very easy to navigate and a great screen size!'}
+screens ->> {"I'm more of a desktop person so I never liked tiny screens and keyboards.", "It works like a dream and it's huge, which I wanted because I like big screens."}
+search web ->> {'Good to send emails, search web.'}
+send emails ->> {'Good to send emails, search web.'}
+set up ->> {'Very easy to set up and use.', 'It is very easy to set up and use.', 'Set up was uncomplicated.', 'great first computer, easy set up, love the touch screen', 'Super easy to set up, updated to windows 10, works perfect.'}
+setup ->> {'It is easy to setup and use and has great memory and graphics capabilities.', 'Easy setup and looks real pretty'}
+share pictures ->> {'Makes it easy to share pictures and documents between all of them.'}
+shop ->> {'great price, easy to shop and pick it out.'}
+simplicity ->> {"Chrome OS does have some limitations but if that becomes a problem I can always install a more complete version of linux, so far though I've been able to do everything I need on chrome and the speed and simplicity of it is beautiful."}
+size ->> {'Love apple products and the size of this is perfect for traveling and everyday use', "It's a perfect size and its features as a whole are amazing", 'The screen and size of this laptop is excellent!', 'It has a good size and it is not heavy.', 'The only downside is that I need to buy a portable CD drive but the small size of the laptop is worth it.', "It's the perfect size and weight and works so well.", 'Perfect size for business traveling.', 'Small size and light weight make it easily portable.', 'Perfect size.', 'The size is perfect for taking to work.', 'I am traveling for a year and this is the perfect size to fit in my backpack!', 'Despite the small size the keyboard is easy and comfortable to use.', 'Very easy to use, LOVE the size.', 'The size and weight are perfect for traveling.', 'For school the size is perfect.', 'I love the size of the MacBook Air I bought.'}
+sleek design ->> {'I like the sleek design and amount of USB available.'}
+slim ->> {'Slim and lightweight.'}
+slow ->> {'I returned this laptop after a week because it was so slow.'}
+small ->> {"Small and lightweight, would have liked to known that there is a 8gb one on apple's website.", 'I love it, I love how small and compact it is.', 'Computer is light weight and small.', 'I love how it is small and light weight.', "He loves how light small it is for travel, it's fast enough to use for all his homework.", 'This is good for any student who needs something quick, small, light, and mobile.'}
+software ->> {'I needed to download some software to do everything I wanted, including a program for downloading photos.'}
+speaker ->> {"Windows 10 wouldn't run Firefox Browser and Pandora radio with out freezing up and the plug for the Ear phone kept turning the volume down on me so I couldn't listen to music and surf the web but the speaker's were OK it's not supper fast but works OK for small stuff email etc."}
+specs ->> {'Decent price, great specs.'}
+speed ->> {'Speed is fast, nice keyboard, and I love the touch screen.', 'Speed is just enough to run several things at a time.', 'A bit heavy to carry around but has great speed and works well for gaming.', "Chrome OS does have some limitations but if that becomes a problem I can always install a more complete version of linux, so far though I've been able to do everything I need on chrome and the speed and simplicity of it is beautiful.", 'I use a Lenovo Edge at work and love the ease and the speed, so I wanted one for my personal use and I am so happy with the chose that I made.', 'LOVE the speed!'}
+spreaders sheets ->> {'Needed a highly portable machine that could handle big presentations and spreaders sheets.'}
+staff ->> {'Helpful staff at the store', 'Had a very difficult time finding it because the staff were inept.'}
+start programs ->> {'I can switch quickly between programs, start programs quickly, and end them quickly, too.'}
+startup ->> {'The computer has a nice keyboard (my first backlit keyboard, the display is very nice, the programs are responsive and startup is very fast compared to my Windows experience, plus the MacBook is light and compact.', 'Good reliable laptop with quick Wi-Fi and startup.'}
+storage ->> {'Fast with lots of memory and storage.', 'super fast, great nvidia video player and so much storage.'}
+storage space ->> {'Apple MacBook has amazing storage space.'}
+sturdy ->> {'I love how light, sturdy, and thin it is.'}
+super fast ->> {'super fast, great nvidia video player and so much storage.'}
+support communities ->> {"There are great support communities with tutorials and instructions if you're willing to seek them out."}
+sync multiple devices ->> {'Love being able to sync multiple devices!'}
+tech ->> {'Already having tech problems and touch sensitivity is hard to adjust.'}
+thin ->> {'i buy this laptop its just awesome its light , fast and thin', 'I love how light, sturdy, and thin it is.', 'Really a thing of beauty.', "It's thin, light and durable enough to take everywhere you go."}
+thinner ->> {'This newer one is so much lighter and thinner.'}
+toshiba ->> {'Toshiba is an excellent laptop, this is the second Toshiba I have owned and I will stick to this brand.'}
+toshiba laptop ->> {'This Toshiba laptop is fantastic.', 'This is the third Toshiba laptop we have purchased for some of our grandchildren that are going to college .'}
+toshiba products ->> {'This was very disappointing t me, as I am a huge fan of Toshiba products, but my laptop had some glitch that made me have to return it.'}
+touch ->> {'I particularly like the battery life in this model, and the touch pad is very responsive even with just a light touch.', 'Super happy with it and it is also touch'}
+touch display ->> {'Touch display is great and Windows10 is a nice upgrade from 8.', 'Looks great, its light and portable, feels nice in hands, back lit keyboard, and the touch display is excellent.'}
+touch pad ->> {'Touch pad was awkward, requiring considerable effort to use.', "My only complaint is it's the worst touch pad I've ever used.", 'The touch pad does take a bit of getting used to...and I am not a fan of it....but it works adequately.', 'I particularly like the battery life in this model, and the touch pad is very responsive even with just a light touch.'}
+touch scree ->> {'The touch screen is great for many things.'}
+touch screen ->> {'The touch screen is really nice and is super responsive.', 'I feel so high tech...love the touch screen feature...great laptop...I work in corporate and keno a is all they use', 'Speed is fast, nice keyboard, and I love the touch screen.', 'Touch screen is very conveninent.', 'great first computer, easy set up, love the touch screen', 'The laptop is pretty good, the battery life is reasonable, and the touch screen is great.', 'Touch screen is really nice.', 'Love the touch screen feature.', 'The touch screen flickers on and off, it crashes randomly, not to mention the poor resolution it randomly turns into.', 'I like touch screen and good graphics also perfect for school work.', 'Super fast, love the touch screen, flip able screen, 1 terabyte storage and great price!'}
+touch screen features ->> {'I like the touch screen features.'}
+touch sensitivity ->> {'Already having tech problems and touch sensitivity is hard to adjust.'}
+touchpad ->> {'Good keyboard and touchscreen features but the touchpad is little too sensitive.'}
+touchscreen ->> {'This PC is perfect for someone looking for a reliable touchscreen PC that can handle applications with ease.'}
+touchscreen features ->> {'Good keyboard and touchscreen features but the touchpad is little too sensitive.'}
+track pad ->> {'great Chromebook but inconsistent track pad or untrained fingers.'}
+transferring my apps and files ->> {'The ease of transferring my Apps and files make my decision to switch even better.'}
+transition ->> {'It has been a smooth transition.'}
+transport ->> {'It is light weight and very thin so it is easy to transport.'}
+travel ->> {'Fits anywhere, easy to travel with, and boots up in an instant.', "It's also so easy to travel with."}
+turns off and on ->> {'Turns off and on very quickly.'}
+turns on/off ->> {'Also it so portable....easy to use and it turns on/off easily.'}
+updates ->> {"It's fast and updates quickly."}
+use ->> {'I really love this laptop because not only does it have a lot of memory and run fast, but it is easy to use.', 'Found the product easy to use and set up with the software I need', 'User friendly, light and easy to use.', 'This is a very good laptop and is very easy to use.', 'Computer works very well and is very easy to use.', 'Also it so portable....easy to use and it turns on/off easily.', 'It is simple to use, requires almost no maintenance and weighs next to nothing.', 'Took a few times to learn the different screen workings but now is easy to use.', "It's light, easy to use and I'm quickly adjusting!", "It's not heavy and not big so perfect for daily carry and use.", 'it is easy to use and very reliable.', 'Very easy to set up and use.', 'ease of use by employees.', 'It is very easy to set up and use.', 'Computer has great memory and great RAM it is also easy to use', 'Easy to use and a great price.', 'Very easy to use, LOVE the size.', 'Laptop is very light weight and easy to use.', "I was a little hesitant to use the chrome operating system but windows is so cumbersome that's it's not an option for me on a laptop anymore."}
+user friendly ->> {'User friendly, light and easy to use.', "It's user friendly."}
+value ->> {'This laptop is a fantastic value.'}
+viewing our multiple security cameras ->> {'Excellent for viewing our multiple security cameras'}
+weight ->> {'Very light weight and portable.', 'Like many Mac laptops, the MacBook Air was light weight just the way I needed it!', 'Nice machine, light weight, compact and powerful processing.', 'It is light weight and very thin so it is easy to transport.', 'Computer is light weight and small.', 'I love how it is small and light weight.', "It's the perfect size and weight and works so well.", 'Small size and light weight make it easily portable.', 'Laptop is very light weight and easy to use.', 'The size and weight are perfect for traveling.'}
+wi-fi ->> {"Also, it's had wi-fi problems but so far I love it.", 'Good reliable laptop with quick Wi-Fi and startup.'}
+wifi ->> {'I have found that many USB devices I used with other computers work well with the Mac -- I use a USB SD card reader (the Mac has no SD slot), am typing this using a USB to ethernet adapter (my wifi works great too, just testing the adapter today), bought a 1 TB external USB HDD that I use for backups (using a third party backup-disk image software) and storage.'}
+windows ->> {'It has Windows which runs smoothly and all the essentials I need in a computer.', "I was a little hesitant to use the chrome operating system but windows is so cumbersome that's it's not an option for me on a laptop anymore."}
+windows 10 ->> {'Windows 10 is a lot different and I am still feeling my way around and trying to get set up complete.'}
+windows 8 ->> {'Too bad for the Windows 8, sometimes it gets in sleep mode and this is annoying.'}
+windows 8 problems ->> {'I like the laptop hate the windows 8 problems my laser printer is not compatible with Windows 8 was with 7.'}
+windows 8.1 ->> {'Love all the hardware features of this laptop but Windows 8.1 is really really problematic.'}
+windows10 ->> {'Touch display is great and Windows10 is a nice upgrade from 8.'}
+works ->> {'Works great but got a virus relatively quick nice display', 'Super easy to set up, updated to windows 10, works perfect.', 'Works great.', 'Other than that it works great.', "It's the perfect size and weight and works so well.", 'Wanted an easy to carry laptop to travel with, this works out great.', 'Works well.', 'I replaced HDD with SSD so everything works super fast and quiet.'}

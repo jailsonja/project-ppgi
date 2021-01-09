@@ -1,0 +1,978 @@
+<review codeProduct=4505604 idReview=1>
+	<sentence idSentence=1>The DVD has worked great so far.</sentence>
+	<opinion>aspect="DVD" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Not an issue sand would recommend it to anyone.</sentence>
+</review>
+<review codeProduct=4790684 idReview=1>
+	<sentence idSentence=1>This was indeed a great purchase.</sentence>
+	<opinion>aspect="purchase" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>They allowed me to price match walmart's price.</sentence>
+	<sentence idSentence=3>It works great!</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>!</sentence>
+</review>
+<review codeProduct=4790684 idReview=2>
+	<sentence idSentence=1>Bought two for our church.</sentence>
+	<sentence idSentence=2>Easy to install and use.</sentence>
+	<opinion>aspect="install" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=3>
+	<sentence idSentence=1>This is my second Sony DVD player.</sentence>
+	<sentence idSentence=2>They provide good quality pictures and are great for listening to music and books on CD!</sentence>
+	<opinion>aspect="quality picture" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="listening to music and books" sentiment="great" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=4>
+	<sentence idSentence=1>WORKS VERY WELL IN OUR FAMILY ROOM, THE PICTURE QUALITY AS WELL AS THE SOUND IS EXCELLENT.</sentence>
+	<opinion>aspect="SOUND" sentiment="EXCELLENT" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<opinion>aspect="WORKS" sentiment="WELL" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="PICTURE QUALITY" sentiment="WELL" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>I HIGHLY RECOMMEND IT TO OTHERS.</sentence>
+	<sentence idSentence=3>THANKS</sentence>
+</review>
+<review codeProduct=4790684 idReview=5>
+	<sentence idSentence=1>This player was easy to set up and use.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The picture quality is very good, as was the sound.</sentence>
+	<opinion>aspect="picture quality" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="sound" sentiment="good" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<sentence idSentence=3>The price was also very reasonable.</sentence>
+	<opinion>aspect="price" sentiment="reasonable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>Very pleased with this purchase.</sentence>
+</review>
+<review codeProduct=4790684 idReview=6>
+	<sentence idSentence=1>I just needed a basic DVD Player for an older model (2006) TV that is not a Flat Screen.</sentence>
+	<sentence idSentence=2>This fits the bill perfectly &amp; like the product description says, it has a "crisp, smooth picture with quality audio".</sentence>
+	<opinion>aspect="fits the bill" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="picture" sentiment="crisp" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="picture" sentiment="smooth" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="audio" sentiment="quality" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<sentence idSentence=3>The price was very reasonable, as well.</sentence>
+	<opinion>aspect="price" sentiment="reasonable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>I really appreciated the salesman who showed me the various DVD Players as his product knowledge helped me in my decision.</sentence>
+	<opinion>aspect="salesman" sentiment="appreciated" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>I am very pleased with this DVD Player as a player with more features would have made no difference on an old TV like mine.</sentence>
+	<opinion>aspect="DVD Player" sentiment="pleased" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=7>
+	<sentence idSentence=1>Just looking for a reasonable cost just to have an extra DVD player</sentence>
+	<opinion>aspect="cost" sentiment="reasonable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=8>
+	<sentence idSentence=1>a good ,no frills dvd player.</sentence>
+	<opinion>aspect="dvd player" sentiment="no frills" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="dvd player" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>standard hook up, nothing to mess up.</sentence>
+	<opinion>aspect="hook up" sentiment="standard" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=9>
+	<sentence idSentence=1>I bought the dvd as a gift for a friend and she loves it and uses it every day</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=4790684 idReview=10>
+	<sentence idSentence=1>I use the DVD player for safety presentations, interfaced with a projector.</sentence>
+	<opinion>aspect="DVD player" sentiment="safety presentations" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It fits easily into the projector carrier so I can use 1 bag for my presentation media.</sentence>
+	<opinion>aspect="fits" sentiment="easily" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=3>Clear picture, easy to use.</sentence>
+	<opinion>aspect="picture" sentiment="Clear" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=11>
+	<sentence idSentence=1>The sony dvd player is simple to setup and use.</sentence>
+	<opinion>aspect="sony dvd player" sentiment="simple" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="simple" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Works great and no issues.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>If you want a simple and reliable dvd player and don't want to spend much cash, this is the one.</sentence>
+	<opinion>aspect="simple" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<opinion>aspect="reliable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=12>
+	<sentence idSentence=1>Product has very good picture and is easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="picture" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>Great quality for the price.</sentence>
+	<opinion>aspect="quality" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Would recommend it.</sentence>
+</review>
+<review codeProduct=4790684 idReview=13>
+	<sentence idSentence=1>haven't really used it.. need to use it a few times</sentence>
+</review>
+<review codeProduct=4790684 idReview=14>
+	<sentence idSentence=1>Needed a basic DVD player at a reasonable price.</sentence>
+	<opinion>aspect="price" sentiment="reasonable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>This totally was what I was looking for.</sentence>
+	<sentence idSentence=3>Quality at a great price.</sentence>
+	<opinion>aspect="price" sentiment="great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=15>
+	<sentence idSentence=1>I LOVE WATCHING DVD'S in the comfort of my room, in bed snuggled up next to my dog.</sentence>
+	<sentence idSentence=2>I don't have worry about my husband not wanting to watch the movie that I want to.</sentence>
+	<sentence idSentence=3>It's wonderful.</sentence>
+	<opinion>aspect="wonderful" sentiment="" polarity="Positive" aspectClass="General" type="implicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=16>
+	<sentence idSentence=1>We bought this DVD player for our workout area.</sentence>
+	<sentence idSentence=2>It's small yet durable.</sentence>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="durable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=3>So far it is working great!</sentence>
+	<opinion>aspect="working" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=17>
+	<sentence idSentence=1>Affordable.</sentence>
+	<opinion>aspect="Affordable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Good quality for the money.</sentence>
+	<opinion>aspect="quality" sentiment="Good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Doesn't have optical cable output.</sentence>
+</review>
+<review codeProduct=4790684 idReview=18>
+	<sentence idSentence=1>We bought this when we upgraded our for RV TV the previous one had a DVR built in..</sentence>
+	<sentence idSentence=2>This one is small easy to op pirate and quality picture it takes up hardly any room great for small areas.</sentence>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="easy" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=19>
+	<sentence idSentence=1>I just needed a basic DVD player to play movies in a spare room.</sentence>
+	<sentence idSentence=2>Nice small unit that fits perfectly on top of my cable box.</sentence>
+	<opinion>aspect="fits" sentiment="perfectly" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="Nice small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=20>
+	<sentence idSentence=1>Brought this for my 7 year old great-granddaughter.</sentence>
+	<sentence idSentence=2>Easy for her to operate.</sentence>
+	<opinion>aspect="operate" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Great value for the price.</sentence>
+	<opinion>aspect="price" sentiment="Great value" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=21>
+	<sentence idSentence=1>I needed a Simple DVD Player for the office..</sentence>
+</review>
+<review codeProduct=4790684 idReview=22>
+	<sentence idSentence=1>This player has a very small footprint and tons of features.</sentence>
+	<opinion>aspect="footprint" sentiment="small" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="tons" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Everything you might need in one unit.</sentence>
+	<sentence idSentence=3>Loads menu quickly.</sentence>
+	<opinion>aspect="Loads menu" sentiment="quickly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=23>
+	<sentence idSentence=1>This is the fourth Sony I have purchased, and I have been more than satisfied with these products.</sentence>
+	<opinion>aspect="Sony" sentiment="satisfied" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=24>
+	<sentence idSentence=1>Will purchase another one.</sentence>
+	<sentence idSentence=2>Great buy..............</sentence>
+	<opinion>aspect="buy" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790684 idReview=25>
+	<sentence idSentence=1>bought this for my Mother.</sentence>
+	<sentence idSentence=2>She is happy with the simplicity of it.</sentence>
+	<opinion>aspect="simplicity" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=1>
+	<sentence idSentence=1>Now days some of us still want a simple DVD player just works and this model does it right.</sentence>
+</review>
+<review codeProduct=4790739 idReview=2>
+	<sentence idSentence=1>affordable dvd, easy setup, sharp pic, hdmi slots, luv it!!!!!!!!</sentence>
+	<opinion>aspect="dvd" sentiment="affordable" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pic" sentiment="sharp" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>!</sentence>
+</review>
+<review codeProduct=4790739 idReview=3>
+	<sentence idSentence=1>My ex needed something just for movies.</sentence>
+	<sentence idSentence=2>And she wanted it cheap.</sentence>
+	<sentence idSentence=3>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=4>
+	<sentence idSentence=1>failry good product for budget conscious person and it's good for kids room; however, it does not show very good colors with HD high end quality TV</sentence>
+	<opinion>aspect="product" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="colors" sentiment="not show very good" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=5>
+	<sentence idSentence=1>We needed it so we bought it.</sentence>
+	<sentence idSentence=2>Had a great salesperson who probably thought I was NUTS!</sentence>
+	<opinion>aspect="salesperson" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=6>
+	<sentence idSentence=1>Very good player.</sentence>
+	<opinion>aspect="player" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Sony quality is really good, Connect using USB Port and the quality is real good</sentence>
+	<opinion>aspect="Sony quality" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="quality" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=7>
+	<sentence idSentence=1>I bought this for playing my kids cartoon dvds and the kid is happy</sentence>
+</review>
+<review codeProduct=4790739 idReview=8>
+	<sentence idSentence=1>This is a Sony.</sentence>
+	<sentence idSentence=2>In my opinion it's enough said.</sentence>
+	<sentence idSentence=3>I am a big fan of any Sony product.</sentence>
+	<opinion>aspect="Sony product" sentiment="fan" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>This is just the right size and extremely easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="size" sentiment="right" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=9>
+	<sentence idSentence=1>It simply does what it's supposed to do and I love the HDMI connection.</sentence>
+	<opinion>aspect="HDMI connection" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=10>
+	<sentence idSentence=1>DVD player easy to setup and use, good price, and upscales.</sentence>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=11>
+	<sentence idSentence=1>This was easy to connect to my new TV and easy to operate once I got it connected.</sentence>
+	<opinion>aspect="connect" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The picture quality is good and the sound was movie quality.</sentence>
+	<opinion>aspect="picture quality" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="sound" sentiment="movie quality" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<sentence idSentence=3>A good product for the everyday not so savvy watcher.</sentence>
+	<opinion>aspect="product" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=12>
+	<sentence idSentence=1>My previous Samsung switched to HDMI automatically as soon as a dvd was inserted.</sentence>
+	<sentence idSentence=2>This Sony you must switch to HDMI with the remote.</sentence>
+	<sentence idSentence=3>I figured with a Sony TV/Dvd combo would be better than with a Sony/Samsung, but I was wrong.</sentence>
+	<sentence idSentence=4>I still like it, but not what I was expecting.</sentence>
+</review>
+<review codeProduct=4790739 idReview=13>
+	<sentence idSentence=1>We had a cheap one that broke in a few months with only a couple moves.</sentence>
+	<sentence idSentence=2>Got this one on sale for $10 more than the last one and love it.</sentence>
+	<sentence idSentence=3>Picture is great on her basic TV and it can okay any type of DVD, so we don't have to worry if it is BLU-Ray or not.</sentence>
+	<opinion>aspect="Picture" sentiment="great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=4>Remote is basic and it hooked up really easy.</sentence>
+	<opinion>aspect="Remote" sentiment="basic" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="hooked up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Plus it is compact so it fit perfect on her chest of drawers.</sentence>
+	<opinion>aspect="fit" sentiment="perfect" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=14>
+	<sentence idSentence=1>Easy to set up and use.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Even kids enjoy using it and watch their favorite DVD-s without any adults assistance.Thank you</sentence>
+</review>
+<review codeProduct=4790739 idReview=15>
+	<sentence idSentence=1>great DVD player.</sentence>
+	<opinion>aspect="DVD player" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I ended up getting 2.</sentence>
+	<sentence idSentence=3>Picture is great.</sentence>
+	<opinion>aspect="Picture" sentiment="great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=4>I bought this to replace one I had for years that eventually died.</sentence>
+</review>
+<review codeProduct=4790739 idReview=16>
+	<sentence idSentence=1>Installs easy, HDMI compatible, compact.</sentence>
+	<opinion>aspect="Installs" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="HDMI" sentiment="compatible" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>Affordable compared to others that are available.</sentence>
+</review>
+<review codeProduct=4790739 idReview=17>
+	<sentence idSentence=1>bought because of the HD option, easy set up, but the menu is somewhat confusing.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="menu" sentiment="confusing" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=18>
+	<sentence idSentence=1>I like this DVD player very much.</sentence>
+	<opinion>aspect="DVD player" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Using an HDMI cable and an HDTV, regular DVDs appear to have Blue Ray quality.</sentence>
+</review>
+<review codeProduct=4790739 idReview=19>
+	<sentence idSentence=1>Player does a great job up-converting regular DVDs.</sentence>
+	<sentence idSentence=2>Had a slight problem figuring out audio compatibility with a sound system, but the Sony Customer Service group was very helpful resolving this issue.</sentence>
+	<opinion>aspect="Sony Customer Service group" sentiment="helpful" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="audio compatibility" sentiment="problem" polarity="Negative" aspectClass="Audio" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=20>
+	<sentence idSentence=1>I was skeptical about up version, but I can tell a difference with the picture quality.</sentence>
+	<sentence idSentence=2>Still not as good as HD, but better than my old DVD player without upversion.</sentence>
+	<sentence idSentence=3>And pretty good price point.</sentence>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=21>
+	<sentence idSentence=1>Bought this for a spare room that I use for kids.</sentence>
+	<sentence idSentence=2>They have used it quite a bit this year and it is still working</sentence>
+</review>
+<review codeProduct=4790739 idReview=22>
+	<sentence idSentence=1>It was what I expected for ordering on a short time frame</sentence>
+</review>
+<review codeProduct=4790739 idReview=23>
+	<sentence idSentence=1>Just an ordinary DVD player.</sentence>
+	<opinion>aspect="DVD player" sentiment="ordinary" polarity="Neutral" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Nothing extra associated with it but it plays videos just fine.</sentence>
+	<opinion>aspect="plays videos" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=24>
+	<sentence idSentence=1>Try it.</sentence>
+	<sentence idSentence=2>Compare to blueray.</sentence>
+	<sentence idSentence=3>Is the difference worth the price?</sentence>
+</review>
+<review codeProduct=4790739 idReview=25>
+	<sentence idSentence=1>This is a nice, small, basic DVD player.</sentence>
+	<opinion>aspect="DVD player" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="DVD player" sentiment="small" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="DVD player" sentiment="basic" polarity="Neutral" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I don't have it connected with an HDMI cable and the picture is still great.</sentence>
+	<opinion>aspect="picture" sentiment="great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=26>
+	<sentence idSentence=1>Its a worth while buy.</sentence>
+	<sentence idSentence=2>I would recommend this to a friend.</sentence>
+</review>
+<review codeProduct=4790739 idReview=27>
+	<sentence idSentence=1>Nice little unit, plays great.</sentence>
+	<opinion>aspect="plays" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="unit" sentiment="Nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Don't forget to buy the cord that is not included.</sentence>
+</review>
+<review codeProduct=4790739 idReview=28>
+	<sentence idSentence=1>If you're looking for a low-priced, great quality, easy-to-install, and simple-to-operate upconverting DVD player, this is the one for you.</sentence>
+	<opinion>aspect="quality" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="easy-to-install" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<opinion>aspect="low-priced" sentiment="" polarity="Positive" aspectClass="Price" type="implicit"</opinion>
+	<opinion>aspect="simple-to-operate" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>It took about 5 minutes to unpack, hook up to our TV, and figure out how to operate the remote.</sentence>
+	<sentence idSentence=3>And the picture is almost Blu-ray quality too.</sentence>
+	<sentence idSentence=4>I recommend it without hesitation to anyone who does not want to buy a more expensive Blu-ray player.</sentence>
+</review>
+<review codeProduct=4790739 idReview=29>
+	<sentence idSentence=1>Great picture, great sound, incredibly easy set up and its so small!</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="sound" sentiment="great" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<opinion>aspect="picture" sentiment="Great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>What more could you want?</sentence>
+	<sentence idSentence=3>luckily I had an HDMI cable already and thats all I needed to plug it in to the tv and start watching.</sentence>
+	<sentence idSentence=4>And I got it within 2 days of ordering it.</sentence>
+	<sentence idSentence=5>Very happy with this purchase Great item, especially for the price.</sentence>
+	<opinion>aspect="item" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=30>
+	<sentence idSentence=1>Got this to replace an old one that died after 10 years.....setup was a cinch and operationality is a piece of cake.</sentence>
+	<opinion>aspect="operationality" sentiment="piece of cake" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="cinch" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Love it, love it, love it!</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=4790739 idReview=31>
+	<sentence idSentence=1>I bought this to replace another DVD player that finally broke.</sentence>
+	<sentence idSentence=2>This one is much better and boots up faster than some of the others.</sentence>
+	<sentence idSentence=3>That is one thing I really like about this DVD player.</sentence>
+</review>
+<review codeProduct=4790739 idReview=32>
+	<sentence idSentence=1>I bought this for the kids to watch their DVDs.</sentence>
+	<sentence idSentence=2>Seems sturdy enough to withstand their treatment and easy to operate.</sentence>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="sturdy" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=33>
+	<sentence idSentence=1>We have only used the product one time &amp; were pleased with ease of use &amp; value.</sentence>
+	<opinion>aspect="use" sentiment="ease" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4790739 idReview=34>
+	<sentence idSentence=1>I bought this dvd player for a young teen who's previous player quit working.</sentence>
+	<sentence idSentence=2>The Sony player was smaller than her original one, yet had much better features.</sentence>
+	<sentence idSentence=3>I was amazed at the quality of the pictures from the dvds played on it.</sentence>
+	<opinion>aspect="quality of the pictures" sentiment="amazed" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=4>Definitely a good player for someone on a budget or a young teen.</sentence>
+	<opinion>aspect="player" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=5>Hopefully at some point, blu-ray players will be available at similar prices by Sony.</sentence>
+</review>
+<review codeProduct=6496108 idReview=1>
+	<sentence idSentence=1>This is a great DVD player,</sentence>
+	<opinion>aspect="DVD player" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=6496108 idReview=2>
+	<sentence idSentence=1>Good DVD player for the money, it plays most format.</sentence>
+	<opinion>aspect="DVD player" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=1>
+	<sentence idSentence=1>DVD works great with my TV I installed wiring was a breeze and had no problem mounting unit.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=2>
+	<sentence idSentence=1>This DVD player is a great value for the price, nothing fantastic just a solid player.</sentence>
+	<opinion>aspect="player" sentiment="solid" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="DVD playe" sentiment="great value" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=3>
+	<sentence idSentence=1>This DVD player works great and is very useful for people who just want a straightforward DVD player without a bunch of extra buttons and fancy features.</sentence>
+	<opinion>aspect="DVD player" sentiment="useful" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>We got this for my grandpa and he loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>He uses it daily.</sentence>
+</review>
+<review codeProduct=7456096 idReview=4>
+	<sentence idSentence=1>Bought as gift for a child.</sentence>
+	<sentence idSentence=2>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Good resolution on regular DVD's.</sentence>
+	<opinion>aspect="resolution" sentiment="Good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=4>Compact unit.</sentence>
+	<opinion>aspect="unit" sentiment="Compact" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=5>Easy to hook up.</sentence>
+	<opinion>aspect="hook up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=5>
+	<sentence idSentence=1>A decent DVD player.</sentence>
+	<opinion>aspect="DVD player" sentiment="decent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Not fancy.</sentence>
+	<sentence idSentence=3>Basic.</sentence>
+	<sentence idSentence=4>I don't really care about picture quality though, but it seems fine to me :) It works, and I like it.</sentence>
+	<opinion>aspect="it" sentiment="like" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="It" sentiment="works" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=7456096 idReview=6>
+	<sentence idSentence=1>This DVD player does the job and is cute as well as compact.</sentence>
+	<opinion>aspect="DVD player" sentiment="cute" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>For the price it is everything I need.</sentence>
+	<sentence idSentence=3>I do not watch TV so, every now and again I will watch a movie.</sentence>
+	<sentence idSentence=4>Currently no complaints.</sentence>
+</review>
+<review codeProduct=7456096 idReview=7>
+	<sentence idSentence=1>Good starter DVD player, I would recommend this to another user.</sentence>
+	<opinion>aspect="DVD player" sentiment="Good starter" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=8>
+	<sentence idSentence=1>This goes great if you have limited space for your electronics.</sentence>
+	<sentence idSentence=2>The quality of player is just as great as the ones that costs a lot.</sentence>
+	<opinion>aspect="quality of player" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=9>
+	<sentence idSentence=1>I was looking for something basic and didn't want to spend a lot of money.</sentence>
+	<sentence idSentence=2>This player is perfect...</sentence>
+	<opinion>aspect="player" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>It is easy to use, does a great job playing DVDs and the price was right!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="playing DVDs" sentiment="great job" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="right" polarity="Neutral" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=10>
+	<sentence idSentence=1>I thought this tv would be a good match for the insignia tv we bought for my son's play area, but it wouldn't work out of the box.</sentence>
+	<sentence idSentence=2>No HDMI - the price is right for a legacy DVD player (when it works).</sentence>
+	<opinion>aspect="price" sentiment="right" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=11>
+	<sentence idSentence=1>Bought it for my daughter.</sentence>
+	<sentence idSentence=2>She's a college student and lives in a dorm.</sentence>
+	<sentence idSentence=3>what i liked about the product is that it's small and does it's work.</sentence>
+	<sentence idSentence=4>Great picture and very easy to set up.</sentence>
+	<opinion>aspect="picture" sentiment="Great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=12>
+	<sentence idSentence=1>NICE SMALL DVD PLAYER THAT YOU CAN EVEN TAKE WITH YOU ON TRIPS.</sentence>
+	<opinion>aspect="DVD PLAYER" sentiment="NICE" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>ALLOWS SO MUCH EXTRA ROOM ON THE TV STAND</sentence>
+</review>
+<review codeProduct=7456096 idReview=13>
+	<sentence idSentence=1>good product, easy to use.</sentence>
+	<opinion>aspect="product" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>needed a new dvd player and this does all I need it to do</sentence>
+</review>
+<review codeProduct=7456096 idReview=14>
+	<sentence idSentence=1>This dvd player is great for the price.</sentence>
+	<opinion>aspect="dvd player" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The remote is conveinent to use and the "pause" works instantly unlike ones i have had in the past.</sentence>
+	<opinion>aspect="remote" sentiment="conveinent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=15>
+	<sentence idSentence=1>It was hard to get it figured out at first from the instructions on the cable set up.</sentence>
+	<opinion>aspect="figured out" sentiment="hard" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Once we got the right cable (all 5 connections required) it was easy to view.</sentence>
+	<opinion>aspect="view" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The picture goes well with the tv.</sentence>
+	<sentence idSentence=4>The remote was easy to use.</sentence>
+	<opinion>aspect="remote" sentiment="easy to use" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Great for just watching a movie.</sentence>
+</review>
+<review codeProduct=7456096 idReview=16>
+	<sentence idSentence=1>I just needed a simple dvd player for my grandson, and this worked perfectly for him and I , we love it</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=7456096 idReview=17>
+	<sentence idSentence=1>This was purchased to go with the new TV we bought for our camper.</sentence>
+	<sentence idSentence=2>Good picture and easy to set up and IF it was stolen, we aren't out a lot of money.</sentence>
+	<opinion>aspect="picture" sentiment="Good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>So easy to use, even my husband can do it.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=18>
+	<sentence idSentence=1>This is a good basic DVD player, but it has one shortcoming that I'm finding annoying.</sentence>
+	<opinion>aspect="DVD player" sentiment="good basic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>There is no display of time elapsed or current track during movie play.</sentence>
+	<sentence idSentence=3>The DVD player shuts itself off fairly quickly when you pause it, so you may lose your place in the movie when you try to resume playing it.</sentence>
+	<sentence idSentence=4>Some movies will automatically restart at the point where you paused, but others just go back to the beginning.</sentence>
+	<sentence idSentence=5>If you tend to watch things from beginning to end without stopping, this player is fine, but if you are prone to interruptions, consider getting a more full-featured player.</sentence>
+</review>
+<review codeProduct=7456096 idReview=19>
+	<sentence idSentence=1>Very easy to use, great for kids rooms, or for small spaces.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to hookup.</sentence>
+	<opinion>aspect="hookup" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Easy remote control.</sentence>
+	<opinion>aspect="remote control" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=20>
+	<sentence idSentence=1>I wanted to smash the thing to bits.</sentence>
+	<sentence idSentence=2>You get what you pay for.</sentence>
+	<sentence idSentence=3>Each time you pause or stop the player shuts itself off after a very short time.</sentence>
+	<sentence idSentence=4>I had to reload the disc, sit through the previews, set-up the DVD with subtitles, etc each time I stopped!</sentence>
+	<sentence idSentence=5>There is no digital readout on the machine so you can't see where you were in the movie.</sentence>
+</review>
+<review codeProduct=7456096 idReview=21>
+	<sentence idSentence=1>this is a very compact dvd player works great with all tvs and is easy to set up for everyone and easy to move from room to room</sentence>
+	<opinion>aspect="move" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="dvd player" sentiment="compact" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=22>
+	<sentence idSentence=1>Awesome inexpensive DVD player connected easily to Insignia TV.</sentence>
+	<opinion>aspect="connected" sentiment="easily" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="inexpensive" sentiment="" polarity="Positive" aspectClass="Price" type="implicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=23>
+	<sentence idSentence=1>Good item for the price, easy to use....not that difficult my grand kids have learned how to work it with no problem.</sentence>
+	<opinion>aspect="price" sentiment="Good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=24>
+	<sentence idSentence=1>Does what my mother needs it for.</sentence>
+	<sentence idSentence=2>Great price</sentence>
+	<opinion>aspect="price" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=7456096 idReview=25>
+	<sentence idSentence=1>I guess you get what you play for, this player is a piece of junk.</sentence>
+	<opinion>aspect="player" sentiment="piece of junk" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>No matter what TV I hooked it up to or what connections I use the picture was awful.</sentence>
+	<opinion>aspect="picture" sentiment="awful" polarity="Negative" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=3>I will be returning this as soon as possible!!</sentence>
+	<sentence idSentence=4>!</sentence>
+</review>
+<review codeProduct=7456096 idReview=26>
+	<sentence idSentence=1>Great DVD for the price.</sentence>
+	<opinion>aspect="price" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Works great and was easy to set up</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8228488 idReview=1>
+	<sentence idSentence=1>Tried to order an S53 model but thought I was upgrading to something better.</sentence>
+	<sentence idSentence=2>Nope, this model does not show anything on the face to let you know where you are at in the cd.</sentence>
+	<sentence idSentence=3>I do a lot of slip tracks so yopu have a need to know where you are going.</sentence>
+</review>
+<review codeProduct=8228488 idReview=2>
+	<sentence idSentence=1>This DVD player is great,it meets all your needs and with 1080p upconversion it's very easy too hook up with great sound and video.</sentence>
+	<opinion>aspect="DVD player" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="sound" sentiment="great" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<opinion>aspect="video" sentiment="great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="hook up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8228488 idReview=3>
+	<sentence idSentence=1>This DVD Player is compact, slim and plays well through HDMI with the 1080p up-conversion.</sentence>
+	<opinion>aspect="plays" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="slim" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>The Web add showed component output which would have been best for my use, but no component output was available.</sentence>
+	<sentence idSentence=3>It does work great with my Panasonic HDTV.</sentence>
+	<opinion>aspect="work" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8228488 idReview=4>
+	<sentence idSentence=1>plays great with the upconversion.</sentence>
+	<opinion>aspect="plays" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>the usb slot in the front comes in handy to plug in a stick drive or hard drive</sentence>
+</review>
+<review codeProduct=8971008 idReview=1>
+	<sentence idSentence=1>If you still use a VCR, this one should fit the bill.</sentence>
+</review>
+<review codeProduct=8971008 idReview=2>
+	<sentence idSentence=1>I like the first one so much, I bought a second one for another TV.</sentence>
+</review>
+<review codeProduct=8971008 idReview=3>
+	<sentence idSentence=1>Just plug it in and play your VHS and DVD's.</sentence>
+	<sentence idSentence=2>No special knowledge required,</sentence>
+</review>
+<review codeProduct=8971008 idReview=4>
+	<sentence idSentence=1>was considering just replacing last dual unit with dvd only unit since we really watch dvd's then the grandbaby came along.....Gotta show the Disney VHS flicks in all its un-technolgy to appreciate :)</sentence>
+</review>
+<review codeProduct=8971008 idReview=5>
+	<sentence idSentence=1>Performs as expected.</sentence>
+	<sentence idSentence=2>A little pricey but you can hardly find any new combo players nowadays</sentence>
+	<opinion>aspect="pricey" sentiment="little" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=6>
+	<sentence idSentence=1>very easy machine to use, set up of machine was fast.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=7>
+	<sentence idSentence=1>This seems to be the only way to get a VCR today, but we are quite happy with the machine.</sentence>
+	<opinion>aspect="machine" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>We have been able to watch several of our old Video movies, and they have good picture and sound quality for videos.</sentence>
+	<opinion>aspect="sound" sentiment="quality" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+	<opinion>aspect="picture" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=3>There are very few makers of these machines, but we are pleased with this one.</sentence>
+	<sentence idSentence=4>The VCR part is nice and quiet and rewinds quickly and quietly.</sentence>
+	<opinion>aspect="VCR part" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="VCR part" sentiment="quiet" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="rewinds" sentiment="quickly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="rewinds" sentiment="quietly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>With so little choice on the market, thankfully it is a good machine.</sentence>
+	<opinion>aspect="machine" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=8>
+	<sentence idSentence=1>If you're like me and still have some VHS tapes around that you can't give up and can't replace with Blu-Ray, then you'll enjoy this player.</sentence>
+</review>
+<review codeProduct=8971008 idReview=9>
+	<sentence idSentence=1>BIGGEST PROBLEM IS WITH TIME-WARNER WHICH WAS NOT USER FRIENDLY WITH SETUP PROCESS.</sentence>
+	<opinion>aspect="SETUP PROCESS" sentiment="NOT USER FRIENDLY" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=10>
+	<sentence idSentence=1>printer was exactly what i needed at a great price</sentence>
+	<opinion>aspect="price" sentiment="great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=11>
+	<sentence idSentence=1>Little disappointed at the motion blur, particularly with movies.</sentence>
+	<opinion>aspect="motion blu" sentiment="disappointed" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=12>
+	<sentence idSentence=1>I needed both a DVD and VHS player for my Health classes, as I still have a few curriculum movies on tape.</sentence>
+	<sentence idSentence=2>This device allows me to use both and it works nicely with our built in projectors.</sentence>
+	<sentence idSentence=3>Recommend for anyone needing both.</sentence>
+</review>
+<review codeProduct=8971008 idReview=13>
+	<sentence idSentence=1>I would buy this product again and also recommend to someone elso</sentence>
+</review>
+<review codeProduct=8971008 idReview=14>
+	<sentence idSentence=1>the remote graphics are terrible.</sentence>
+	<opinion>aspect="remote graphics" sentiment="terrible" polarity="Negative" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>very difficult to read.</sentence>
+	<opinion>aspect="read" sentiment="difficult" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>would be much better if graphics were white in color.</sentence>
+	<sentence idSentence=4>difficult to program for recording times.</sentence>
+	<opinion>aspect="program for recording" sentiment="difficult" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>i just quit trying.</sentence>
+	<sentence idSentence=6>DICKIE</sentence>
+</review>
+<review codeProduct=8971008 idReview=15>
+	<sentence idSentence=1>Good working unit - price was fair - happy with its performance</sentence>
+	<opinion>aspect="price" sentiment="fair" polarity="Neutral" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="performance" sentiment="happy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="unit" sentiment="Good working" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=16>
+	<sentence idSentence=1>The installation of the DVD/VHS player was very easy.</sentence>
+	<opinion>aspect="installation" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The quality is what is expected for the price paid.</sentence>
+	<opinion>aspect="quality" sentiment="expected" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I have not had any issues with this unit.</sentence>
+	<sentence idSentence=4>Very well made.</sentence>
+</review>
+<review codeProduct=8971008 idReview=17>
+	<sentence idSentence=1>The first player I purchased ate the VHS videotapes- the second player I exchanged it with works just fine functions well and easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Staff made experience very easy.</sentence>
+	<opinion>aspect="experience" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=18>
+	<sentence idSentence=1>It was a decent player until it ate a tape.</sentence>
+	<opinion>aspect="player" sentiment="decent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I was using it a ton though due to a project</sentence>
+</review>
+<review codeProduct=8971008 idReview=19>
+	<sentence idSentence=1>Plays VHS tapes and DVDs fine.</sentence>
+	<opinion>aspect="Plays" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>You have to have different connections for VHS and DVD, which I consider a serious drawback.</sentence>
+	<opinion>aspect="different connections" sentiment="drawback" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>It is not really 'unified,' the VHS and DVD are completely different control UIs through the remote.</sentence>
+	<sentence idSentence=4>If you must have the low price, and don't mind the segregation, this deck does the job fine.</sentence>
+	<opinion>aspect="job" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="low" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=20>
+	<sentence idSentence=1>The DVD only plays jpeg files and I can't get the vhs to record anything.</sentence>
+	<sentence idSentence=2>It'll play an existing vhs tape but can't record on it.</sentence>
+	<sentence idSentence=3>I tried to get in touch with support/Toshiba but they have been non-responsive.</sentence>
+	<opinion>aspect="support/Toshiba" sentiment="non-responsive" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>A waste of money!</sentence>
+	<opinion>aspect="money" sentiment="waste" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=21>
+	<sentence idSentence=1>Item fits my needs to play old vcrs and favorite dvds in my office so I don't distrub the main tv</sentence>
+</review>
+<review codeProduct=8971008 idReview=22>
+	<sentence idSentence=1>Have lots of vcr movies and this is easy to use, also the dvd player is very easy for us old folks to understand.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=23>
+	<sentence idSentence=1>Just perfect for what I needed to watch all my tapes/disks I have collected during the years.</sentence>
+	<sentence idSentence=2>Easy to set up and connect.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="connect" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=24>
+	<sentence idSentence=1>pleased with the purchase.</sentence>
+	<sentence idSentence=2>have not had any problems.</sentence>
+</review>
+<review codeProduct=8971008 idReview=25>
+	<sentence idSentence=1>This is a great product.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Is exactly what I was looking for in terms of a DVD and VCR combo.</sentence>
+	<sentence idSentence=3>Definitely recommend the product.</sentence>
+</review>
+<review codeProduct=8971008 idReview=26>
+	<sentence idSentence=1>Toshiba Still Keeps on Top of it's Reputation of Being Up to date with All their Product Line.This DVD Player/VERY Combo with easy operating instructions, easy set up,anyone can use it to its full advantage.</sentence>
+	<opinion>aspect="operating instructions" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great Combo without paying an arm n leg for two separate units.</sentence>
+	<opinion>aspect="Combo" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I love it and like so many Toshiba Products that I glad to own from The Original Laptop Inventor to Television Units ,etc.</sentence>
+	<sentence idSentence=4>That are currently use in my Home.</sentence>
+	<sentence idSentence=5>Always look at Toshiba Products before you shop and you be a Very Happy For Life Customer</sentence>
+</review>
+<review codeProduct=8971008 idReview=27>
+	<sentence idSentence=1>I have video tapes from the time my Daughter was little.</sentence>
+	<sentence idSentence=2>Looking forward to playing them for my Grand-Daughter.</sentence>
+</review>
+<review codeProduct=8971008 idReview=28>
+	<sentence idSentence=1>Just wanted to find a basic item that plays both.</sentence>
+	<sentence idSentence=2>However, this records from tape to DVD.</sentence>
+	<sentence idSentence=3>Which I barely use but it'll have to do.</sentence>
+</review>
+<review codeProduct=8971008 idReview=29>
+	<sentence idSentence=1>it works really great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>the picture from both are clear</sentence>
+	<opinion>aspect="picture" sentiment="clear" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=30>
+	<sentence idSentence=1>this unit does not record dvd.</sentence>
+	<sentence idSentence=2>only the vcr section does so you cannot transfer vcr tapes to dvd is not possible.</sentence>
+	<sentence idSentence=3>also, a lot of shows are now copyrighted so you cannot record these to dvd.</sentence>
+</review>
+<review codeProduct=8971008 idReview=31>
+	<sentence idSentence=1>I was able to get it set up by myself, which is a great thing considering I am electronically challenged.</sentence>
+</review>
+<review codeProduct=8971008 idReview=32>
+	<sentence idSentence=1>I am very satisfied with the purchase of this product.</sentence>
+	<opinion>aspect="product" sentiment="satisfied" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>After initial set up was complete I have had great service out of this item.</sentence>
+	<opinion>aspect="service out" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>This item Is awesome.</sentence>
+	<opinion>aspect="item" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=8971008 idReview=33>
+	<sentence idSentence=1>This machine works good.</sentence>
+	<opinion>aspect="machine" sentiment="works good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Glad I purchased the machine.</sentence>
+</review>
+<review codeProduct=8971008 idReview=34>
+	<sentence idSentence=1>I'd recommend it.</sentence>
+	<sentence idSentence=2>"Buy one.</sentence>
+	<sentence idSentence=3>Go ahead, do it".</sentence>
+	<sentence idSentence=4>See!</sentence>
+</review>
+<review codeProduct=8971008 idReview=35>
+	<sentence idSentence=1>This DVD/VCR combo is perfect for watching old favorites from your childhood or new releases!</sentence>
+	<opinion>aspect="DVD/VCR combo" sentiment="perfect" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>It is high-quality and very easy to operate.</sentence>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="It" sentiment="high-quality" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=8971008 idReview=36>
+	<sentence idSentence=1>These days there are very few TV/VCR units available, this one has all the features needed and was not too expensive though not really cheap.</sentence>
+	<sentence idSentence=2>Good if you still need to play VHS tapes.</sentence>
+</review>
+<review codeProduct=8971008 idReview=37>
+	<sentence idSentence=1>I like this product.</sentence>
+	<opinion>aspect="product" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I haven't had much chance to use it lately, but from what I've seen, it does the job quite well.</sentence>
+</review>
+<review codeProduct=8971008 idReview=38>
+	<sentence idSentence=1>So far it has worked great.</sentence>
+	<opinion>aspect="worked" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to install.</sentence>
+	<opinion>aspect="install" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Wish it had cable tv functions, but for the price, it satisfies my needs</sentence>
+</review>
+<review codeProduct=8971008 idReview=39>
+	<sentence idSentence=1>I really like this because you can play all kinds of movies.</sentence>
+</review>
+<review codeProduct=8971008 idReview=40>
+	<sentence idSentence=1>This is great for viewing my old-time movies and old-time tapes.</sentence>
+	<sentence idSentence=2>Easy to use too.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=1>
+	<sentence idSentence=1>Bought this one for grandkids and bought another for living room.</sentence>
+</review>
+<review codeProduct=9837617 idReview=2>
+	<sentence idSentence=1>It took only minutes to hook-up and use.</sentence>
+	<sentence idSentence=2>It works great so far.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I hope it lasts for years and years!</sentence>
+</review>
+<review codeProduct=9837617 idReview=3>
+	<sentence idSentence=1>This is an ordinary DVD player with ordinary performance which is all I was expecting in the $40 range.</sentence>
+	<opinion>aspect="DVD player" sentiment="ordinary" polarity="Neutral" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="performance" sentiment="ordinary" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I like its small size but don't like the distracting noises when a disc is loading and searching.</sentence>
+	<opinion>aspect="size" sentiment="small" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=3>Low talkers in a movie might not be heard, so keep the remote handy.</sentence>
+	<sentence idSentence=4>You'll also want to place the player in a well-lighted area because its black-on-black buttons can be difficult to see.</sentence>
+	<opinion>aspect="buttons" sentiment="difficult to see" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>The remote is adequate and works well.</sentence>
+	<opinion>aspect="remote" sentiment="adequate" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="remote" sentiment="works well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=6>Over all a fair deal.</sentence>
+</review>
+<review codeProduct=9837617 idReview=4>
+	<sentence idSentence=1>This DVD player was just what we needed.</sentence>
+	<opinion>aspect="DVD player" sentiment="what we needed" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It works wonderful, was easy to install and we have had no problems with it.</sentence>
+	<opinion>aspect="works" sentiment="wonderful" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=5>
+	<sentence idSentence=1>works well under my 24 inch samsung smart tv in kitchen-very happy with purchase</sentence>
+	<opinion>aspect="works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=6>
+	<sentence idSentence=1>This was purchased to replace an old dvd player my 4 year old stuffed with toys.</sentence>
+	<sentence idSentence=2>Excellent picture quality and easy set up.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="picture quality" sentiment="Excellent" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=7>
+	<sentence idSentence=1>Plays well when I use it.</sentence>
+	<opinion>aspect="Plays" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Video and audio are very clear</sentence>
+	<opinion>aspect="Video" sentiment="clear" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="audio" sentiment="clear" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=8>
+	<sentence idSentence=1>It is a very nice dvd player and the price was excellent</sentence>
+	<opinion>aspect="dvd player" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="excellent" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=9>
+	<sentence idSentence=1>DVD player works fine, good picture quality with my Samsung HDTV.</sentence>
+	<opinion>aspect="works" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="picture quality" sentiment="good" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<sentence idSentence=2>Only complaint is it's a bit noisy as it reads the disc, but you learn to ignore it.</sentence>
+	<opinion>aspect="noisy" sentiment="bit" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=10>
+	<sentence idSentence=1>Great features for value.. We gave this unit away for a golf outing and people where impressed!</sentence>
+	<opinion>aspect="features" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=11>
+	<sentence idSentence=1>Works great &amp; can't beat the price!</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="can't beat" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Bought to replace an old, worn out, DVD player.</sentence>
+</review>
+<review codeProduct=9837617 idReview=12>
+	<sentence idSentence=1>Works great, up-conversion option is excellent, and plays every DVD my old basic player couldn't/wouldn't play</sentence>
+	<opinion>aspect="up-conversion option" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=13>
+	<sentence idSentence=1>Very easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Takes up little shelf space.</sentence>
+	<sentence idSentence=3>Great for a small bedroom or workout room.</sentence>
+</review>
+<review codeProduct=9837617 idReview=14>
+	<sentence idSentence=1>it looks good, everything in my living room is black so it matches well obviously.</sentence>
+	<sentence idSentence=2>Only problem is, i have to unplug it and plug it back in to watch a dvd.</sentence>
+	<sentence idSentence=3>For the price though, can't beat it...</sentence>
+</review>
+<review codeProduct=9837617 idReview=15>
+	<sentence idSentence=1>I just need an inexpensive something that was compact in size, to play CD's on through a stereo system in my Master Bed Rm &amp; Bath.</sentence>
+	<opinion>aspect="size" sentiment="compact" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=2>This Dvd player will work for now, and sale price was good</sentence>
+	<opinion>aspect="sale price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=16>
+	<sentence idSentence=1>Good product for the price!!!</sentence>
+	<opinion>aspect="product" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>So easy to use my 3 year old can start a movie..</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=17>
+	<sentence idSentence=1>It's a great DVD player again simple easy to use and HDMI.</sentence>
+	<opinion>aspect="DVD player" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=18>
+	<sentence idSentence=1>Easy To Use...Works Very Well With My Samsung TV...Great Up Conversion To HD Quality Picture.........................................</sentence>
+	<opinion>aspect="Conversion To HD" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Works" sentiment="Well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=19>
+	<sentence idSentence=1>We use it on the job site for safety videos.</sentence>
+	<sentence idSentence=2>It's easy to use and works perfectly.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=20>
+	<sentence idSentence=1>Would always buy Samsung products I think they make very good products</sentence>
+	<opinion>aspect="products" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=21>
+	<sentence idSentence=1>Didn't work when I got it home.</sentence>
+	<sentence idSentence=2>Dvd would not eject.</sentence>
+	<sentence idSentence=3>Hag to return it to the store and associate was able to recover my Dvd from product.</sentence>
+</review>
+<review codeProduct=9837617 idReview=22>
+	<sentence idSentence=1>Needed an inexpensive dvd player for workout room, went with this one due to the HDMI output.</sentence>
+	<sentence idSentence=2>In comparison to my Blu-Ray players this player seems prehistoric, but it does play dvds which is all I needed.</sentence>
+	<opinion>aspect="player" sentiment="seems prehistoric" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>It is pretty loud and sometimes i thInk it may explode though...</sentence>
+	<opinion>aspect="loud" sentiment="pretty" polarity="Positive" aspectClass="Audio" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=23>
+	<sentence idSentence=1>This was recommended by a friend and the DVD palyer has been up to expectation so far</sentence>
+</review>
+<review codeProduct=9837617 idReview=24>
+	<sentence idSentence=1>I bought this upconvert DVD player to use for my 2nd tv.</sentence>
+	<sentence idSentence=2>It works great for the kids to easily watch movies and shows on dvd while making thr picture fill the screen.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=25>
+	<sentence idSentence=1>Really easy to set up with a great picture quality for anyone searching for a nice dvd player.</sentence>
+	<opinion>aspect="dvd player" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="picture quality" sentiment="great" polarity="Positive" aspectClass="Video" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=9837617 idReview=26>
+	<sentence idSentence=1>Had this for a month started to freeze up, returned and replaced with same unit.</sentence>
+	<sentence idSentence=2>Same results.</sentence>
+	<sentence idSentence=3>Would not recommend.</sentence>
+</review>
+<review codeProduct=9837617 idReview=27>
+	<sentence idSentence=1>Excellent product n easy to connect...</sentence>
+	<opinion>aspect="product" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="connect" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I enjoying playing my music n movies n also pictures that I put on cd.</sentence>
+	<sentence idSentence=3>No complaints about this product n the best</sentence>
+</review>

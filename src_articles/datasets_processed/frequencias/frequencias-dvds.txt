@@ -1,0 +1,109 @@
+affordable: 3
+audio: 3
+audio compatibility: 1
+buttons: 2
+buy: 7
+colors: 1
+combo: 6
+compact: 7
+connect: 11
+connected: 3
+conversion to hd: 1
+cost: 2
+different connections: 1
+durable: 1
+dvd: 97
+dvd playe: 56
+dvd player: 56
+dvd/vcr combo: 1
+easy: 56
+easy-to-install: 1
+experience: 1
+features: 6
+figured out: 1
+fit: 6
+fits: 4
+fits the bill: 1
+footprint: 1
+hdmi: 12
+hdmi connection: 1
+hook up: 4
+hooked up: 1
+hookup: 1
+inexpensive: 3
+install: 7
+installation: 1
+installs: 1
+item: 6
+job: 6
+listening to music and books: 1
+loads menu: 1
+loud: 1
+low-priced: 1
+machine: 8
+menu: 2
+money: 5
+motion blu: 1
+move: 2
+nice small: 2
+noisy: 1
+operate: 6
+operating instructions: 1
+operationality: 1
+performance: 2
+pic: 29
+picture: 28
+picture quality: 8
+player: 84
+playing dvds: 1
+plays: 10
+plays videos: 1
+price: 33
+pricey: 1
+product: 24
+products: 5
+program for recording: 1
+purchase: 12
+quality: 27
+quality of player: 1
+quality of the pictures: 1
+quality picture: 3
+read: 4
+reliable: 1
+remote: 10
+remote control: 1
+remote graphics: 1
+resolution: 1
+rewinds: 1
+sale price: 1
+salesman: 1
+salesperson: 1
+service out: 1
+set up: 16
+setup: 5
+setup process: 1
+simple: 7
+simple-to-operate: 1
+simplicity: 1
+size: 3
+slim: 1
+small: 13
+sony: 12
+sony customer service group: 1
+sony dvd player: 2
+sony product: 1
+sony quality: 1
+sound: 7
+sturdy: 1
+support/toshiba: 1
+unit: 15
+up-conversion option: 1
+use: 57
+vcr part: 1
+video: 8
+view: 3
+wonderful: 2
+work: 42
+worked: 3
+working: 4
+works: 26

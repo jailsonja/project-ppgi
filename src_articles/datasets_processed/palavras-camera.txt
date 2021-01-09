@@ -1,0 +1,154 @@
+4 k video ->> {'4 k video is great.'}
+4k video ->> {'This camera produces excellent 4k video, the still photos in my opinion were a little bit of a let down at higher ISOs', "for photo I do not think it's so good in fact lacking in quality, but 4k video is amazing on many other brands dslr!!!!!", 'The 4k video recording is excellent, as well as the rest of the video functions- face tracking, stabilization, etc.'}
+4x digital zoom ->> {'4x digital zoom still auto focuses fantastically.'}
+ability to perform in low light ->> {'However, one little draw back is the gh4 ability to perform in low light.'}
+accessories ->> {"It's to bad that some accessories you would like to add cost far to much."}
+autofocus ->> {'Awesome point and shoot with a super quick lens, very fast and accurate autofocus, great in low light with the f1.7.'}
+bag ->> {'Comes with a nice bag also.'}
+battery case ->> {'Battery case was fine.'}
+battery life ->> {'Battery life is incredible.', 'Great battery life!', 'The battery life on it is good for over 600+ fine.', 'Great battery life, only gripe is no external mic input.', 'The battery life is pretty fantastic.', 'Great battery life.', 'Battery life is awesome when shooting 4K.', 'The battery life is also outstanding if you primarily use the excellent viewfinder rather than the real LCD.', 'Awesome battery life.', 'Be sure to get extra batteries as the battery life is not great--I record a lot of images.', 'She says it is easy to learn to use, she loves the Wi-Fi feature, and the battery life is good.'}
+big ->> {'The worse thing for me about this camera is its big and weighs a ton with that 300mm lens but it really is a great camera.'}
+body ->> {'Great camera that has a full full frame sensor in a small body.'}
+build quality ->> {'Its fast, responsive, and build quality is very high.'}
+cam ->> {"I know, digital pics are great, but this cam with it's instant photos is very cool."}
+camara ->> {'this camara is perfect for enrty level.. does all the work for you.'}
+camara instantanea ->> {'Exelente camara instantanea, prara tomar fotos y cargarlas en tu cartera..'}
+camara package ->> {'Good Camara package great pincture and the zoom lenses are great.'}
+camcorder ->> {'Amazing camcorder.'}
+camera ->> {'I Absolutely Adore This Camera.', 'My kids love this camera as well as my wife, brought back memories', 'Overall a very good camera for its size.', 'This is a great beginner camera at a good affordable price.', 'Love this camera.', 'This camera is for fun quick pictures!', 'Absolutely love this camera.', 'Great instant film camera.', 'Camera creates memories for a special event.', 'Adorable camera.', 'Several features and great camera.', 'Love this camera, and we bought it to take fun pictures and post around the house.', 'Great camera with many controls which are easy to use.', 'I like this camera so much.', "No one's fault but my own I love this camera and I would recommend it to just about anyone.", 'I love my new camera.', 'I do like this camera but wish that it had a stronger zoom lens', 'This is a great camera and wonderful for having instant photos that you can give away.', 'Good camera for potrait photos, 4k video.', 'This camera is very neat and it reminds me of back in the day.', 'Great camera, great price would recommend this camera', 'I bought this camera mainly because of the great package deal it had and I know several people who use the Rebel T series.', 'This is a great camera that opens the world up to alternate lenses for MFT.', 'Great camera that has a full full frame sensor in a small body.', 'i love this little camera, super fun and easy to capture quick moments.', 'So far this camera has been great.', 'Really great camera but it took me a while to understand how to use it but after you get the hang of it really good', 'My girlfriend is very happy with this camera!', 'This camera exceeds on all levels!', 'This is a great camera!', 'Great camera.', 'This camera is amazing.', 'Great camera with very good lens.', 'Overall the camera works great for a beginner or someone who is solely used to taking digital pictures there whole life.', 'Love this camera, great pictures and its easy to use.', 'This camera is very convenient because you get your film instantly but the photos are very small and the photos look far away.', 'This is good camera for beginner and easy to carry.', 'This is such a cute little camera that you can take anywhere, very convenient!', 'This camera is so easy and so much fun.', 'Heat lightweight camera you can put in your pocket but still able to use dslr features when desired.', 'Great camera, beautiful pics, just wish we used this more than our iphones', 'This camera is great to take to the field or travel .Compact size, but excellent quailty photos with 1in sensor--comparable to DSLR with out the weight.', 'This is a very good camera.', 'Great first camera.', 'Overall this is a quality camera and I am very satisfied with my purchase.', 'i bought this for my daughter and it is a really good camera.', 'Love this camera!', 'But it is a nice camera and takes pics well.', 'Such a great little camera.', "No matter if you're a beginner or what this camera is however marvelous and it's an resonable price .", 'My granddaughter loves this camera.', 'This is a great camera for any user but highly recommend if you are looking for a smaller camera alternative to your DSLR.', 'Wow, this camera is simply fantastic.', 'Fun camera to have', "We were looking for the perfect gift for our 6 year old granddaughter's birthday and saw this darling camera.", 'the camera is pretty amazing!', 'Awesome camera.', 'Not a great camera but a good instant picture camera.', 'Im in love with my camera.', 'Awesome Camera.', 'Great camera, took a little time to learn all of the features....', "Bought this for my girlfriend, it's a cool modern style Polaroid instant camera.", 'The worse thing for me about this camera is its big and weighs a ton with that 300mm lens but it really is a great camera.', 'Not being a skilled photographer, this camera is perfect!', 'This camera is a great camera for a beginner photographer.', 'Excellent camera and lens.', 'Great camera for her and she has already used it often.', 'This is an awesome camera, I take it everywhere I go', "Like this camera a lot it's good to take pics of my new born and It's simple to use...", 'Great camera!', 'I love this camera.', 'This camera is fun, cute, and small.', "I think it's a perfect camera for scrap booking or creating a collage", 'This is a great camera upgrade from a point and shoot.', 'It is a very nice camera but I found it to be a little much for me as a beginner.', 'This can be remedied with a metabones speed booster both available for nikon and cannon glass.In addition the camera does take quality pictures and the 4k picture capture is a plus.', 'My wife and kids love this camera.', 'This is a fun camera and I love it!', 'I love this camera!!', 'My granddaughter absolutely loves this camera and the fact that the pictures are immediately available', 'Turned out to be an awesome camera.', 'my first real camera.', 'This is the type of camera that is mostly for fun and for someone to have ready-made photos to take away and give away!', 'Good quality camera and pics.', 'Excelent camera.', 'This is exactly what I was looking for, and my granddaughter really wanted this, it is a great little camera for the price', 'I like this camera.', 'This Camera is a great addition to my photography collection.', 'My daughter loves this camera.', 'I bought it as a gift, it´s a perfect camera to create original memories', 'Really happy with this camera.', 'great camera for my eleven year old granddaughter.'}
+cameras ->> {'I love these cameras so much!', 'Fun cameras for kids who never knew about Polaroids and instant pictures.'}
+capture quick moments ->> {'i love this little camera, super fun and easy to capture quick moments.'}
+carry ->> {'This is good camera for beginner and easy to carry.', 'I would recommend buying the matching case, as I did, easier to carry.', 'Camera is easy to use, and light to carry and hold.'}
+cartridges ->> {"The only but it's that the cartridges are pretty expensive."}
+case ->> {'The case is pretty awesome and it is a good deal to buy it all together.'}
+color ->> {'The color is nice and the quality of the photos is really good.'}
+colors ->> {'The colors are fun, too.', 'Pretty colors'}
+compact ->> {'A simple YouTube video helped me understand all of the settings, but this cute mini is easy to take along any day as it is very compact and light.', 'Was looking for a DSLR but ending buying this... its very compact and takes great photos and video.'}
+compact camera ->> {'Not ideal for a compact camera but the photos come out clear.'}
+compact point ->> {'A wonderful compact point and shoot.'}
+controls ->> {'Great camera with many controls which are easy to use.', 'Using the controls is fun!', 'The controls are so convenient and easy to use they encourage me to think more about the photos I take and and dial in the appropriate settings to maximize the quality of my photos.'}
+convenient ->> {'This is such a cute little camera that you can take anywhere, very convenient!'}
+cost of the film ->> {'The only disadvantage is the cost of the film.'}
+craft work ->> {'Great for craft work.'}
+cute ->> {'I love it, its small and cute and I love how my Polaroids turn out!'}
+deal ->> {'great deal!', 'This is my second Rebel and is a great deal and quality,', 'The case is pretty awesome and it is a good deal to buy it all together.'}
+device ->> {"Love this device so far, the only issues I've had is understanding the brightness features for using flash but I've had some great photos taken so far this summer!"}
+digital camera ->> {'We are very pleased with our choice and would highly recommend this digital camera for a first-time photographer.'}
+digital pics ->> {"I know, digital pics are great, but this cam with it's instant photos is very cool."}
+disappointed ->> {'Very disappointed, does not work.'}
+dslr camera ->> {'Very good dslr camera for the price.'}
+dslr features ->> {'I love the dslr features!'}
+durability ->> {'I am very pleased with the durability and performance of this instant Polaroid camera!'}
+durable ->> {"Durable, works great, and it's very easy to use."}
+ergonomics ->> {'Excellent ergonomics and size.'}
+exposure setting ->> {'My only real complaint is the placement of the exposure setting.'}
+extras ->> {'All the extras are fantastic along with the bag to store your camera.'}
+f/1.7 ->> {'The leica lens on this is excellent, and at f/1.7 it is still very sharp.'}
+face tracking ->> {'The 4k video recording is excellent, as well as the rest of the video functions- face tracking, stabilization, etc.'}
+features ->> {'Really nice features for people getting serious about photography.'}
+feel ->> {'Outstanding feel.'}
+film ->> {'Film is expensive', 'The film is also very pricey.', 'Film can be expensive but can be found online for cheaper.', 'The person enjoyed the camera but was having difficulty with the film', "The film itself is a bit pricey and it is really easy to burn through it if you're not careful.", 'The film is a tad expensive.', "It works great and the film isn't too pricey!"}
+first camera ->> {'Great first camera.'}
+flash ->> {'The camera takes nice pictures but where is built in flash in the case is very unconfortable to hold and take pictures i bougth one and returned because the flash and is very frágile when the flash go out'}
+focus ->> {'Razor sharp focus.'}
+fuji film instant camera ->> {'The Fuji Film instant camera is so fun and is easy to take with you!'}
+gatherings ->> {"Will be perfect for fun gatherings and recording those memories for scrapbooks - yes we have our phones to use, but sometimes you want something a little old school and it's great!"}
+gift ->> {'THis was a perfect gift for hard to buy friends.', 'Makes a great gift for anyone!'}
+hold ->> {'Camera is easy to use, and light to carry and hold.'}
+image quality ->> {'Good image quality and lots of manual settings on switches instead of in menu.'}
+instant camera ->> {"It Gives The Pictures Some Type Of Vintage Effect That I Love &amp; It's Honestly The Best Instant Camera Out There."}
+instant picture ->> {'Kids love the instant picture; amazed how picture suddenly appears like magic...'}
+instant picture camera ->> {'Not a great camera but a good instant picture camera.'}
+instant prints ->> {'Good for having instant prints.'}
+instructional ->> {'Lots of fun and very instructional!'}
+intelligent auto ->> {"Intelligent auto not bad at all, but this isn't really meant for using in that mode only."}
+intelligent options ->> {'I love the variety of scene options as well as the intelligent options.'}
+investment ->> {'So happy with the investment and I take it everywhere I go.'}
+item ->> {'Fun item to have around.'}
+jpg stores ->> {'-- I like how the JPG stores this information so when I review my photographs in Shotwell the information is presented making me more aware of what them Zebra Strips (turn them on 90%) was about.'}
+lack of zoom ->> {'I was disappointed with the lack of zoom.'}
+learn ->> {'There are a few exposure/lighting settings that are easy to learn.'}
+leica lens ->> {'The leica lens on this is excellent, and at f/1.7 it is still very sharp.'}
+lens ->> {'Excellent camera and lens.', 'Lens is nice!', 'Great camera with very good lens.', 'Awesome point and shoot with a super quick lens, very fast and accurate autofocus, great in low light with the f1.7.'}
+lenses ->> {'I bought this for my GF whos getting started with photography, plenty of features and the lenses are good.'}
+light ->> {'A simple YouTube video helped me understand all of the settings, but this cute mini is easy to take along any day as it is very compact and light.'}
+lightweight ->> {'Great lightweight camera, wonderful pictures.'}
+little camera. ->> {'It is a great little camera.'}
+lx100 ->> {'The LX100 is a very, very good camera.'}
+memories ->> {'It takes great pictures and she is able to capture and create amazing memories with friends instantly.'}
+menu text ->> {"I'm taking a star off because the menu text is rubbing off and I can no longer get a cable into the HDMI port (don't know why)."}
+night pictures ->> {'Takes fantastic night pictures'}
+night time images ->> {'I do have some trouble with night time images, but I think I just need to dig a little more into the features.'}
+olympus prime lenses ->> {'I also purchased a couple olympus prime lenses that look good as well.'}
+operate ->> {'Very easy to operate.', 'Easy to operate!'}
+operation ->> {'This is my first camera and I am enjoying how intuitive its operation has been.'}
+options ->> {'Is not very flexible and lacks options.', 'Options galore.'}
+performance ->> {'my daughter loves her camera and the excellent performance especially now with all these event.', 'However keep in mind it is a toy camera so in a way and should be regarded as such although performance is totally top notch for the price.', "I've been use to Nikon for years so the system just feels a little light and cheap, but performance seems fine.", 'Excellent performance, easy to use, great tutorial online.', 'Happy with the performance for what it is.', 'I am very pleased with the durability and performance of this instant Polaroid camera!'}
+performed ->> {"I've already taken over 500 photos with the camera and it performed perfectly.", 'Overall, the product has performed well - just be sure to have it on the right setting when you are outside or else your pictures will come out too dark!'}
+photo performance ->> {'She loves the size and photo performance.'}
+photos ->> {'This camera is very convenient because you get your film instantly but the photos are very small and the photos look far away.', 'Was looking for a DSLR but ending buying this... its very compact and takes great photos and video.', "Love this device so far, the only issues I've had is understanding the brightness features for using flash but I've had some great photos taken so far this summer!", 'Photos are fabulous.', 'Easy to use and takes gorgeous photos!', 'The pictures come out very small, so make sure you are ok with the tiny photos.', 'Takes excellent photos.', 'Takes amazing photos, love the small pocket size..', 'Only the photos are better!'}
+pics ->> {'She loves the pics and how instantly she has the pic', 'easy to use, great pics!', 'Pics are great.', 'This camera took great pics.', 'Takes nice pics!', 'Good quality camera and pics.', 'Bright, crisp, vivid high quality pics.', 'Great camera, beautiful pics, just wish we used this more than our iphones'}
+picture ->> {"It's a small picture but comes out instantly."}
+picture quality ->> {'Picture quality is good, not great.', "I've been using this camera for a while now and very impressed with the picture quality.", 'the picture quality is very good.'}
+picture suddenly appears ->> {'Kids love the instant picture; amazed how picture suddenly appears like magic...'}
+pictures ->> {'The pictures are so clear and looks amazing!', 'Love the pictures they take and how instant they are.', 'After loading the film in the camera and taking a few test shots, she is able to use the camera with ease and she says the pictures are good quality.', 'Its perfect for beginners or someone that just enjoys taking quality pictures.', 'The pictures that this camera takes are pretty small but they print very quickly.', 'My granddaughter absolutely loves this camera and the fact that the pictures are immediately available', 'Takes good pictures.', 'Took great pictures of my daughter playing t- ball game', "It's easy to use and takes some fantastic pictures.", 'Love the pictures.', 'The pictures come out so light that you cannot see what they are.', "MY only complaint is that it's SO BIG and spits out such TINY pictures.....", 'This camera is for fun quick pictures!', "Great pictures and lots of fun I think the color is way better than the competition I returned a polaroid to get this and I'm real happy with my purchase", 'It takes great pictures.', 'Love this camera, great pictures and its easy to use.', 'The camera takes nice pictures but where is built in flash in the case is very unconfortable to hold and take pictures i bougth one and returned because the flash and is very frágile when the flash go out', 'It takes great pictures and she is able to capture and create amazing memories with friends instantly.', 'I find this camera fun and it makes clear pictures.', 'Easy to use and takes great pictures.', 'Its easy to use and makes beautiful pictures.', 'This camera takes great pictures and I look forward to taking better photos with this camera.', 'This sony camera is very nice and takes good pictures, I had a little problem with the auto focus hunting to much for this high price camera.', 'Awesome pictures come out of this.', 'It is a great size and takes amazing pictures.', 'Got this Camera for my daughter for her 10th birthday she loves it takes nice quality pictures my 18 year old daughter liked it so much I had to buy her one to.', 'Great lightweight camera, wonderful pictures.', 'The pictures come out very small, so make sure you are ok with the tiny photos.', 'Purchased for my daughter, she loves it, takes the cutest little pictures.', 'mostly good pictures, but annoying gross lack of focus in pre-set scene "SCN" modes, especially SCN-Portrait and SCN-Macro modes.', 'Great little pictures to save memores.'}
+pictures in low light ->> {'Great pictures in low light.', 'Pictures in low light is fantastic, quality of colors is very good.'}
+piece of equipment ->> {'Amazing piece of equipment, light weight and just feels right in the palm of your hand.'}
+pincture ->> {'Good Camara package great pincture and the zoom lenses are great.'}
+plays ->> {'Camera works great and plays welll very worth the money.'}
+plenty of features ->> {'I bought this for my GF whos getting started with photography, plenty of features and the lenses are good.'}
+polaroid ->> {'Its a modern Polaroid.'}
+powerful ->> {'Small, but very powerful, with a lot of functions.'}
+price ->> {'This is an overall great product at a good price.', 'Price could be a little cheaper.', 'The price was what I wanted to pay and has all the features to start this hobby.', 'And price is awesome.', 'I would recommend this package deal and the price was amazing!!!', 'Good price for the bundle.', 'Price was right, and extra film bought was well worth it.', "No matter if you're a beginner or what this camera is however marvelous and it's an resonable price .", 'The price of this was just way too good to pass up.', 'This is a great beginner camera at a good affordable price.', 'The gh4 has exceeded all my expectation and for the price its definitely a steal.', 'Great camera, great price would recommend this camera'}
+price on film ->> {'Best price on film here too.'}
+print ->> {'The pictures that this camera takes are pretty small but they print very quickly.'}
+print outs ->> {'Quality is what you expect but print outs are a little small'}
+prints ->> {"She can't get over how you take a pic and it prints instantly, highly recommend this for any child!"}
+product ->> {'Good product, I would suggest this as a great gift for teens.', 'This is an overall great product at a good price.', 'Fuji made a fun product that brings old ways of photography back to the forefront.'}
+purchase ->> {"Great pictures and lots of fun I think the color is way better than the competition I returned a polaroid to get this and I'm real happy with my purchase", 'Quick purchase n fast shipping to me which I was very pleased so I was able to surprise my daughter before Christmas.'}
+put film ->> {'It was easy to put film in and easy to use.'}
+quailty photos ->> {'This camera is great to take to the field or travel .Compact size, but excellent quailty photos with 1in sensor--comparable to DSLR with out the weight.'}
+quality ->> {'Quality is very good.', 'This is my second Rebel and is a great deal and quality,', 'It is stylish and great quality.', 'The quality is top notch and sharing is made easy with the wifi.'}
+quality of colors ->> {'Pictures in low light is fantastic, quality of colors is very good.'}
+quality of pictures ->> {'Quality of pictures is only ok. You get what you pay for.'}
+quality of the photos ->> {'The color is nice and the quality of the photos is really good.'}
+quality of the picture ->> {'I bought it for my baby and the quality of the picture is awesome.'}
+quality of the pictures on the screen ->> {'It is durable, but I am disappointed at the quality of the pictures on the screen.'}
+quality pics ->> {'Good quality pics, bought a pink one for our 11yr old girl.'}
+quality pictures ->> {'Expected better quality pictures.'}
+quality video ->> {'I purchased the gh4 for its 4k capability and its cinematic quality video.'}
+quick ->> {"It takes absolutely amazing photo's and super quick."}
+scrapbooks ->> {"Will be perfect for fun gatherings and recording those memories for scrapbooks - yes we have our phones to use, but sometimes you want something a little old school and it's great!"}
+separate controls ->> {'I love having separate controls for shutter speed, aperture and exposure compensation.'}
+shipping ->> {'Quick purchase n fast shipping to me which I was very pleased so I was able to surprise my daughter before Christmas.'}
+size ->> {'This camera is great to take to the field or travel .Compact size, but excellent quailty photos with 1in sensor--comparable to DSLR with out the weight.', 'She loves the size and photo performance.', 'Great versatility in a compact size.', 'It is a great size and takes amazing pictures.', 'Excellent ergonomics and size.'}
+small ->> {'I love it, its small and cute and I love how my Polaroids turn out!', 'Small and easy to take with you.', 'It is very small, so great to carry in a purse.'}
+small pocket size ->> {'Takes amazing photos, love the small pocket size..'}
+sony camera ->> {'This sony camera is very nice and takes good pictures, I had a little problem with the auto focus hunting to much for this high price camera.'}
+stabilization ->> {'The 4k video recording is excellent, as well as the rest of the video functions- face tracking, stabilization, etc.'}
+take with you ->> {'Small and easy to take with you.'}
+takes pics ->> {'But it is a nice camera and takes pics well.'}
+travel photography ->> {'Great for Travel Photography &amp; Video, from Australia &amp; Fiji to Europe...Spain, England, Italy and France... Capturing the beauty and experience.'}
+tutorial online ->> {'Excellent performance, easy to use, great tutorial online.'}
+use ->> {'Solid well-made and easy to use.', 'The controls are so convenient and easy to use they encourage me to think more about the photos I take and and dial in the appropriate settings to maximize the quality of my photos.', 'I love how easy camera is to use.', 'Easy to use.', "She loved it, it's easy to use and best size for scrap booking.", 'It was easy to put film in and easy to use.', "It's easy to use and takes some fantastic pictures.", 'I have very little photography experience and I find this camera simple to use.', 'Camera is easy to use, and light to carry and hold.', 'Very easy to use.', 'Easy to use!', 'The user guide is simple to follow and understand.', 'This camera was easy to use and reminded us how much fun it is to get an instant picture!!', "Durable, works great, and it's very easy to use.", 'Love this camera, great pictures and its easy to use.', "Easy to use she's having so much fun with it.", 'Easy to use and takes great pictures.', 'Easy to use and takes gorgeous photos!', 'easy to use, great pics!', 'Its easy to use and makes beautiful pictures.', 'The rx100 is so easy to use.', "Like this camera a lot it's good to take pics of my new born and It's simple to use...", 'Simple to use good for a teenager.', 'It was easy enough for her to use and she has never had a problem with it.', 'Excellent performance, easy to use, great tutorial online.', 'It feels great in my hands and it is easy to use!', 'Has many options and easy to use.', 'It was awesome and easy to use for anyone young or old', 'Easy for her to use.'}
+user guide ->> {'The user guide is simple to follow and understand.'}
+using ->> {'Love using this for all occasions.'}
+value ->> {'Great value for the price.', 'So much value.'}
+variety of scene options ->> {'I love the variety of scene options as well as the intelligent options.'}
+versatility ->> {'Great versatility in a compact size.'}
+video ->> {'Was looking for a DSLR but ending buying this... its very compact and takes great photos and video.'}
+video capability ->> {'The video capability is stunning.'}
+video dslr ->> {"it's amazing+++ video DSLR"}
+video option ->> {'I really like the video option for 4K though it performs poorly in low light.'}
+video quality ->> {'The video quality is amazing.'}
+viewfinder ->> {'The battery life is also outstanding if you primarily use the excellent viewfinder rather than the real LCD.'}
+watching the pic develop ->> {'They love watching the pic develop.'}
+weighs ->> {'The worse thing for me about this camera is its big and weighs a ton with that 300mm lens but it really is a great camera.'}
+weight ->> {'Amazing piece of equipment, light weight and just feels right in the palm of your hand.'}
+wi-fi feature ->> {'She says it is easy to learn to use, she loves the Wi-Fi feature, and the battery life is good.'}
+wifi app ->> {'Biggest complaint is the WiFi APP is pretty pathetic.'}
+work ->> {'Would recommend to a friend easy to work with and load', 'Easy to work..'}
+works ->> {'Camera works great and plays welll very worth the money.', 'Works perfectly!', "It works great and the film isn't too pricey!", "I won't lie, I think this is completely ridiculous, but she loves it and it works great.", 'We are using this for our wedding guestbook, and it works perfectly.', "Durable, works great, and it's very easy to use."}
+zoom ->> {'It has a great zoom without losing quality.'}
+zoom lens ->> {'The zoom lens is super cool and takes great pics when you hold it fairly still.'}
+zoom lenses ->> {'Good Camara package great pincture and the zoom lenses are great.'}

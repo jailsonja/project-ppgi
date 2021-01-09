@@ -1,0 +1,1527 @@
+<review codeProduct=1004002 idReview=1>
+	<sentence idSentence=1>this camara is perfect for enrty level.. does all the work for you.</sentence>
+	<opinion>aspect="camara" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>was a gift for my wife, got a great deal with the SD card and extra lens for free.</sentence>
+	<sentence idSentence=3>would recommend it to anyone</sentence>
+</review>
+<review codeProduct=1004002 idReview=2>
+	<sentence idSentence=1>I love my new camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It feels great in my hands and it is easy to use!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Very happy with this purchase.</sentence>
+</review>
+<review codeProduct=1004002 idReview=3>
+	<sentence idSentence=1>No matter if you're a beginner or what this camera is however marvelous and it's an resonable price .</sentence>
+	<opinion>aspect="camera" sentiment="marvelous" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="resonable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=4>
+	<sentence idSentence=1>I love this camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Its perfect for beginners or someone that just enjoys taking quality pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="quality" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=5>
+	<sentence idSentence=1>It does everything perfectly.</sentence>
+	<sentence idSentence=2>And price is awesome.</sentence>
+	<opinion>aspect="price" sentiment="awesome" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=3>I take some art class pictures with it and does great job</sentence>
+</review>
+<review codeProduct=1004002 idReview=6>
+	<sentence idSentence=1>This is a very good camera.</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's value is more than what you pay for.</sentence>
+	<sentence idSentence=3>I would recommend this product to buy.</sentence>
+</review>
+<review codeProduct=1004002 idReview=7>
+	<sentence idSentence=1>Great lightweight camera, wonderful pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="wonderful" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="lightweight" sentiment="Great" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="lightweight" sentiment="" polarity="Weight" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=8>
+	<sentence idSentence=1>Really great camera but it took me a while to understand how to use it but after you get the hang of it really good</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=9>
+	<sentence idSentence=1>I bought this camera mainly because of the great package deal it had and I know several people who use the Rebel T series.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is a very nice camera but I found it to be a little much for me as a beginner.</sentence>
+	<opinion>aspect="camera" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>I also bought the Sony a6000 and found it to be more user friendly and more comfortable to handle.</sentence>
+	<sentence idSentence=4>The worse thing for me about this camera is its big and weighs a ton with that 300mm lens but it really is a great camera.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="weighs" sentiment="ton" polarity="Negative" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="big" sentiment="" polarity="Negative" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=10>
+	<sentence idSentence=1>My wife has wanted this camera for several months and I got it for her Birthday.. She LOVES it.</sentence>
+	<opinion>aspect="it" sentiment="LOVES" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1004002 idReview=11>
+	<sentence idSentence=1>Good Camara package great pincture and the zoom lenses are great.</sentence>
+	<opinion>aspect="Camara package" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pincture" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="zoom lenses" sentiment="great" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=12>
+	<sentence idSentence=1>I like this camera so much.</sentence>
+	<opinion>aspect="camera" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I bought one for my husband for his birthday and he really loved it!</sentence>
+</review>
+<review codeProduct=1004002 idReview=13>
+	<sentence idSentence=1>Love this!</sentence>
+	<sentence idSentence=2>Great camera!</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Easy to operate!</sentence>
+	<opinion>aspect="operate" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>I give it a 10</sentence>
+</review>
+<review codeProduct=1004002 idReview=14>
+	<sentence idSentence=1>After making this purchased I found out that it was an entry level camera and not worth the purchase.</sentence>
+	<sentence idSentence=2>Nikon had a better camera for less money.</sentence>
+	<sentence idSentence=3>I took it back</sentence>
+</review>
+<review codeProduct=1004002 idReview=15>
+	<sentence idSentence=1>I love this camera!!</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Its easy to use and makes beautiful pictures.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="beautiful" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>This is the first camera of this type I've owned and it's not as hard to use as I first thought it would.</sentence>
+</review>
+<review codeProduct=1004002 idReview=16>
+	<sentence idSentence=1>You can do so much with it.</sentence>
+	<sentence idSentence=2>Several features and great camera.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Still learning to use it but so far I like it.</sentence>
+</review>
+<review codeProduct=1004002 idReview=17>
+	<sentence idSentence=1>This is a great beginner camera at a good affordable price.</sentence>
+	<opinion>aspect="price" sentiment="good affordable" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="great beginner" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=18>
+	<sentence idSentence=1>I have very little photography experience and I find this camera simple to use.</sentence>
+	<opinion>aspect="use" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The user guide is simple to follow and understand.</sentence>
+	<opinion>aspect="use" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="user guide" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>This camera takes great pictures and I look forward to taking better photos with this camera.</sentence>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>The price was what I wanted to pay and has all the features to start this hobby.</sentence>
+	<opinion>aspect="price" sentiment="what I wanted to pay" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=19>
+	<sentence idSentence=1>I have enjoyed my new camera and accessories!</sentence>
+	<sentence idSentence=2>I would recommend this package deal and the price was amazing!!!</sentence>
+	<opinion>aspect="price" sentiment="amazing" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=1004002 idReview=20>
+	<sentence idSentence=1>Bought it for a teenager.</sentence>
+	<sentence idSentence=2>Starting to become interested in photography.</sentence>
+</review>
+<review codeProduct=1004002 idReview=21>
+	<sentence idSentence=1>Awesome pictures come out of this.</sentence>
+	<opinion>aspect="pictures" sentiment="Awesome" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>Took great pictures of my daughter playing t- ball game</sentence>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=22>
+	<sentence idSentence=1>The price of this was just way too good to pass up.</sentence>
+	<opinion>aspect="price" sentiment="just way too good to pass up" polarity="Neutral" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=23>
+	<sentence idSentence=1>Very impressed, this was a recommendation from a friend who is a photographer, glad I took her advice</sentence>
+</review>
+<review codeProduct=1004002 idReview=24>
+	<sentence idSentence=1>I have a an older canon xti which has been good but the T5 is faster and can tell that the picture quality is much better!</sentence>
+</review>
+<review codeProduct=1004002 idReview=25>
+	<sentence idSentence=1>Really nice features for people getting serious about photography.</sentence>
+	<opinion>aspect="features" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=26>
+	<sentence idSentence=1>Really happy with this camera.</sentence>
+	<opinion>aspect="camera" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Exceeded my expectations.</sentence>
+</review>
+<review codeProduct=1004002 idReview=27>
+	<sentence idSentence=1>This camera is a great camera for a beginner photographer.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>All the extras are fantastic along with the bag to store your camera.</sentence>
+	<opinion>aspect="extras" sentiment="fantastic" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The only thing I bought extra was a battery and with that you should be all set to take pictures anywhere.</sentence>
+</review>
+<review codeProduct=1004002 idReview=28>
+	<sentence idSentence=1>Very good dslr camera for the price.</sentence>
+	<opinion>aspect="dslr camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Bought this for my trip to Europe and was not disappointed.</sentence>
+</review>
+<review codeProduct=1004002 idReview=29>
+	<sentence idSentence=1>Great camera, great price would recommend this camera</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=30>
+	<sentence idSentence=1>Huge improvement from point and shoot cameras.</sentence>
+	<sentence idSentence=2>Highly recommended</sentence>
+</review>
+<review codeProduct=1004002 idReview=31>
+	<sentence idSentence=1>I like this camera.</sentence>
+	<opinion>aspect="camera" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I've used it a lot.</sentence>
+	<sentence idSentence=3>Has many features that I have not used yet.</sentence>
+	<sentence idSentence=4>Comes with a nice bag also.</sentence>
+	<opinion>aspect="bag" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>It's to bad that some accessories you would like to add cost far to much.</sentence>
+	<opinion>aspect="accessories" sentiment="cost far to much" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=32>
+	<sentence idSentence=1>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great first camera.</sentence>
+	<opinion>aspect="camera" sentiment="Great first" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Good price for the bundle.</sentence>
+	<opinion>aspect="price" sentiment="Good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=33>
+	<sentence idSentence=1>i bought this for my daughter and it is a really good camera.</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to use and takes great pictures.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1004002 idReview=34>
+	<sentence idSentence=1>I do like this camera but wish that it had a stronger zoom lens</sentence>
+	<opinion>aspect="camera" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=1>
+	<sentence idSentence=1>We took it for a family trip and couldn't be happier.</sentence>
+	<sentence idSentence=2>It is a great size and takes amazing pictures.</sentence>
+	<opinion>aspect="size" sentiment="great" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="amazing" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>I give it 4 stars because we had to buy a carrier and memory card.</sentence>
+	<sentence idSentence=4>We wish that was included.</sentence>
+</review>
+<review codeProduct=1206456 idReview=2>
+	<sentence idSentence=1>definitely for someone interested in photography as it is does not come with many special auto features.</sentence>
+	<sentence idSentence=2>only has M, A, S, P, and Auto mode.</sentence>
+	<sentence idSentence=3>Lens is nice!</sentence>
+	<opinion>aspect="Lens" sentiment="nice" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=3>
+	<sentence idSentence=1>I'm taking a star off because the menu text is rubbing off and I can no longer get a cable into the HDMI port (don't know why).</sentence>
+	<opinion>aspect="menu text" sentiment="rubbing off" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=4>
+	<sentence idSentence=1>Excellent camera and lens.</sentence>
+	<opinion>aspect="camera" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="lens" sentiment="Excellent" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=2>Great pictures in low light.</sentence>
+	<opinion>aspect="pictures in low light" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Biggest complaint is the WiFi APP is pretty pathetic.</sentence>
+	<opinion>aspect="WiFi APP" sentiment="pathetic" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Is not very flexible and lacks options.</sentence>
+	<opinion>aspect="options" sentiment="lacks" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Bad enough I resort to just manually transferring images the old way via the card or cable.</sentence>
+</review>
+<review codeProduct=1206456 idReview=5>
+	<sentence idSentence=1>Love this camera, great pictures and its easy to use.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=6>
+	<sentence idSentence=1>Overall a very good camera for its size.</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Good image quality and lots of manual settings on switches instead of in menu.</sentence>
+	<opinion>aspect="image quality" sentiment="Good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>But the exposure dial gets moved easily against the body if you have shoulder strap like mine and camera hangs on the side near the waist.</sentence>
+	<sentence idSentence=4>Because of this, I am returning the camera because 80% of the time I took the picture and noticed it being too dark, and saw the dial got moved to -3 EV on the dial.</sentence>
+	<sentence idSentence=5>If you carry it other ways, I guess it would be perfect.</sentence>
+</review>
+<review codeProduct=1206456 idReview=7>
+	<sentence idSentence=1>The LX100 is a very, very good camera.</sentence>
+	<opinion>aspect="LX100" sentiment="good camera" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's perfect for any advanced photographer that wants a camera that they can carry around without bringing extra lenses.</sentence>
+	<sentence idSentence=3>The leica lens on this is excellent, and at f/1.7 it is still very sharp.</sentence>
+	<opinion>aspect="f/1.7" sentiment="sharp" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<opinion>aspect="leica lens" sentiment="excellent" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=4>The 4k video recording is excellent, as well as the rest of the video functions- face tracking, stabilization, etc.</sentence>
+	<opinion>aspect="4k video" sentiment="excellent" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="face tracking" sentiment="excellent" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<opinion>aspect="stabilization" sentiment="excellent" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=5>Excellent ergonomics and size.</sentence>
+	<opinion>aspect="ergonomics" sentiment="Excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="size" sentiment="Excellent" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=6>It also looks really sleek and professional.</sentence>
+</review>
+<review codeProduct=1206456 idReview=8>
+	<sentence idSentence=1>At first, I was in the process of finding a small, compact camera that was great for video.</sentence>
+	<sentence idSentence=2>I was looking for something to complement my 5D Mark iii as a second camera.</sentence>
+	<sentence idSentence=3>It came down to two cameras - Sony Rx100 IV or the Panasonic LX100.</sentence>
+</review>
+<review codeProduct=1206456 idReview=9>
+	<sentence idSentence=1>Awesome point and shoot with a super quick lens, very fast and accurate autofocus, great in low light with the f1.7.</sentence>
+	<opinion>aspect="autofocus" sentiment="accurate" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<opinion>aspect="lens" sentiment="quick" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<opinion>aspect="autofocus" sentiment="fast" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=2>Wish the flash was built in but I have really not needed it much at all.</sentence>
+	<sentence idSentence=3>S not really an inconvenience.</sentence>
+	<sentence idSentence=4>4 k video is great.</sentence>
+	<opinion>aspect="4 k video" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=5>Retro look with the individual controls.</sentence>
+	<sentence idSentence=6>Intelligent auto not bad at all, but this isn't really meant for using in that mode only.</sentence>
+	<opinion>aspect="Intelligent auto" sentiment="not bad at all" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=7>4x digital zoom still auto focuses fantastically.</sentence>
+	<opinion>aspect="4x digital zoom" sentiment="focuses fantastically" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=8>My only real complaint is the placement of the exposure setting.</sentence>
+	<opinion>aspect="exposure setting" sentiment="real complaint" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=9>It can pretty easily be moved unintentionally and you have to be careful to notice your shot turned out over or under exposed because of that.</sentence>
+	<sentence idSentence=10>I am now very cognizant of that.</sentence>
+	<sentence idSentence=11>But other than that, very worth every penny.</sentence>
+	<sentence idSentence=12>This camera is a perfect addition to the GH4 or G7 as a fixed lens partner with pretty much the same capabilities if you are a beginner to early intermediate.</sentence>
+	<sentence idSentence=13>Could not be happier!</sentence>
+</review>
+<review codeProduct=1206456 idReview=10>
+	<sentence idSentence=1>Almost identical to Leica dlux 109.</sentence>
+	<sentence idSentence=2>F1.7 Summilux!</sentence>
+	<sentence idSentence=3>Photos are fabulous.</sentence>
+	<opinion>aspect="Photos" sentiment="fabulous" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>Alternative to a dslr for much less bulk.</sentence>
+</review>
+<review codeProduct=1206456 idReview=11>
+	<sentence idSentence=1>Good camera for potrait photos, 4k video.</sentence>
+	<opinion>aspect="camera" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Very good camera for beginners</sentence>
+</review>
+<review codeProduct=1206456 idReview=12>
+	<sentence idSentence=1>Great camera with many controls which are easy to use.</sentence>
+	<opinion>aspect="controls" sentiment="easy to use" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=13>
+	<sentence idSentence=1>This camera produces excellent 4k video, the still photos in my opinion were a little bit of a let down at higher ISOs</sentence>
+	<opinion>aspect="4k video" sentiment="excellent" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=14>
+	<sentence idSentence=1>Awesome camera.</sentence>
+	<opinion>aspect="camera" sentiment="Awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I bought it to shoot theatre and it has done well in low light.</sentence>
+</review>
+<review codeProduct=1206456 idReview=15>
+	<sentence idSentence=1>Great camera, took a little time to learn all of the features....</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>But definitely happy with this!</sentence>
+</review>
+<review codeProduct=1206456 idReview=16>
+	<sentence idSentence=1>Wow, this camera is simply fantastic.</sentence>
+	<opinion>aspect="camera" sentiment="fantastic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It takes absolutely amazing photo's and super quick.</sentence>
+	<opinion>aspect="quick" sentiment="super" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+	<sentence idSentence=3>I have large hands I find it alright to hold and take photo's.</sentence>
+	<sentence idSentence=4>Its fast, responsive, and build quality is very high.</sentence>
+	<opinion>aspect="build quality" sentiment="high" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>I hearitly recommend this camera to even amatures for taking fully automatic pics or to pro's that can fully use all the manual adjustments.</sentence>
+</review>
+<review codeProduct=1206456 idReview=17>
+	<sentence idSentence=1>I love having separate controls for shutter speed, aperture and exposure compensation.</sentence>
+	<opinion>aspect="separate controls" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The controls are so convenient and easy to use they encourage me to think more about the photos I take and and dial in the appropriate settings to maximize the quality of my photos.</sentence>
+	<opinion>aspect="controls" sentiment="convenient" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Using the controls is fun!</sentence>
+	<opinion>aspect="controls" sentiment="fun" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206456 idReview=18>
+	<sentence idSentence=1>I wasn't trying to replace my Canon 60D, but instead find a camera that I could use when I travel.</sentence>
+	<sentence idSentence=2>I wanted a high quality reliable camera that was light and portable.</sentence>
+	<sentence idSentence=3>It had to have convenient access to basic controls like aperture and shutter speed.</sentence>
+	<sentence idSentence=4>It did not bother me if the camera was a point and shoot with a fixed lens.</sentence>
+	<sentence idSentence=5>But how often can we afford to purchase a camera with a Leica lens.</sentence>
+</review>
+<review codeProduct=1206456 idReview=19>
+	<sentence idSentence=1>Great camera with very good lens.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="lens" sentiment="good" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=2>Has special options and is versatile.</sentence>
+	<sentence idSentence=3>It takes great pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>I also have a Canon 5D mark I I and this is a great substitute when you don't want to carry so much weight.</sentence>
+</review>
+<review codeProduct=1206456 idReview=20>
+	<sentence idSentence=1>This is a great camera upgrade from a point and shoot.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The quality is top notch and sharing is made easy with the wifi.</sentence>
+	<opinion>aspect="quality" sentiment="top" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=1>
+	<sentence idSentence=1>This is a great camera that opens the world up to alternate lenses for MFT.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Get a speedbooster and keep your existing lenses or go for the SUPER cheap FD Canons from days past.</sentence>
+</review>
+<review codeProduct=1206483 idReview=2>
+	<sentence idSentence=1>Awesome battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="Awesome" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<sentence idSentence=2>A double benefit because this thing will record in 4K until the battery is dead or the card runs out.</sentence>
+</review>
+<review codeProduct=1206483 idReview=3>
+	<sentence idSentence=1>This is my second Rebel and is a great deal and quality,</sentence>
+	<opinion>aspect="deal" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="quality" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=4>
+	<sentence idSentence=1>I would definitely purchase this camera again.....</sentence>
+</review>
+<review codeProduct=1206483 idReview=5>
+	<sentence idSentence=1>The battery life is pretty fantastic.</sentence>
+	<opinion>aspect="battery life" sentiment="fantastic" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<sentence idSentence=2>One battery lasts about as long as two batteries in the 7D or 5D Mark III.</sentence>
+	<sentence idSentence=3>I purchased a couple spares, but even while I'm out shooting for the day, I have yet to pop in a third battery.</sentence>
+</review>
+<review codeProduct=1206483 idReview=6>
+	<sentence idSentence=1>Great camera.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Amazing camcorder.</sentence>
+	<opinion>aspect="camcorder" sentiment="Amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Options galore.</sentence>
+	<opinion>aspect="Options" sentiment="galore" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Metabones is your friend.</sentence>
+</review>
+<review codeProduct=1206483 idReview=7>
+	<sentence idSentence=1>I purchased the GH4 to make short films, my main focus is video.</sentence>
+	<sentence idSentence=2>The video quality is amazing.</sentence>
+	<opinion>aspect="video quality" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I purchased both the zoom lenses at 2.8 and the work well for me.</sentence>
+	<sentence idSentence=4>I also purchased a couple olympus prime lenses that look good as well.</sentence>
+	<opinion>aspect="olympus prime lenses" sentiment="look good as well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Definite WIN for me and i price matched and got it for $1299.</sentence>
+</review>
+<review codeProduct=1206483 idReview=8>
+	<sentence idSentence=1>Battery life is awesome when shooting 4K.</sentence>
+	<opinion>aspect="Battery life" sentiment="awesome" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<sentence idSentence=2>Very impressed</sentence>
+</review>
+<review codeProduct=1206483 idReview=9>
+	<sentence idSentence=1>Awesome Camera.</sentence>
+	<opinion>aspect="Camera" sentiment="Awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>With a little knowledge you can get around low light issues.</sentence>
+	<sentence idSentence=3>Battery life is incredible.</sentence>
+	<opinion>aspect="Battery life" sentiment="incredible" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=10>
+	<sentence idSentence=1>Awesome camera.</sentence>
+	<opinion>aspect="camera" sentiment="Awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Love it.</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>Bought the 12-35 and 35-100 Lumix GX lenses too</sentence>
+</review>
+<review codeProduct=1206483 idReview=11>
+	<sentence idSentence=1>The GH4 suited my needs well.</sentence>
+	<sentence idSentence=2>Records 4K, 1080p 90fps Slow-Mo (no sound) with no time limits directly to SD Card.</sentence>
+	<sentence idSentence=3>F-Stop and Aperture dials made tuning the picture easy on the fly.</sentence>
+	<sentence idSentence=4>-- I like how the JPG stores this information so when I review my photographs in Shotwell the information is presented making me more aware of what them Zebra Strips (turn them on 90%) was about.</sentence>
+	<opinion>aspect="JPG stores" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=12>
+	<sentence idSentence=1>The battery life is also outstanding if you primarily use the excellent viewfinder rather than the real LCD.</sentence>
+	<opinion>aspect="battery life" sentiment="outstanding" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<opinion>aspect="viewfinder" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>So if you're a photographer and need to travel light, I can tell you it's made a huge difference to me.</sentence>
+</review>
+<review codeProduct=1206483 idReview=13>
+	<sentence idSentence=1>This is my first camera and I am enjoying how intuitive its operation has been.</sentence>
+	<opinion>aspect="operation" sentiment="intuitive" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I would definitely recommend it to a friend !</sentence>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=1206483 idReview=14>
+	<sentence idSentence=1>Amazing piece of equipment, light weight and just feels right in the palm of your hand.</sentence>
+	<opinion>aspect="weight" sentiment="light" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="piece of equipment" sentiment="Amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I purchased the gh4 for its 4k capability and its cinematic quality video.</sentence>
+	<opinion>aspect="quality video" sentiment="cinematic" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The gh4 has exceeded all my expectation and for the price its definitely a steal.</sentence>
+	<opinion>aspect="price" sentiment="steal" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>However, one little draw back is the gh4 ability to perform in low light.</sentence>
+	<opinion>aspect="ability to perform in low light" sentiment="draw back" polarity="Negative" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=5>This can be remedied with a metabones speed booster both available for nikon and cannon glass.In addition the camera does take quality pictures and the 4k picture capture is a plus.</sentence>
+	<opinion>aspect="camera" sentiment="quality" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=6>Overall this is a quality camera and I am very satisfied with my purchase.</sentence>
+	<opinion>aspect="camera" sentiment="quality" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=15>
+	<sentence idSentence=1>Buy this camera for the video, not for the stills.</sentence>
+	<sentence idSentence=2>If most of your work is stills, you'd be better buying a larger sensor camera with more lens options.</sentence>
+	<sentence idSentence=3>Sounds cliche, but it's true.</sentence>
+</review>
+<review codeProduct=1206483 idReview=16>
+	<sentence idSentence=1>I'm an independent filmmaker who prefers filming on DSLR's for their affordability, creamy depth of field, and portability.</sentence>
+	<sentence idSentence=2>This camera exceeds on all levels!</sentence>
+	<opinion>aspect="camera" sentiment="exceeds on all levels" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>I've had the GH4 for over a month now and already after the first couple days I knew I could never return to my Canon 7D - which I loved for so very long.</sentence>
+</review>
+<review codeProduct=1206483 idReview=17>
+	<sentence idSentence=1>I bought this camera as a starter camera to learn how to shoot better.</sentence>
+	<sentence idSentence=2>I really like the video option for 4K though it performs poorly in low light.</sentence>
+	<opinion>aspect="video option" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>My stills have good quality and are suitable for what I wanted at this time.</sentence>
+	<sentence idSentence=4>Be sure to get extra batteries as the battery life is not great--I record a lot of images.</sentence>
+	<opinion>aspect="battery life" sentiment="not great" polarity="Negative" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=18>
+	<sentence idSentence=1>my first real camera.</sentence>
+	<opinion>aspect="camera" sentiment="real" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I'm impressed so far.</sentence>
+	<sentence idSentence=3>too many options that I have to learn how you use</sentence>
+</review>
+<review codeProduct=1206483 idReview=19>
+	<sentence idSentence=1>The 4K Ultra HD feature is a major plus in this small camera.</sentence>
+</review>
+<review codeProduct=1206483 idReview=20>
+	<sentence idSentence=1>Unbelievable amount of quality packed in this 4K video camera which acts like a superb still camera as well.</sentence>
+	<sentence idSentence=2>Razor sharp focus.</sentence>
+	<opinion>aspect="focus" sentiment="sharp" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<sentence idSentence=3>Outstanding feel.</sentence>
+	<opinion>aspect="feel" sentiment="Outstanding" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>So much value.</sentence>
+	<opinion>aspect="value" sentiment="much" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=5>And weather resistant.</sentence>
+	<sentence idSentence=6>I asked several pro photographers who use this and hey swear by it.</sentence>
+	<sentence idSentence=7>The GH5 will come out soon, but this is packed with value and 4 k is all you really need for the foreseeable future.</sentence>
+	<sentence idSentence=8>The video capability is stunning.</sentence>
+	<opinion>aspect="video capability" sentiment="stunning" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1206483 idReview=21>
+	<sentence idSentence=1>for photo I do not think it's so good in fact lacking in quality, but 4k video is amazing on many other brands dslr!!!!!</sentence>
+	<opinion>aspect="4k video" sentiment="amazing" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>it's amazing+++ video DSLR</sentence>
+	<opinion>aspect="video DSLR" sentiment="amazing" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+</review>
+<review codeProduct=1221129 idReview=1>
+	<sentence idSentence=1>We were looking for the perfect gift for our 6 year old granddaughter's birthday and saw this darling camera.</sentence>
+	<opinion>aspect="camera" sentiment="darling" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>We indeed hit the jackpot.</sentence>
+	<sentence idSentence=3>She absolutely loves it!</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=4>Especially because it has her favorite color, purple!</sentence>
+	<sentence idSentence=5>We are very pleased with our choice and would highly recommend this digital camera for a first-time photographer.</sentence>
+	<opinion>aspect="digital camera" sentiment="recommend" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1221129 idReview=2>
+	<sentence idSentence=1>I bought this camera for my granddaughter and she loves it!</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1221129 idReview=3>
+	<sentence idSentence=1>Would not recommend this camera for your advanced photographer.</sentence>
+	<sentence idSentence=2>I bout this thinking i could make money for my photography business and save some because it was only like 39 dollas.</sentence>
+	<sentence idSentence=3>It is bad....</sentence>
+</review>
+<review codeProduct=1221129 idReview=4>
+	<sentence idSentence=1>They are excited, just can't wait to see the pictures @ videos.</sentence>
+</review>
+<review codeProduct=1267017 idReview=1>
+	<sentence idSentence=1>I bought the Canon Rebel T6 for my college age daughter and she loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>She says it is easy to learn to use, she loves the Wi-Fi feature, and the battery life is good.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="Wi-Fi feature" sentiment="loves" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<sentence idSentence=3>Great camera for her and she has already used it often.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=2>
+	<sentence idSentence=1>The zoom lens is super cool and takes great pics when you hold it fairly still.</sentence>
+	<opinion>aspect="zoom lens" sentiment="cool" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=2>It is a great little camera.</sentence>
+	<opinion>aspect="little camera." sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>The case is pretty awesome and it is a good deal to buy it all together.</sentence>
+	<opinion>aspect="case" sentiment="pretty awesome" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="deal" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=3>
+	<sentence idSentence=1>This Camera is a great addition to my photography collection.</sentence>
+	<opinion>aspect="Camera" sentiment="great addition" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It has advanced photo tech and is not over bulky.</sentence>
+	<sentence idSentence=3>It has a great zoom without losing quality.</sentence>
+	<opinion>aspect="zoom" sentiment="great" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=4>This camera will definitely assist me in my journey to photography greatness.</sentence>
+</review>
+<review codeProduct=1267017 idReview=4>
+	<sentence idSentence=1>I got this for my toddler as he is always trying to take our camera so he can take pictures.</sentence>
+	<sentence idSentence=2>It is durable, but I am disappointed at the quality of the pictures on the screen.</sentence>
+	<opinion>aspect="quality of the pictures on the screen" sentiment="disappointed" polarity="Negative" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>It is hard to see what the photo actually is.</sentence>
+	<sentence idSentence=4>I have not yet tried to download and print so that is TBD.</sentence>
+	<sentence idSentence=5>It is disappointing though because he cannot scroll through and see the photos he has taken.I probably would not recommend this item.</sentence>
+</review>
+<review codeProduct=1267017 idReview=5>
+	<sentence idSentence=1>I've already taken over 500 photos with the camera and it performed perfectly.</sentence>
+	<opinion>aspect="performed" sentiment="perfectly" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=6>
+	<sentence idSentence=1>I bought this for my GF whos getting started with photography, plenty of features and the lenses are good.</sentence>
+	<opinion>aspect="lenses" sentiment="good" polarity="Positive" aspectClass="Zoom" type="explicit"</opinion>
+	<opinion>aspect="plenty of features" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great battery life, only gripe is no external mic input.</sentence>
+	<opinion>aspect="battery life" sentiment="Great" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=7>
+	<sentence idSentence=1>Bought for daughter.</sentence>
+	<sentence idSentence=2>Has many options and easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Great first camera.</sentence>
+	<opinion>aspect="first camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>I've been use to Nikon for years so the system just feels a little light and cheap, but performance seems fine.</sentence>
+	<opinion>aspect="performance" sentiment="fine" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=8>
+	<sentence idSentence=1>Not being a skilled photographer, this camera is perfect!</sentence>
+	<opinion>aspect="camera" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to use and takes gorgeous photos!</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="photos" sentiment="gorgeous" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>It does all of the work for you!</sentence>
+	<sentence idSentence=4>Great battery life!</sentence>
+	<opinion>aspect="battery life" sentiment="Great" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=9>
+	<sentence idSentence=1>Love this camera!</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Takes excellent photos.</sentence>
+	<opinion>aspect="photos" sentiment="excellent" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>Great battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="Great" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=10>
+	<sentence idSentence=1>my daughter loves her camera and the excellent performance especially now with all these event.</sentence>
+	<opinion>aspect="performance" sentiment="excellent" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=11>
+	<sentence idSentence=1>Excellent performance, easy to use, great tutorial online.</sentence>
+	<opinion>aspect="performance" sentiment="Excellent" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="tutorial online" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1267017 idReview=12>
+	<sentence idSentence=1>Bought this for a four year old.</sentence>
+	<sentence idSentence=2>Lots of fun and very instructional!</sentence>
+	<opinion>aspect="instructional" sentiment="very" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=1>
+	<sentence idSentence=1>Quality of pictures is only ok. You get what you pay for.</sentence>
+	<opinion>aspect="Quality of pictures" sentiment="only ok" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Film is expensive</sentence>
+	<opinion>aspect="Film" sentiment="expensive" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=2>
+	<sentence idSentence=1>We had a great time taking pictures with all the kids.</sentence>
+	<sentence idSentence=2>My daughter and her friends took pictures all day long.</sentence>
+	<sentence idSentence=3>Great memories made that day.</sentence>
+</review>
+<review codeProduct=1319358 idReview=3>
+	<sentence idSentence=1>My daughter wanted this camera for Christmas; this is a case of "what's old is new again" kind of like vinyl records.</sentence>
+	<sentence idSentence=2>Apparently this is becoming popular with the kids.</sentence>
+	<sentence idSentence=3>The pictures come out very small, so make sure you are ok with the tiny photos.</sentence>
+	<opinion>aspect="photos" sentiment="tiny" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="small" polarity="Negative" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>We took a bunch inside at night, and the room light levels were enough to produce decent pictures.</sentence>
+</review>
+<review codeProduct=1319358 idReview=4>
+	<sentence idSentence=1>I bought it for my daughter for Christmas.</sentence>
+	<sentence idSentence=2>She loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>Like me when I was a kid with my Poloroid.</sentence>
+</review>
+<review codeProduct=1319358 idReview=5>
+	<sentence idSentence=1>Bought this for my 10 year old grand daughter.</sentence>
+	<sentence idSentence=2>She loves it !!!</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>Easy to work..</sentence>
+	<opinion>aspect="work" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>The only disadvantage is the cost of the film.</sentence>
+	<opinion>aspect="cost of the film" sentiment="disadvantage" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=6>
+	<sentence idSentence=1>My daughter loves this camera.</sentence>
+	<opinion>aspect="camera" sentiment="loves" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Her sister also has one and they love the instant pictures they get.</sentence>
+</review>
+<review codeProduct=1319358 idReview=7>
+	<sentence idSentence=1>Camera is easy to use, and light to carry and hold.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="carry" sentiment="light" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="hold" sentiment="light" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=8>
+	<sentence idSentence=1>My granddaughter loved it.</sentence>
+	<opinion>aspect="it" sentiment="loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>She enjoys passing out the photos she takes.</sentence>
+</review>
+<review codeProduct=1319358 idReview=9>
+	<sentence idSentence=1>My granddaughter loves this camera.</sentence>
+	<opinion>aspect="camera" sentiment="loves" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Easy for her to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=10>
+	<sentence idSentence=1>Bought this for my 6 year old daughters and they absolutely love it.</sentence>
+	<sentence idSentence=2>Durable, works great, and it's very easy to use.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Durable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=11>
+	<sentence idSentence=1>Bought this for my girlfriend, it's a cool modern style Polaroid instant camera.</sentence>
+	<opinion>aspect="camera" sentiment="modern style" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Takes nice pics!</sentence>
+	<opinion>aspect="pics" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>My girlfriend is very happy with this camera!</sentence>
+	<opinion>aspect="camera" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=12>
+	<sentence idSentence=1>Got it for Christmas and i love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Works perfectly!</sentence>
+	<opinion>aspect="Works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=13>
+	<sentence idSentence=1>great camera for my eleven year old granddaughter.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=14>
+	<sentence idSentence=1>Simple to use good for a teenager.</sentence>
+	<opinion>aspect="use" sentiment="Simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Handy and fun.</sentence>
+	<sentence idSentence=3>Good for having instant prints.</sentence>
+	<opinion>aspect="instant prints" sentiment="Good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=15>
+	<sentence idSentence=1>My wife loves the ability to produce photos instantly, and I absolutely adore the novelty of having an instant camera again.</sentence>
+	<sentence idSentence=2>Fuji made a fun product that brings old ways of photography back to the forefront.</sentence>
+	<opinion>aspect="product" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=16>
+	<sentence idSentence=1>Fun cameras for kids who never knew about Polaroids and instant pictures.</sentence>
+	<opinion>aspect="cameras" sentiment="Fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>They love watching the pic develop.</sentence>
+	<opinion>aspect="watching the pic develop" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The colors are fun, too.</sentence>
+	<opinion>aspect="colors" sentiment="fun" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>The film is a tad expensive.</sentence>
+	<opinion>aspect="film" sentiment="expensive" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=17>
+	<sentence idSentence=1>This is the type of camera that is mostly for fun and for someone to have ready-made photos to take away and give away!</sentence>
+	<opinion>aspect="camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=18>
+	<sentence idSentence=1>Highly recommended for younger children to use.</sentence>
+	<sentence idSentence=2>Very easy to operate.</sentence>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Quality is very good.</sentence>
+	<opinion>aspect="Quality" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=19>
+	<sentence idSentence=1>i love this little camera, super fun and easy to capture quick moments.</sentence>
+	<opinion>aspect="capture quick moments" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=20>
+	<sentence idSentence=1>fits nicely in hand.</sentence>
+	<sentence idSentence=2>Produces wallet size photos instantly .</sentence>
+</review>
+<review codeProduct=1319358 idReview=21>
+	<sentence idSentence=1>I've been using this camera for a while now and very impressed with the picture quality.</sentence>
+	<opinion>aspect="picture quality" sentiment="impressed" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It's a small picture but comes out instantly.</sentence>
+	<opinion>aspect="picture" sentiment="small" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Great for craft work.</sentence>
+	<opinion>aspect="craft work" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=22>
+	<sentence idSentence=1>I bought it for my daughter for Christmas, it is a lot of fun talking small pics and they are ready to print and see.</sentence>
+</review>
+<review codeProduct=1319358 idReview=23>
+	<sentence idSentence=1>My Grandaughter loves it.</sentence>
+	<sentence idSentence=2>I gave it to her for a Christmas gift.</sentence>
+</review>
+<review codeProduct=1319358 idReview=24>
+	<sentence idSentence=1>Quick purchase n fast shipping to me which I was very pleased so I was able to surprise my daughter before Christmas.</sentence>
+	<opinion>aspect="purchase" sentiment="Quick" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="shipping" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great value for the price.</sentence>
+	<opinion>aspect="value" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1319358 idReview=25>
+	<sentence idSentence=1>I grew up in the Polaroid era, and remember all too well having to wave the photos back &amp; forth while they develop.</sentence>
+	<sentence idSentence=2>It was cool at the time, but like everything else, outlived it's usefulness.</sentence>
+	<sentence idSentence=3>Fast forward to 2016 and this winds up on my daughters Christmas list.</sentence>
+	<sentence idSentence=4>I won't lie, I think this is completely ridiculous, but she loves it and it works great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>It's fun to watch the terror in a 12 year old's eyes when you tell her that she has to pay for her own film, which by the way, a 12 year old can rip through at a staggering rate.</sentence>
+</review>
+<review codeProduct=1319385 idReview=1>
+	<sentence idSentence=1>This is exactly what I was looking for, and my granddaughter really wanted this, it is a great little camera for the price</sentence>
+	<opinion>aspect="camera" sentiment="great little" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=2>
+	<sentence idSentence=1>I know, digital pics are great, but this cam with it's instant photos is very cool.</sentence>
+	<opinion>aspect="cam" sentiment="cool" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="digital pics" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=3>
+	<sentence idSentence=1>This camera is very neat and it reminds me of back in the day.</sentence>
+	<opinion>aspect="camera" sentiment="neat" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=4>
+	<sentence idSentence=1>This is a fun camera and I love it!</sentence>
+	<opinion>aspect="camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Makes a great gift for anyone!</sentence>
+	<opinion>aspect="gift" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=5>
+	<sentence idSentence=1>Happy with the performance for what it is.</sentence>
+	<opinion>aspect="performance" sentiment="Happy" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+	<sentence idSentence=2>But plastic melts easy.</sentence>
+	<sentence idSentence=3>Cord melted into the camera and it was not even in the hot sun.</sentence>
+	<sentence idSentence=4>We are not sure what even happened.</sentence>
+	<sentence idSentence=5>Was very odd.</sentence>
+	<sentence idSentence=6>Battery case was fine.</sentence>
+	<opinion>aspect="Battery case" sentiment="fine" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=6>
+	<sentence idSentence=1>Love this device so far, the only issues I've had is understanding the brightness features for using flash but I've had some great photos taken so far this summer!</sentence>
+	<opinion>aspect="device" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="photos" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=7>
+	<sentence idSentence=1>So glad I found it and can't stop using it.</sentence>
+	<sentence idSentence=2>I love it</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319385 idReview=8>
+	<sentence idSentence=1>This is a great camera and wonderful for having instant photos that you can give away.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The film itself is a bit pricey and it is really easy to burn through it if you're not careful.</sentence>
+	<opinion>aspect="film" sentiment="pricey" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=9>
+	<sentence idSentence=1>Bought this for my 12 year old daughter and she absolutely loves it!</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>She's taking her first trip to NYC and is excited to capture her visit.</sentence>
+</review>
+<review codeProduct=1319385 idReview=10>
+	<sentence idSentence=1>Oh I love it so much it's doing so good I had another one but it's actually broke.</sentence>
+	<sentence idSentence=2>No one's fault but my own I love this camera and I would recommend it to just about anyone.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>However keep in mind it is a toy camera so in a way and should be regarded as such although performance is totally top notch for the price.</sentence>
+	<opinion>aspect="performance" sentiment="top" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=11>
+	<sentence idSentence=1>Great instant film camera.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Amazon has these at the lowest prices (I shopped around).</sentence>
+	<sentence idSentence=3>Overall, the product has performed well - just be sure to have it on the right setting when you are outside or else your pictures will come out too dark!</sentence>
+	<opinion>aspect="performed" sentiment="well" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=12>
+	<sentence idSentence=1>We're planning on passing it around to guests during our wedding for a fun keepsake instead of a photo booth.</sentence>
+</review>
+<review codeProduct=1319385 idReview=13>
+	<sentence idSentence=1>Love this camera, and we bought it to take fun pictures and post around the house.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The only issue is sometimes the film gets jammed and you end up exposing the whole roll trying to unjam it.</sentence>
+	<sentence idSentence=3>A plus is the film is $10 for 20 sheets vs the competition.</sentence>
+</review>
+<review codeProduct=1319385 idReview=14>
+	<sentence idSentence=1>This camera was a gift for my teenage daughter and she loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>I just wish the film cartridge was more than 10 Polaroids.</sentence>
+	<sentence idSentence=3>She goes through really quickly.</sentence>
+</review>
+<review codeProduct=1319385 idReview=15>
+	<sentence idSentence=1>This camera is very convenient because you get your film instantly but the photos are very small and the photos look far away.</sentence>
+	<opinion>aspect="camera" sentiment="convenient" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="photos" sentiment="small" polarity="Negative" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>The film is also very pricey.</sentence>
+	<opinion>aspect="film" sentiment="pricey" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>You are paying $1 per photo.</sentence>
+</review>
+<review codeProduct=1319385 idReview=16>
+	<sentence idSentence=1>Kids love the instant picture; amazed how picture suddenly appears like magic...</sentence>
+	<opinion>aspect="instant picture" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="picture suddenly appears" sentiment="amazed" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=17>
+	<sentence idSentence=1>I am very pleased with the durability and performance of this instant Polaroid camera!</sentence>
+	<opinion>aspect="durability" sentiment="pleased" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="performance" sentiment="pleased" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=18>
+	<sentence idSentence=1>Love the pictures they take and how instant they are.</sentence>
+	<opinion>aspect="pictures" sentiment="Love" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>Pretty colors</sentence>
+	<opinion>aspect="colors" sentiment="Pretty" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=19>
+	<sentence idSentence=1>This is an awesome camera, I take it everywhere I go</sentence>
+	<opinion>aspect="camera" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=20>
+	<sentence idSentence=1>I love these cameras so much!</sentence>
+	<opinion>aspect="cameras" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>They're so cute and awesome!</sentence>
+</review>
+<review codeProduct=1319385 idReview=21>
+	<sentence idSentence=1>I bought it as a gift, it´s a perfect camera to create original memories</sentence>
+	<opinion>aspect="camera" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=22>
+	<sentence idSentence=1>Bought this camera for my daughter's b'day.</sentence>
+	<sentence idSentence=2>She has had lots of fun with it.</sentence>
+</review>
+<review codeProduct=1319385 idReview=23>
+	<sentence idSentence=1>My son wanted a camera to take instant pictures while we were on vacation.</sentence>
+	<sentence idSentence=2>He enjoyed it immensely.</sentence>
+	<sentence idSentence=3>The only reason the rating wasn't 5 stars is a few of the pictures never developed despite following the instructions.</sentence>
+	<sentence idSentence=4>Overall the camera works great for a beginner or someone who is solely used to taking digital pictures there whole life.</sentence>
+	<opinion>aspect="camera" sentiment="works great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=24>
+	<sentence idSentence=1>I bought this for my granddaughter who loves to take pic.</sentence>
+	<sentence idSentence=2>It was easy to put film in and easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="put film" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Price could be a little cheaper.</sentence>
+	<opinion>aspect="Price" sentiment="could be a little cheaper" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>But it is a nice camera and takes pics well.</sentence>
+	<opinion>aspect="camera" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="takes pics" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Taking pics to far away can look to far or small.</sentence>
+	<sentence idSentence=6>I gave a 4 for price.</sentence>
+</review>
+<review codeProduct=1319385 idReview=25>
+	<sentence idSentence=1>It was awesome and easy to use for anyone young or old</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=26>
+	<sentence idSentence=1>Camera works great and plays welll very worth the money.</sentence>
+	<opinion>aspect="plays" sentiment="welll" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=27>
+	<sentence idSentence=1>Bought it for a niece for 16th birthday.</sentence>
+	<sentence idSentence=2>She loves the size and photo performance.</sentence>
+	<opinion>aspect="size" sentiment="loves" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="photo performance" sentiment="loves" polarity="Positive" aspectClass="Performance" type="explicit"</opinion>
+	<sentence idSentence=3>Pics are great.</sentence>
+	<opinion>aspect="Pics" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>Price was right, and extra film bought was well worth it.</sentence>
+	<opinion>aspect="Price" sentiment="right" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1319385 idReview=28>
+	<sentence idSentence=1>My daughter loves this camera.</sentence>
+	<opinion>aspect="camera" sentiment="loves" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It takes great pictures and she is able to capture and create amazing memories with friends instantly.</sentence>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="memories" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=1>
+	<sentence idSentence=1>Not a great camera but a good instant picture camera.</sentence>
+	<opinion>aspect="instant picture camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Not a great" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Quality is what you expect but print outs are a little small</sentence>
+	<opinion>aspect="print outs" sentiment="little small" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=2>
+	<sentence idSentence=1>I got this camera for my daughter on her birthday.</sentence>
+	<sentence idSentence=2>She loves it it's very fun for instant gratification of great moments.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>I was waiting to see if she would use me as a first picture given that I paid for it and she did which made me so happy.</sentence>
+	<sentence idSentence=4>Lol</sentence>
+</review>
+<review codeProduct=1319394 idReview=3>
+	<sentence idSentence=1>Got this Camera for my daughter for her 10th birthday she loves it takes nice quality pictures my 18 year old daughter liked it so much I had to buy her one to.</sentence>
+	<opinion>aspect="pictures" sentiment="quality" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=4>
+	<sentence idSentence=1>The pictures come out so light that you cannot see what they are.</sentence>
+	<opinion>aspect="pictures" sentiment="so light" polarity="Negative" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>Very disappointed, does not work.</sentence>
+	<opinion>aspect="disappointed" sentiment="" polarity="Negative" aspectClass="General" type="implicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=5>
+	<sentence idSentence=1>My granddaughter absolutely loves this camera and the fact that the pictures are immediately available</sentence>
+	<opinion>aspect="camera" sentiment="loves" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="immediately available" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=6>
+	<sentence idSentence=1>I bought this for my daughter's 18th birthday and she loves it!</sentence>
+	<sentence idSentence=2>She takes it everywhere she goes.</sentence>
+	<sentence idSentence=3>I would recommend buying the matching case, as I did, easier to carry.</sentence>
+	<opinion>aspect="carry" sentiment="easier" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>I'll be buying another one for my 14 year old who's been begging since her sister got hers.</sentence>
+</review>
+<review codeProduct=1319394 idReview=7>
+	<sentence idSentence=1>I bought this as a gift for my sister and I absolutely love it, I'm getting one for me.</sentence>
+	<sentence idSentence=2>She loved it, it's easy to use and best size for scrap booking.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The only but it's that the cartridges are pretty expensive.</sentence>
+	<opinion>aspect="cartridges" sentiment="pretty expensive" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=8>
+	<sentence idSentence=1>I love the fact that the pictures come as soon as you take them really nice for insta memories etc</sentence>
+</review>
+<review codeProduct=1319394 idReview=9>
+	<sentence idSentence=1>This camera is not the best out their but it works, sometimes the pictures dont come out, sometimes they come out too dark, even after adjusting the setting.</sentence>
+</review>
+<review codeProduct=1319394 idReview=10>
+	<sentence idSentence=1>Camera creates memories for a special event.</sentence>
+	<opinion>aspect="Camera" sentiment="creates memories" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Have a picture instantly produce.</sentence>
+</review>
+<review codeProduct=1319394 idReview=11>
+	<sentence idSentence=1>Easy to use she's having so much fun with it.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Best price on film here too.</sentence>
+	<opinion>aspect="price on film" sentiment="Best" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=12>
+	<sentence idSentence=1>Bought this as a gift for my girlfriend.</sentence>
+	<sentence idSentence=2>Turned out to be an awesome camera.</sentence>
+	<opinion>aspect="camera" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Not ideal for a compact camera but the photos come out clear.</sentence>
+	<opinion>aspect="compact camera" sentiment="Not ideal" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>It is stylish and great quality.</sentence>
+	<opinion>aspect="quality" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="It" sentiment="stylish" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319394 idReview=13>
+	<sentence idSentence=1>I find this camera fun and it makes clear pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="clear" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=14>
+	<sentence idSentence=1>purchased the camera with price much lower than another store.</sentence>
+	<sentence idSentence=2>great deal!</sentence>
+	<opinion>aspect="deal" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=15>
+	<sentence idSentence=1>It was a gift.</sentence>
+	<sentence idSentence=2>The person enjoyed the camera but was having difficulty with the film</sentence>
+	<opinion>aspect="film" sentiment="difficulty" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=16>
+	<sentence idSentence=1>This camera is amazing.</sentence>
+	<opinion>aspect="camera" sentiment="amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Im in love with my camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=17>
+	<sentence idSentence=1>I bought this camera for my 10 year old niece and she loved it.</sentence>
+	<opinion>aspect="it" sentiment="loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>It was easy enough for her to use and she has never had a problem with it.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Great gift idea!</sentence>
+</review>
+<review codeProduct=1319394 idReview=18>
+	<sentence idSentence=1>My wife and kids love this camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Its a modern Polaroid.</sentence>
+	<opinion>aspect="Polaroid" sentiment="modern" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Picture quality is good, not great.</sentence>
+	<opinion>aspect="Picture quality" sentiment="good" polarity="Neutral" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>But it's what you would expect for the price!</sentence>
+</review>
+<review codeProduct=1319394 idReview=19>
+	<sentence idSentence=1>Got this for my friends daughter for her birthday.</sentence>
+	<sentence idSentence=2>She just loves it!</sentence>
+	<sentence idSentence=3>Good quality camera and pics.</sentence>
+	<opinion>aspect="camera" sentiment="Good quality" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pics" sentiment="Good quality" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=4>She can't get over how you take a pic and it prints instantly, highly recommend this for any child!</sentence>
+	<opinion>aspect="prints" sentiment="instantly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=20>
+	<sentence idSentence=1>I bought this for my daughter's field trip, it was such a hit I had to purchase a second one for my youngest daughter</sentence>
+</review>
+<review codeProduct=1319394 idReview=21>
+	<sentence idSentence=1>Great camera.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Good quality pics, bought a pink one for our 11yr old girl.</sentence>
+	<opinion>aspect="quality pics" sentiment="Good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>She loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319394 idReview=22>
+	<sentence idSentence=1>The color is nice and the quality of the photos is really good.</sentence>
+	<opinion>aspect="color" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="quality of the photos" sentiment="good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=23>
+	<sentence idSentence=1>The pictures that this camera takes are pretty small but they print very quickly.</sentence>
+	<opinion>aspect="print" sentiment="quickly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="small" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>I think it's a perfect camera for scrap booking or creating a collage</sentence>
+	<opinion>aspect="camera" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=24>
+	<sentence idSentence=1>Adorable camera.</sentence>
+	<opinion>aspect="camera" sentiment="Adorable" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Small and easy to take with you.</sentence>
+	<opinion>aspect="take with you" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=3>The pics come out so artsy!</sentence>
+</review>
+<review codeProduct=1319394 idReview=25>
+	<sentence idSentence=1>I think it's ok but I wish the film I put in would be cheaper and more in it.</sentence>
+</review>
+<review codeProduct=1319394 idReview=26>
+	<sentence idSentence=1>A simple YouTube video helped me understand all of the settings, but this cute mini is easy to take along any day as it is very compact and light.</sentence>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="light" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>So far, I have no come across any downsides within my two months of usage.</sentence>
+</review>
+<review codeProduct=1319394 idReview=27>
+	<sentence idSentence=1>easy to use, great pics!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pics" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=28>
+	<sentence idSentence=1>Gave one of each to my kids....they love it...good to be able to introduce them with Polaroid ...like the old days....only hung this has better quality than the old one during 80's.....</sentence>
+</review>
+<review codeProduct=1319394 idReview=29>
+	<sentence idSentence=1>This is good camera for beginner and easy to carry.</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="carry" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=30>
+	<sentence idSentence=1>Bought this camera for my wife as a gift, she absolutely loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>We take it with us everywhere.</sentence>
+	<sentence idSentence=3>Great way to capture memorable moments.</sentence>
+	<sentence idSentence=4>Highly recommend this to anyone.</sentence>
+</review>
+<review codeProduct=1319394 idReview=31>
+	<sentence idSentence=1>I love it, its small and cute and I love how my Polaroids turn out!</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="cute" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=1319394 idReview=32>
+	<sentence idSentence=1>Absolutely love this camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It bring you back to the not so technological days and it's a great way to capture those special memories without going onto a store to print them off.</sentence>
+</review>
+<review codeProduct=1319394 idReview=33>
+	<sentence idSentence=1>Such a great little camera.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>So much fun!!</sentence>
+	<sentence idSentence=3>My clients absolutely love receiving the little poloroids!</sentence>
+</review>
+<review codeProduct=1319394 idReview=34>
+	<sentence idSentence=1>I was skeptical about buying this camera but I am glad I did.</sentence>
+	<sentence idSentence=2>Haven't had a problem with it.</sentence>
+	<sentence idSentence=3>Highly recommended.</sentence>
+</review>
+<review codeProduct=1319409 idReview=1>
+	<sentence idSentence=1>Love this camera!</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>We are using this for our wedding guestbook, and it works perfectly.</sentence>
+	<opinion>aspect="works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Did a few test shots and is exactly what I expected!</sentence>
+	<sentence idSentence=4>Will be perfect for fun gatherings and recording those memories for scrapbooks - yes we have our phones to use, but sometimes you want something a little old school and it's great!</sentence>
+	<opinion>aspect="gatherings" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="scrapbooks" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=2>
+	<sentence idSentence=1>I snagged this item up when I first dropped price and ever since then I've been completely satisfied.</sentence>
+	<sentence idSentence=2>Great little pictures to save memores.</sentence>
+	<opinion>aspect="pictures" sentiment="Great little" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=3>
+	<sentence idSentence=1>the camera is pretty amazing!</sentence>
+	<opinion>aspect="camera" sentiment="amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>the picture quality is very good.</sentence>
+	<opinion>aspect="picture quality" sentiment="good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>Fun camera to have</sentence>
+	<opinion>aspect="camera" sentiment="Fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=4>
+	<sentence idSentence=1>THis was a perfect gift for hard to buy friends.</sentence>
+	<opinion>aspect="gift" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Fun item to have around.</sentence>
+	<opinion>aspect="item" sentiment="Fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=5>
+	<sentence idSentence=1>Good product, I would suggest this as a great gift for teens.</sentence>
+	<opinion>aspect="product" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=6>
+	<sentence idSentence=1>I love this camera.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I got one for myself long ago and I got this one as a wedding gift for my friend.</sentence>
+	<sentence idSentence=3>She was very happy.</sentence>
+	<sentence idSentence=4>Is really fun and I have the photos in my office or living room hanging</sentence>
+</review>
+<review codeProduct=1319409 idReview=7>
+	<sentence idSentence=1>This camera is fun, cute, and small.</sentence>
+	<opinion>aspect="camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="cute" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="small" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It works great and the film isn't too pricey!</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="film" sentiment="n't too pricey" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=8>
+	<sentence idSentence=1>My niece is having a great time with this camera.</sentence>
+	<sentence idSentence=2>She loves the pics and how instantly she has the pic</sentence>
+	<opinion>aspect="pics" sentiment="loves" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=9>
+	<sentence idSentence=1>I Absolutely Adore This Camera.</sentence>
+	<opinion>aspect="Camera" sentiment="Adore" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It Gives The Pictures Some Type Of Vintage Effect That I Love &amp; It's Honestly The Best Instant Camera Out There.</sentence>
+	<opinion>aspect="Instant Camera" sentiment="Best" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=10>
+	<sentence idSentence=1>Got it for my little sister and she loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>It's great right then and there kind of pictures.</sentence>
+</review>
+<review codeProduct=1319409 idReview=11>
+	<sentence idSentence=1>The Fuji Film instant camera is so fun and is easy to take with you!</sentence>
+	<opinion>aspect="Fuji Film instant camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's a little bigger than your palm so it fits most places.</sentence>
+	<sentence idSentence=3>If you loved Polaroids, this will make you feel nostalgic!</sentence>
+</review>
+<review codeProduct=1319409 idReview=12>
+	<sentence idSentence=1>Great pictures and lots of fun I think the color is way better than the competition I returned a polaroid to get this and I'm real happy with my purchase</sentence>
+	<opinion>aspect="pictures" sentiment="Great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="purchase" sentiment="happy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=13>
+	<sentence idSentence=1>Like this camera a lot it's good to take pics of my new born and It's simple to use...</sentence>
+	<opinion>aspect="use" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=14>
+	<sentence idSentence=1>Would recommend to a friend easy to work with and load</sentence>
+	<opinion>aspect="work" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=15>
+	<sentence idSentence=1>Exelente camara instantanea, prara tomar fotos y cargarlas en tu cartera..</sentence>
+	<opinion>aspect="camara instantanea" sentiment="Exelente" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=16>
+	<sentence idSentence=1>Purchased for my daughter, she loves it, takes the cutest little pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="cutest" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319409 idReview=17>
+	<sentence idSentence=1>I love how easy camera is to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Love the pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=18>
+	<sentence idSentence=1>Cute little photos at the touch of a button!</sentence>
+	<sentence idSentence=2>Easy to use!</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=19>
+	<sentence idSentence=1>Very easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>There are a few exposure/lighting settings that are easy to learn.</sentence>
+	<opinion>aspect="learn" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Film can be expensive but can be found online for cheaper.</sentence>
+	<opinion>aspect="Film" sentiment="expensive" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=20>
+	<sentence idSentence=1>This is such a cute little camera that you can take anywhere, very convenient!</sentence>
+	<opinion>aspect="camera" sentiment="cute" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="convenient" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=21>
+	<sentence idSentence=1>Only the photos are better!</sentence>
+	<opinion>aspect="photos" sentiment="better" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>If you ever had an instant camera in the 80's, you should have one of these!</sentence>
+	<sentence idSentence=3>You won't regret it!</sentence>
+</review>
+<review codeProduct=1319409 idReview=22>
+	<sentence idSentence=1>i got this for my friend and she loved it its so cute.</sentence>
+	<opinion>aspect="it" sentiment="loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319409 idReview=23>
+	<sentence idSentence=1>I think it's the best thing you can have in your hand and save the memory at the same time see it in your hands.</sentence>
+	<sentence idSentence=2>Not only that it gives a perfect result &amp; you can keep a pic of your lovely spouse, parent or dear ones in your wallet.</sentence>
+	<sentence idSentence=3>Just make sure you choose the right mode, it will take time for people who don't usually know about cameras but kids know about it way too much.</sentence>
+	<sentence idSentence=4>They know all the good angles and how far one has to be for a good and crisp picture.</sentence>
+	<sentence idSentence=5>I always get extra packs of Fuji film cuz I don't like running short of em.</sentence>
+</review>
+<review codeProduct=1319409 idReview=24>
+	<sentence idSentence=1>Don't like that the eye hole doesn't match up with what will actually be taken</sentence>
+</review>
+<review codeProduct=1319409 idReview=25>
+	<sentence idSentence=1>This is a must for all of those who want the latest gadget.</sentence>
+</review>
+<review codeProduct=1319409 idReview=26>
+	<sentence idSentence=1>My daughter thinks this is so cool!!!</sentence>
+	<sentence idSentence=2>Guess it woulda been cheaper to keep my classic model, but as long as she's happy!!!</sentence>
+	<sentence idSentence=3>MY only complaint is that it's SO BIG and spits out such TINY pictures.....</sentence>
+	<opinion>aspect="pictures" sentiment="TINY" polarity="Negative" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=27>
+	<sentence idSentence=1>cool idea being like the old Polaroid cameras but tech is not quite there.</sentence>
+	<sentence idSentence=2>Pics still end up overexposed in the sunlight</sentence>
+</review>
+<review codeProduct=1319409 idReview=28>
+	<sentence idSentence=1>This camera was purchased as a gift for my mother, who is technologically challenged.</sentence>
+	<sentence idSentence=2>She has an iPhone, but only uses it as a phone, and she loves to share old family photos.</sentence>
+	<sentence idSentence=3>After loading the film in the camera and taking a few test shots, she is able to use the camera with ease and she says the pictures are good quality.</sentence>
+	<opinion>aspect="pictures" sentiment="good quality" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=29>
+	<sentence idSentence=1>This camera is for fun quick pictures!</sentence>
+	<opinion>aspect="camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="quick" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>My kids love it!</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1319409 idReview=30>
+	<sentence idSentence=1>This camera is so easy and so much fun.</sentence>
+	<opinion>aspect="camera" sentiment="easy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="fun" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The pictures come out so much better than the original Polaroids.</sentence>
+	<sentence idSentence=3>Love using this for all occasions.</sentence>
+	<opinion>aspect="using" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=31>
+	<sentence idSentence=1>This camera was easy to use and reminded us how much fun it is to get an instant picture!!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>What was most surprising was the high quality of the pictures - we used it at a recent party and let the guests take home thier pictures as part of the party favor.</sentence>
+</review>
+<review codeProduct=1319409 idReview=32>
+	<sentence idSentence=1>Reminds me of the Polaroid days!</sentence>
+	<sentence idSentence=2>This is a great camera!</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1319409 idReview=33>
+	<sentence idSentence=1>Expected better quality pictures.</sentence>
+	<opinion>aspect="quality pictures" sentiment="Expected better" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Need better instructions on how to set.</sentence>
+</review>
+<review codeProduct=1319409 idReview=34>
+	<sentence idSentence=1>My kids love this camera as well as my wife, brought back memories</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1419657 idReview=1>
+	<sentence idSentence=1>Great camera that has a full full frame sensor in a small body.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="body" sentiment="small" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=1>
+	<sentence idSentence=1>I bought it for my baby and the quality of the picture is awesome.</sentence>
+	<opinion>aspect="quality of the picture" sentiment="awesome" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=2>
+	<sentence idSentence=1>This sony camera is very nice and takes good pictures, I had a little problem with the auto focus hunting to much for this high price camera.</sentence>
+	<opinion>aspect="pictures" sentiment="good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="sony camera" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=3>
+	<sentence idSentence=1>I've had many digital pocket cameras in the past and have never been satisfied with them, because I wanted to use them to "capture the moment", and the time they took to focus and shoot was so slow, that the moment was long gone by the time the picture was taken.</sentence>
+	<sentence idSentence=2>Most of them had the "press shutter button halfway to focus" feature, and when you did, they would flash a light on and off rapidly and the focus would go in and out for a few seconds, annoying people and scaring away pets and wildlife.</sentence>
+</review>
+<review codeProduct=1420007 idReview=4>
+	<sentence idSentence=1>Got this camera because I wanted a compact digital camera with me where ever I go, and let me just say that the Sony RX100 series are by far the best of its kind, you won't regret getting it!</sentence>
+</review>
+<review codeProduct=1420007 idReview=5>
+	<sentence idSentence=1>This camera is great to take to the field or travel .Compact size, but excellent quailty photos with 1in sensor--comparable to DSLR with out the weight.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="size" sentiment="Compact" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="quailty photos" sentiment="excellent" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>Good for even more serious photographers that love to have settings to enhance their photography.</sentence>
+	<sentence idSentence=3>Can add a filter adapter from Lensmate to use with your filters.</sentence>
+	<sentence idSentence=4>Great versatility in a compact size.</sentence>
+	<opinion>aspect="size" sentiment="compact" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="versatility" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=6>
+	<sentence idSentence=1>The rx100 is so easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The battery life on it is good for over 600+ fine.</sentence>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Power" type="explicit"</opinion>
+	<sentence idSentence=3>Takes fantastic night pictures</sentence>
+	<opinion>aspect="night pictures" sentiment="fantastic" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=7>
+	<sentence idSentence=1>If f you want near DSLR quality in a pocket camera this is the camera of choice.</sentence>
+	<sentence idSentence=2>Solid well-made and easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>obviously you don't have the lense choice or indoor quality of a DSLR.</sentence>
+	<sentence idSentence=4>I already own one of these and bought this as a graduation gift for my photo oriented son.</sentence>
+	<sentence idSentence=5>I have seen several serious DSLR photographers who carry one these in their pocket and everywhere they go..</sentence>
+</review>
+<review codeProduct=1420007 idReview=8>
+	<sentence idSentence=1>Great for Travel Photography &amp; Video, from Australia &amp; Fiji to Europe...Spain, England, Italy and France... Capturing the beauty and experience.</sentence>
+	<opinion>aspect="Travel Photography" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=9>
+	<sentence idSentence=1>This is an overall great product at a good price.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=10>
+	<sentence idSentence=1>mostly good pictures, but annoying gross lack of focus in pre-set scene "SCN" modes, especially SCN-Portrait and SCN-Macro modes.</sentence>
+	<opinion>aspect="pictures" sentiment="good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>SCN modes take over all settings and should therefore take care of everything.</sentence>
+	<sentence idSentence=3>But no: the AF will pick up objects around the all around frame EXCEPT the main subject in the center of the frame.</sentence>
+</review>
+<review codeProduct=1420007 idReview=11>
+	<sentence idSentence=1>The camera takes nice pictures but where is built in flash in the case is very unconfortable to hold and take pictures i bougth one and returned because the flash and is very frágile when the flash go out</sentence>
+	<opinion>aspect="pictures" sentiment="nice" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="flash" sentiment="unconfortable" polarity="Negative" aspectClass="Exposure_Control" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=12>
+	<sentence idSentence=1>Heat lightweight camera you can put in your pocket but still able to use dslr features when desired.</sentence>
+	<opinion>aspect="camera" sentiment="lightweight" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=13>
+	<sentence idSentence=1>Excelent camera.</sentence>
+	<opinion>aspect="camera" sentiment="Excelent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Small, but very powerful, with a lot of functions.</sentence>
+	<opinion>aspect="powerful" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=14>
+	<sentence idSentence=1>I have only had this Camera for a short time, but I am very impressed with it.</sentence>
+	<sentence idSentence=2>It has several "auto" shoot functions, and all the manual functions of a DSLR camera, and yet is compact enough to carry everywhere.</sentence>
+</review>
+<review codeProduct=1420007 idReview=15>
+	<sentence idSentence=1>I own the first RX100M1 and RX10M1.</sentence>
+	<sentence idSentence=2>The hot shoe, NFC and the tilting LCD that I like from RX10 are featured in RX100M2.</sentence>
+	<sentence idSentence=3>It's still pocketable unlike the RX10.</sentence>
+	<sentence idSentence=4>My new purchased RX100M2 will go everywhere with me.</sentence>
+</review>
+<review codeProduct=1420007 idReview=16>
+	<sentence idSentence=1>Just what I was looking for.</sentence>
+	<sentence idSentence=2>I'm liking it.</sentence>
+	<sentence idSentence=3>My new cam.</sentence>
+</review>
+<review codeProduct=1420007 idReview=17>
+	<sentence idSentence=1>I got this same camera for Christmas and accidentally left it in the rain and ruined it.</sentence>
+	<sentence idSentence=2>I loved it so much, I bought another one!</sentence>
+	<opinion>aspect="it" sentiment="loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1420007 idReview=18>
+	<sentence idSentence=1>I love this mark II rx100.</sentence>
+	<sentence idSentence=2>If you re looking for something as close to having professional compact camera this is the way to go.</sentence>
+</review>
+<review codeProduct=1420007 idReview=19>
+	<sentence idSentence=1>Great camera, beautiful pics, just wish we used this more than our iphones</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="pics" sentiment="beautiful" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=20>
+	<sentence idSentence=1>I like this camera.</sentence>
+	<opinion>aspect="camera" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Takes good pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="good" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>The cons are that the flash is right where you put your hand to hold the camera and the wireless upload does not work with the iphone 6.</sentence>
+</review>
+<review codeProduct=1420007 idReview=21>
+	<sentence idSentence=1>Takes amazing photos, love the small pocket size..</sentence>
+	<opinion>aspect="photos" sentiment="amazing" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="small pocket size" sentiment="love" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=22>
+	<sentence idSentence=1>The pictures are so clear and looks amazing!</sentence>
+	<opinion>aspect="pictures" sentiment="clear" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>I love the dslr features!</sentence>
+	<opinion>aspect="dslr features" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>So happy with the investment and I take it everywhere I go.</sentence>
+	<opinion>aspect="investment" sentiment="happy" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=23>
+	<sentence idSentence=1>I have owned many Canon cameras and have really enjoyed them.</sentence>
+	<sentence idSentence=2>This is my first Sony.</sentence>
+	<sentence idSentence=3>I love the variety of scene options as well as the intelligent options.</sentence>
+	<opinion>aspect="variety of scene options" sentiment="love" polarity="Positive" aspectClass="Exposure_Control" type="explicit"</opinion>
+	<opinion>aspect="intelligent options" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>So far, so good!!</sentence>
+	<sentence idSentence=5>!</sentence>
+</review>
+<review codeProduct=1420007 idReview=24>
+	<sentence idSentence=1>Was looking for a DSLR but ending buying this... its very compact and takes great photos and video.</sentence>
+	<opinion>aspect="photos" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="video" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=25>
+	<sentence idSentence=1>We bought this camera as a replacement for our more robust Nikon d90 which was great but a pain to carry around.</sentence>
+	<sentence idSentence=2>So far we couldn't be happier we made this purchase.</sentence>
+</review>
+<review codeProduct=1420007 idReview=26>
+	<sentence idSentence=1>So far this camera has been great.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's easy to use and takes some fantastic pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="fantastic" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I do have some trouble with night time images, but I think I just need to dig a little more into the features.</sentence>
+	<opinion>aspect="night time images" sentiment="trouble" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420007 idReview=27>
+	<sentence idSentence=1>This camera took great pics.</sentence>
+	<opinion>aspect="pics" sentiment="great" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=2>Bright, crisp, vivid high quality pics.</sentence>
+	<opinion>aspect="pics" sentiment="vivid high quality" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="pics" sentiment="crisp" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<opinion>aspect="pics" sentiment="Bright" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>It is very small, so great to carry in a purse.</sentence>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=4>It is a little awkward to hold with two hands because of its size.</sentence>
+	<sentence idSentence=5>Left hand gets in the way of the flash popping up.</sentence>
+	<sentence idSentence=6>I was disappointed with the lack of zoom.</sentence>
+	<opinion>aspect="lack of zoom" sentiment="disappointed" polarity="Negative" aspectClass="Zoom" type="explicit"</opinion>
+	<sentence idSentence=7>I wanted to be able to zoom in on my kids on the football field.</sentence>
+	<sentence idSentence=8>If you don't care about zooming in much, it would be an awesome camera for you!</sentence>
+</review>
+<review codeProduct=1420007 idReview=28>
+	<sentence idSentence=1>If i had the choice i would purchase the first RX100.i think with the rx 2 and 3 your just paying for the lcd screen</sentence>
+</review>
+<review codeProduct=1420007 idReview=29>
+	<sentence idSentence=1>Love this camera.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>My pictures and videos has quality that surpasses my expectations.</sentence>
+</review>
+<review codeProduct=1420007 idReview=30>
+	<sentence idSentence=1>This is a great camera for any user but highly recommend if you are looking for a smaller camera alternative to your DSLR.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>There are times when I want something in between a DSLR and Smartphone.</sentence>
+	<sentence idSentence=3>This fits the bill perfectly.</sentence>
+	<sentence idSentence=4>The Sony RX provides a lot of versatility you are used to in a DSLR but with a much smaller footprint.</sentence>
+</review>
+<review codeProduct=1420007 idReview=31>
+	<sentence idSentence=1>I returned a Samsung NX Mini to get this Sony RX100m2 camera and I'm so happy I did that.</sentence>
+	<sentence idSentence=2>The Samsung camera did have a better exterior styling design, a touchscreen, and some useful features, but its picture-taking capability wasn't as good as the Sony RX100m2.</sentence>
+</review>
+<review codeProduct=1420007 idReview=32>
+	<sentence idSentence=1>A wonderful compact point and shoot.</sentence>
+	<opinion>aspect="compact point" sentiment="wonderful" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Smallest camera for the specs offered.</sentence>
+	<sentence idSentence=3>Completely happy with purchase.</sentence>
+</review>
+<review codeProduct=1420007 idReview=33>
+	<sentence idSentence=1>Though I have not yet gone through all the features, this camera is the best I had for a long time.</sentence>
+	<sentence idSentence=2>Pictures in low light is fantastic, quality of colors is very good.</sentence>
+	<opinion>aspect="quality of colors" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Pictures in low light" sentiment="fantastic" polarity="Positive" aspectClass="Imaging" type="explicit"</opinion>
+	<sentence idSentence=3>For a amateur, I am very happy with my purchase.</sentence>
+</review>

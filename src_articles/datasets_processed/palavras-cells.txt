@@ -1,0 +1,237 @@
+6s ->> {'The 6s is a good phone at a good price.'}
+a10 chip ->> {'The new A10 chip is very fast.'}
+ability to use to apps split screen ->> {'I like the ability to use to apps split screen.'}
+adaptor for the microusb ->> {'Not used to having to have a different charger but i am glad that it comes with an adaptor for the microusb'}
+all features ->> {'picture quality is excellent .all features are good'}
+android ->> {'Android was second nature and easy to use.'}
+apps ->> {'Apps come up quick, sound quality on the phone is good and battery life is above average.', 'sound is great, great apps.'}
+attachments ->> {'Great pictures, easy to use, and lots of cool attachments.'}
+bargain ->> {'I also received the VR Gear and added memory card so it really was a bargain.'}
+batterie life ->> {'Long batterie life and really quick charge with new c charger.'}
+battery ->> {'A couple of things that really stand out: 1) The battery is great!, 2) the new "Portrait mode" exclusive to the iPhone 7plus is mind blowing.', 'I have only had to use the second battery a couple of times with heave use and it is so easy to change the batter.The wide angle camera is so nice.Phone takes great pictures front and rear facing.', 'The battery is great last all day and they gave me a second better.'}
+battery life ->> {'Great Battery life!', 'High quality and good battery life.', 'Apps come up quick, sound quality on the phone is good and battery life is above average.', 'great battery life, charges fast.', 'Besides the features the battery life is fantastic.', "The phone's battery life is amazing, and the phone itself is very quick and responsive.", "It's a great phone couldn't be happier battery life is great", 'it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.', 'A little big but great battery life.', 'The curved screen is a great feature and this phone has good battery life.', 'Excellent battery life and turbo charger.', 'The battery life is outstanding.', 'Battery life is excellent and I like the mods that you can get for it', 'Good screen display, good battery life, fast response.', 'Amazing camera and decent battery life.', 'excellent phone, fast charging, long battery life, large screen, camera is just the best ive seen', "Battery life is crummy, but that's why you get an extra one.", 'Solid hardware, great battery life, good reception on Verizon.', 'Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.', 'Great battery life, easy to use, and fast.', 'Great battery life, amazing camera puts the iPhone to shame, easy to use great options.', 'The battery life is astounding and I have never run out during the day.', 'The device is definitely much faster and the battery life is amazing.', 'The battery life in my moto z force is great!', 'great battery life.', 'Its design, screen, camera, battery life are all phenomenal!', 'Long battery life.', 'The battery life is a step up from the 6 the camera looks great and the screen resolution is besutiful!', 'The Pixel XL is a boring phone physically, but the software and battery life is amazing.', 'Operation system and battery life is wonderful and user friendly for those new to Iphone software.', 'Light and very slim with ample battery life.'}
+battery power ->> {"Love the G5's camera and battery power."}
+beautiful ->> {'It is beautiful, and quick!'}
+best buy customer service ->> {'Excellent phone, excellent camera and most of all, perfect Best Buy customer service!'}
+bestbuy staff ->> {'Thanks to the BestBuy staff.'}
+big ->> {'A little big but great battery life.', 'The phone is big and ugly.'}
+big phone ->> {'I love my big phone!'}
+built ->> {"It's well built, is fast, has minimal bloatware and takes decent pictures."}
+built-in calendar ->> {'Only complaint is the built-in calendar.'}
+buy ->> {'This phone was an amazing buy!'}
+call quality ->> {'Call quality is satisfactory.'}
+camera ->> {'This phone features an awesome camera, great speed and (my favorite feature of this phone) Google Assistant.', 'Love the camera and speaker features on the phone.', 'Camera is exceptional.', 'Great camera, fast and easy to use.', 'This phone has everything 100% satisfied and the camera is the best', 'Good camera too.', 'Awesome camera, waterproof, landscape mode on any screen, although "OK google" is a bit more helpful than Siri.', 'Camera is awesome only complain is the battery life and lack of a micro sd slot', 'Great camera, smooth screen response, simple design but the hardware and software are amazing.', 'Good phone, easy to use, great camera.', 'I love the extra storage, the camera is great and the phone is super fast with no lag time.', 'it is fast, has great features, lightweight, large screen and great camera.', 'Great camera', "i'm in love for my google pixel, the phone is perfect, the camera is amazing, it is always fluid never frozen.", 'The UI is buttery smooth, the camera takes great pictures, and the battery life could get you through 2 days of casual use.', 'The camera is great, and Samsung has really backed-down on touch wiz.', 'Amazing camera and decent battery life.', 'Google has added a beautiful camera and the all new google assistant.', 'Great camera.', 'Camera takes great pictures (and fast too).', 'Camera is sharp.', 'The screen is very clear and bright, the camera is amazing in the the dark and in bright light, the ability to use it with the VR gear, the battery life, the watery resistance, etc, etc.', 'Loves the camera and removable battery.', "It's a very nice phone and has a nice camera and screen", 'screen and camera look amazing', 'Good phone, really good camera, set up like the iPhone', 'Great battery life, amazing camera puts the iPhone to shame, easy to use great options.', 'The camera is improved.', 'Its design, screen, camera, battery life are all phenomenal!', 'I love the front camera b/c it has front flash.', 'The camera on it is excellent.', 'Camera takes great pictures, fast wireless charging.', 'The battery life is a step up from the 6 the camera looks great and the screen resolution is besutiful!', 'Elegant phone that is fast and the camera is great... LG has done it again.', 'Great camera!', 'The camera is good and so is the software.', 'Love the speed of operation and the camera is excellent.', "Love the G5's camera and battery power.", 'Love especially the camera, been trying out all the features, clear & crisp pictures.', 'The battery lasts all day, even on my long workdays.The camera takes great pics and the new themes are great.', 'The ease of use slim and easy to navigate the camera is outstanding', 'Great camera and Super fast.', 'Excellent phone, excellent camera and most of all, perfect Best Buy customer service!', 'It is way faster as to be expected and the camera is great.', 'Great camera, long lasting battery, fast charging, phone is very fast, and durable'}
+camera features ->> {'Good phone great camera features and lots of options', 'The camera features are fabulous'}
+camera quality ->> {'I really love the phone, especially its speed, ease of use, and its camera quality.'}
+cameras ->> {'Very easy to use, love the cameras on the phone!', 'Cameras are awesome, especially the wide lense and easy to flip back and forth'}
+case selection ->> {'Sleek and the case selection was great also.'}
+change the batter ->> {'I have only had to use the second battery a couple of times with heave use and it is so easy to change the batter.The wide angle camera is so nice.Phone takes great pictures front and rear facing.'}
+changeable battery ->> {'The best part for me is the changeable battery, its so easy and convenient.'}
+charge ->> {'Long batterie life and really quick charge with new c charger.'}
+charges ->> {'Charges fast and battery last all day.', 'great battery life, charges fast.', 'Other than that the phone is very reliable, it charges fast, and it downloads pretty fast too over the network.', 'It works with the cover on my phone and charges very quickly.', 'Charges a little slow and no removable storage.'}
+chargest ->> {'It chargest fast.'}
+charging ->> {'Fast processor and fast charging.', 'excellent phone, fast charging, long battery life, large screen, camera is just the best ive seen', 'Camera takes great pictures, fast wireless charging.', 'Great camera, long lasting battery, fast charging, phone is very fast, and durable'}
+choice ->> {'A great choice!'}
+chop twice for flashlight ->> {'And, the special Motorola features like chop twice for flashlight and twist for camera are awesome.'}
+clarity in the pictures ->> {'The clarity in the pictures is unreal.'}
+clarity of the screen ->> {'The clarity of the screen is great and the battery life is far better than my S5 was.'}
+color ->> {"Every smart phone I've had was a Samsung so this is a great change, and I love the color!"}
+color gold ->> {'best design to date for galaxy and sexy color gold'}
+convenient ->> {'Fast easy and convenient.'}
+cool ->> {'it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.'}
+curved screen ->> {'The curved screen is a great feature and this phone has good battery life.'}
+customer service ->> {'So far everything is great wirh the phone, customer service was great also.', 'The customer service was over the top!', 'I love my new phone and I was very happy with the customer service'}
+daydream vr ->> {'Daydream VR is a nice addition allowing this phone to stand out even more but in the end this phone gets all the essentials right.'}
+design ->> {'The design and specs are what you would expect with a flagship phone but the duo camera in the back is a win!', 'Great design!', 'Its design, screen, camera, battery life are all phenomenal!', 'Great camera, smooth screen response, simple design but the hardware and software are amazing.', 'best design to date for galaxy and sexy color gold'}
+designing ->> {'Google has done an excellent job designing this phone, I have enjoyed using it over the past month.'}
+device ->> {'Still figuring out all the features of the phone but I am very happy with this device!', "It's beyond my expectations, it's a wonderful device and make decisions for your life.", "Glad I went with this one as it's been a fantastic device that will be hard to give up."}
+display ->> {'I ended up choosing the edge because it accepts memory cards, the processor was better, & the display is phenomenal.', "Display is as good as any I've seen.", 'Nice display.'}
+doesn't have a lot of added software ->> {"Phone is solid all round and love the fact that it doesn't have a lot of added software."}
+downloads ->> {'Other than that the phone is very reliable, it charges fast, and it downloads pretty fast too over the network.'}
+droid force ->> {'I am extremely happy with my iPhone and droid force phone, great service from the salesperson who helped with my purchase.'}
+dual forward ->> {'The dual forward and rear cameras are excellent.'}
+dual lens camera ->> {'The new dual lens camera takes awesome pictures.'}
+durability ->> {'I love the expandable storage option and the durability.'}
+durable ->> {'Great camera, long lasting battery, fast charging, phone is very fast, and durable'}
+edge features ->> {'The edge features are a nice addition.', 'The Edge features are good, although a little redundant at times.'}
+efficiency ->> {'Very smooth and efficiency cell phone to have ...also look very stylish in a way !!'}
+expandable storage option ->> {'I love the expandable storage option and the durability.'}
+expensive ->> {'it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.', 'Expensive piece of junk!'}
+extra storage ->> {'I love the extra storage, the camera is great and the phone is super fast with no lag time.'}
+facetime quality ->> {'FaceTime quality is fantastic'}
+fast ->> {'It is very fast and the sound on the phone is good too.', 'Great camera, fast and easy to use.', 'Love this phone, its fast and smooth.', "It's fast and has no bloatware.", "It's well built, is fast, has minimal bloatware and takes decent pictures.", 'I love the extra storage, the camera is great and the phone is super fast with no lag time.', 'Fast .....', 'it is fast, has great features, lightweight, large screen and great camera.', 'The s6 is easy to use, the sound is much better than the s4, super fast phone.', 'Phone is very fast and responsive.', "This phone is fantastic - it's fast and responsive - htc has done a great job of keeping the bloatware to a minimum - very easy to use - very close to pure android - they finally fixed the camera", 'Phone is fast and battery lasts for two days!', "It's super fast!", 'It is very fast and user friendly but with the case makes it a little bulky', 'Fingerprint scanner is fast.', 'Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.', 'The phone is fast, stylish and everything I was needing to help me get over the Samsung fiasco.', 'Great battery life, easy to use, and fast.', 'Fast!', 'It looks amazing and is super fast!', 'Very fast and sleek, I love the OS and uploading pics straight to the cloud.', 'Fast easy and convenient.', 'it is super fast and works with almost all the us carrier.', 'Super fast, everything I wanted my old s5 to be.', 'Very smooth and fast.', 'Very fast, easy to use.', 'It is fast and sleek.', 'Great camera and Super fast.', 'Good phone very fast.', 'Great camera, long lasting battery, fast charging, phone is very fast, and durable'}
+fast charging ->> {'Also very pleased with the fast charging.'}
+feature ->> {'The Galaxy Edge has a nice feature: a little "window" you can slide open from the side (or edge) of the screen.'}
+features ->> {'The features of this phone are very cool.', 'Some really great features.', 'If you want a nice phone with nice features that drops 50 percent of the calls then this is the phone for you.I Paid 159 for Geek squad protection and they want to charge me a 150 deductible to send me back a refurbished phone when Verizon wireless and Google say it is a device issue and the phone should be replaced with new device.', 'The IPhone has such amazing features and qualities built in.', 'it is fast, has great features, lightweight, large screen and great camera.', 'It has excellent features and very good sound quality.', 'So many cool features.', 'Besides the features the battery life is fantastic.', 'I like the features of the phone and Google Assistant is great, but my favorite thing is no third party bloatware.', 'Wonderful promotion on a great phone with easy to learn features.'}
+feeling performance ->> {'Very solid feeling performance.'}
+fingerprint scanner ->> {'Fingerprint scanner is fast.'}
+finish on the jet black ->> {"The finish on the Jet Black is great but I do suggest getting a simple Jet Black color rubber case (so you do not take away from it's look) as it can easily scratch."}
+first phone ->> {"Great first phone, can't wait to see what's next!"}
+flip back and forth ->> {'Cameras are awesome, especially the wide lense and easy to flip back and forth'}
+force touch ->> {'I like the Live Photos and force touch.'}
+front camera ->> {'This phone is efficient with a fast processing speed and adequate front camera with amazing rear camera.'}
+functional ->> {'Very functional.'}
+functionality ->> {"The phone and it's functionality are perfect.", 'Great functionality.'}
+g5 ->> {'The G5 is great!'}
+get used to ->> {'The upgrades are simple, but easy to get used to.'}
+glass ->> {'Very thin glass is used over the camera.'}
+google assistant ->> {'I like the features of the phone and Google Assistant is great, but my favorite thing is no third party bloatware.'}
+google pixel ->> {"i'm in love for my google pixel, the phone is perfect, the camera is amazing, it is always fluid never frozen."}
+gps ->> {'Biggest drain is GPS.'}
+graphics ->> {'The brightness and clarity of the graphics is excellent also.'}
+great ->> {'Pictures are great!'}
+handle one handed ->> {'Easy enough to handle one handed although I do occasionally activate the edge menus accidentally.'}
+hardware ->> {'The hardware is great.', 'Solid hardware, great battery life, good reception on Verizon.', 'Great camera, smooth screen response, simple design but the hardware and software are amazing.'}
+high definition camera ->> {'Excellent phone with a great high definition camera.'}
+high resolution pics ->> {'camera has great high resolution pics.'}
+htc ->> {'HTC keep the good work'}
+htc series ->> {'I love the HTC series.', 'Have always loved the HTC series and this phone does not disappoint!'}
+interconnectivity between my car bluetooth and the phone ->> {'The only drawback is the interconnectivity between my car bluetooth and the phone.'}
+interface ->> {'The interface is quick and amazing.', 'Smooth interface'}
+ios 10 ->> {'Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.'}
+iphone ->> {'Love my iPhone but I wish they kept the voice message from the 3GS.', 'I am extremely happy with my iPhone and droid force phone, great service from the salesperson who helped with my purchase.', 'Great iPhone that I have used yet.', 'I love the iPhone but needed a bigger so I can see it.'}
+iphone 6 ->> {'Love my iPhone 6.'}
+iphone 6s ->> {'I think Iphone 6s is perfect I ever owned.'}
+iphone 7 plus ->> {'The new iPhone 7 Plus is great.'}
+lasting battery ->> {'Great camera, long lasting battery, fast charging, phone is very fast, and durable'}
+lasting battery life ->> {"Display is the clearest I've had, long lasting battery life, and to me the best thing is that there's practically no loading time."}
+lense ->> {'Cameras are awesome, especially the wide lense and easy to flip back and forth'}
+lg g5 ->> {'I love my lg g5 ,coming soon are the lg friends, will be interesting'}
+light ->> {'Light and very slim with ample battery life.'}
+lightweight ->> {'it is fast, has great features, lightweight, large screen and great camera.'}
+live photos ->> {'I like the Live Photos and force touch.'}
+look of the jet black ->> {"I love the look of the Jet Black, it's sharp."}
+looks ->> {'It looks amazing and is super fast!'}
+maneuver ->> {'I had been contemplating going to Best Buy for a look, but i began to worrie I would have a difficult time operating an Android, seeing that I had only used an iPhone for years..It was Love at first sight, an awesome looking phone, very easy to maneuver I was able to find my way around it in no time,'}
+memory ->> {'Lots of memory and overall great phone.'}
+micro sd card slot ->> {'love the micro sd card slot.'}
+mods ->> {'Battery life is excellent and I like the mods that you can get for it', "Even without the mods it's perfect.", 'I love the mods.'}
+modular ability ->> {'Love the modular ability and smiled display.'}
+moto ->> {'Moto is back!!'}
+moto mods ->> {'This phone is great the Moto mods are awesome definitely recommended!', 'The moto mods are nice, especially the speaker.', 'Love the Moto Mods, great screen size, performance, everything.', 'I also love the moto mods!'}
+moto phone ->> {"The Moto phone is rock solid and the only think it doesn't have that the Note 7 did , is a pen."}
+moto z force droid ->> {'This Moto Z Force Droid is an excellent phone.'}
+moto-mods ->> {'i love the moto-mods as well!'}
+motorola software ->> {'I like Motorola software.'}
+navigate ->> {'I am a LG loyalist though the usb cable is a c. It is all touch and easy to navigate.', 'very easy to navigate, nice size screen, takes nice photos', 'The HTC-10 is very easy to navigate, makes using a pleasure and I would recommend this above all other phones !'}
+new design ->> {'The new design brings a fresh look to the galaxy series.'}
+new features ->> {'love new features.'}
+new galaxy ->> {'The new galaxy is a great phone.'}
+new iphone ->> {'I love my new iphone!'}
+new themes ->> {'The battery lasts all day, even on my long workdays.The camera takes great pics and the new themes are great.'}
+notch phone ->> {'Top notch phone.'}
+ok google ->> {'Love the ok Google.'}
+operate ->> {'I found it is very easy to operate.'}
+operation system ->> {'Operation system and battery life is wonderful and user friendly for those new to Iphone software.'}
+options ->> {'So many great options.', 'Great battery life, amazing camera puts the iPhone to shame, easy to use great options.', 'Good phone great camera features and lots of options'}
+os ->> {'Very fast and sleek, I love the OS and uploading pics straight to the cloud.', 'No Comments, Quality was so premium and OS was so polished.'}
+performance ->> {'Sleek profile, great performance so far.', 'Performance is great.'}
+phone ->> {'Great phone and it was wonderful to receive a gift card as well.', 'I upgraded from my S5 and I have to say I Love this phone.', 'I like phone a lot , but need to use it a little more to really, get the whole story ... so speak!', 'Good phone, easy to use, great camera.', 'Really great phone with a ton of customization.', 'I love this phone but the price for is really absurd.', 'Good phone great camera features and lots of options', 'Phone is good.', 'excellent phone, fast charging, long battery life, large screen, camera is just the best ive seen', 'This is a great phone.', 'Great phone for Googles first.', 'Excellent phone across the board.', 'Awesome phone, depth effect with camera is mind blowing.', 'This a great phone I have already put it in the water 7 or more times an is still working like I got it.', 'Love this phone, had this guy for over 2 weeks and have no complaints.', 'I love my new phone and I was very happy with the customer service', 'Great phone the only complaint I have is that one day you have the video chat option and one day you may not and no one seem be able to fix it', 'Elegant phone that is fast and the camera is great... LG has done it again.', 'My son loves this phone.', "Compared to other colors my gold iPhone hasn't scratched easily even working in construction it's been a good phone.", 'This phone is awesome.', 'I like the phone I am still learning but it seems to be a pretty good phone.', 'Lots of memory and overall great phone.', 'Very happy with phone.', 'Excellent phone!', 'It is an attractive, sleek streamlined phone .', 'This phone is awesome!', 'Love this phone, its fast and smooth.', 'This phone is efficient with a fast processing speed and adequate front camera with amazing rear camera.', "It's a great phone couldn't be happier battery life is great", 'great phone except bug that wont allow you to connect bluetooth devises in 7.1.1', "This phone is beautiful and can't find a single flaw with it.", 'And the phone gets extremely hot at times.', 'Best phone Samsung has made.', "i'm in love for my google pixel, the phone is perfect, the camera is amazing, it is always fluid never frozen.", 'This phone is great!', "It's been a nice phone.", "I'm definitely liking this phone.", 'This is one great phone.', "This phone is fantastic - it's fast and responsive - htc has done a great job of keeping the bloatware to a minimum - very easy to use - very close to pure android - they finally fixed the camera", 'I enjoy my new phone, went from a s3 to an s6 and this is a great phone.', 'Just an over all great phone', 'The phone is great all around.', 'This phone is great.', 'I absolutely love this phone.', 'Love this phone.', 'So far, the phone has been awesome.', 'This phone is beautiful!', "I'm very pleased with this phone.", 'Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.', 'Great phone everywhere else.', 'If you want a nice phone with nice features that drops 50 percent of the calls then this is the phone for you.I Paid 159 for Geek squad protection and they want to charge me a 150 deductible to send me back a refurbished phone when Verizon wireless and Google say it is a device issue and the phone should be replaced with new device.', 'Otherwise it is a pretty good phone..', 'I definitely love this phone!', 'I love this phone.', 'Great phone.', 'So far it has been a good phone.', 'I love Samsung, but this is a great phone as well.', 'This is a solid phone, there are a lot of mediocre points to it, but it is a pretty smooth phone and runs well.', 'Yes there are slight differences, but overall this is a great phone that does all that I want.', 'Good phone very fast.', 'I love this phone!', "It's a nice phone but don't think $900 for the phone gets you away from cheap parts and bad designs.... thanks samsung!", 'I LOVE this phone!!!', 'I like this phone.', 'Great phone, I would recommend this products to all my family and friends and I am pretty sure they would like it', 'Not a Palm Pre but great phone.', "The phone and it's functionality are perfect.", 'Overall this is an AMAZING phone, with one huge caveat.', 'I really love the phone, especially its speed, ease of use, and its camera quality.', 'Really enjoy this phone.', 'Love the phone.', 'This is a great phone and easy to use.', "It's a very nice phone and has a nice camera and screen", "It's a great modular phone but has issues with Bluetooth.", 'This phone is great the Moto mods are awesome definitely recommended!', 'I love my new phone.', 'I found my perfect phone !', 'Great phone in looks and function.', 'Love the phone!', 'Overall, great phone.', 'I absolutely love this phone and recommend it to all my friends.', 'Preferred S4 version.Otherwise a perfect phone.', 'Love this phone!', 'Great phone, definitely an improvement over the M9.', 'Excellent phone, excellent camera and most of all, perfect Best Buy customer service!', 'Great phone still learning everything this baby can do!', 'Absolutely love this phone!', 'Great phone, easy to use, and very reliable.', 'Great phone as a starter phone or a primary phone.', 'This phone is the perfect dream phone anyone could want.', 'This phone is awesome no problems with it is a little longer on the bottom but completely understandable with the Moto Mods and fingerprint scanner on the bottom which is way more useful than I originally thought.', 'All I have to say is this phone is a WINNER!!!!', 'Great Phone!', 'Great phone!', 'Love my new phone.', 'excellent great phone happy i bought it from best buy', 'I love this phone!!!', "So far it's a great phone.", 'The phone is great works well.', 'I love my phone.', 'Good phone, really good camera, set up like the iPhone', 'Phone is awesome.', "I did research and I'm happy with this phone!", 'Excellent phone with a great high definition camera.', 'What a horrible phone!', 'Love the phone!!', 'this is an amazing phone.', 'Overall, it is a very nice phone.', 'Amazing phone.', "Purchased this phone it's a very good phone the only problem was it kept losing charge but maybe I just got a bad phone.", 'Wonderful promotion on a great phone with easy to learn features.', 'Good phone.'}
+phone/data plan ->> {'The google phone/data plan is an awesome price.'}
+photo features ->> {'It has good photo features.'}
+photos ->> {'The camera takes gorgeous photos.', 'very easy to navigate, nice size screen, takes nice photos', 'Camera takes amazing photos and videos.'}
+physically ->> {'The Pixel XL is a boring phone physically, but the software and battery life is amazing.'}
+picture ->> {'People were confused why there was no flash :) but the picture looked great.'}
+picture quality ->> {'picture quality is excellent .all features are good'}
+pictures ->> {"It's well built, is fast, has minimal bloatware and takes decent pictures.", 'Love especially the camera, been trying out all the features, clear & crisp pictures.', 'Great pictures, easy to use, and lots of cool attachments.', 'Phone is great for texting, pictures, screen clarity but for regular old fashioned phone calls that some people still need to make it is seriously lacking.', 'I have only had to use the second battery a couple of times with heave use and it is so easy to change the batter.The wide angle camera is so nice.Phone takes great pictures front and rear facing.'}
+piece of hardware ->> {"Overall, it's an amazing piece of hardware that drew me (and has now balanced my enjoyment) from iOS to Android."}
+pixel xl ->> {'Love my new pixel xl.'}
+pretty color ->> {'Love the pretty color too.'}
+price ->> {'The 6s is a good phone at a good price.', 'I love this phone but the price for is really absurd.', "Excellent price from best buy that Sprint can't ever match."}
+priced ->> {"The only bad thing I can think about is that it's a bit over priced."}
+processing speed ->> {'This phone is efficient with a fast processing speed and adequate front camera with amazing rear camera.'}
+processor ->> {'Fast processor and fast charging.'}
+product ->> {'Another great product from HTC.', 'Great product, many uses.'}
+profile ->> {'Sleek profile, great performance so far.'}
+promotion ->> {'Wonderful promotion on a great phone with easy to learn features.'}
+qualities built in ->> {'The IPhone has such amazing features and qualities built in.'}
+quality ->> {'High quality and good battery life.', 'No Comments, Quality was so premium and OS was so polished.', 'Great quality as always.'}
+quick ->> {'It is beautiful, and quick!', "The phone's battery life is amazing, and the phone itself is very quick and responsive."}
+quick charge function ->> {'I think the quick charge function is great.'}
+radio ->> {'Good sound on radio.'}
+read ->> {'It is light weight & easy to read.'}
+read screen ->> {'Easy to read screen.'}
+rear camera ->> {'This phone is efficient with a fast processing speed and adequate front camera with amazing rear camera.'}
+rear cameras ->> {'The dual forward and rear cameras are excellent.'}
+reception ->> {'Solid hardware, great battery life, good reception on Verizon.'}
+reliable ->> {'iPhones are so easy to use and very reliable.', 'Great phone, easy to use, and very reliable.', 'Other than that the phone is very reliable, it charges fast, and it downloads pretty fast too over the network.'}
+removable battery ->> {'The only thing that it is still lacking is the removable battery.', 'Loves the camera and removable battery.'}
+replaceable battery ->> {'The only thing missing is a replaceable battery.'}
+response ->> {'Good screen display, good battery life, fast response.'}
+responsive ->> {'Phone is very fast and responsive.', "This phone is fantastic - it's fast and responsive - htc has done a great job of keeping the bloatware to a minimum - very easy to use - very close to pure android - they finally fixed the camera", "The phone's battery life is amazing, and the phone itself is very quick and responsive."}
+rose gold color ->> {'Love the rose gold color.'}
+runs ->> {'This is a solid phone, there are a lot of mediocre points to it, but it is a pretty smooth phone and runs well.'}
+s7 edg ->> {'Still working out the rest of the features, but am extremely satisfied with my S7 Edge !'}
+s7 edge ->> {'I absolutely love my S7 Edge.'}
+samsung ->> {'Samsung and the team at Best Buy have hit another grand slam.', 'I love Samsung, but this is a great phone as well.'}
+samsung 6 ->> {'I am very pleased with the Samsung 6.'}
+samsung galaxy s7 edge ->> {"I'm satisfied with my Samsung Galaxy s7 Edge"}
+samsung pay ->> {'I like Samsung Pay.'}
+samsung phone computer ->> {'This new Samsung phone computer is great.'}
+samsung s6 ->> {'I love my new Samsung S6.'}
+screen ->> {'screen and camera look amazing', 'The screen is very easy to read without glasses (easier than my tablet!)', 'Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.', 'it is fast, has great features, lightweight, large screen and great camera.', 'The screen has excellent definition.', 'Screen is awesome.', 'Large screen and does things faster.', 'Easy to use very light weight nice big clear crisp screen', 'excellent phone, fast charging, long battery life, large screen, camera is just the best ive seen', "It has a large, clear screen, but it's not so large that you feel as if you're holding a tablet to your head.", 'Its design, screen, camera, battery life are all phenomenal!', 'Gorgeous screen, snappy and fast (can be slightly faster if you absolutely hate TouchWiz by simply downloading "Google Now Launcher" or "Nova Launcher" from the app store.', 'The screen is very clear and bright, the camera is amazing in the the dark and in bright light, the ability to use it with the VR gear, the battery life, the watery resistance, etc, etc.', "It's a very nice phone and has a nice camera and screen"}
+screen clarity ->> {'Phone is great for texting, pictures, screen clarity but for regular old fashioned phone calls that some people still need to make it is seriously lacking.', 'Screen clarity is perfect.'}
+screen display ->> {'Good screen display, good battery life, fast response.'}
+screen resolution ->> {'The battery life is a step up from the 6 the camera looks great and the screen resolution is besutiful!'}
+screen response ->> {'Great camera, smooth screen response, simple design but the hardware and software are amazing.'}
+screen size ->> {'I like screen size and it is user friendly.', 'Love the Moto Mods, great screen size, performance, everything.'}
+selfie camara ->> {'The selfie camara is a great perk.'}
+service ->> {'Service was great and quick.'}
+service at best buy ->> {'The service at Best Buy was awesome.'}
+service from sales ->> {'Great service from sales associates at Best Buy.'}
+service from the salesperson ->> {'I am extremely happy with my iPhone and droid force phone, great service from the salesperson who helped with my purchase.'}
+several charging options ->> {'Having several charging options is a good idea.'}
+simplicity ->> {"I like the simplicity of the phone yet it can handle all I've tasked it to do.", 'I like the simplicity of the device.'}
+size ->> {'Size is great.', 'Good size not bulky.'}
+size screen ->> {'very easy to navigate, nice size screen, takes nice photos'}
+sleek ->> {'Very fast and sleek, I love the OS and uploading pics straight to the cloud.', 'It is fast and sleek.', 'Sleek and the case selection was great also.'}
+sleek design ->> {'Love the sleek design.'}
+slim ->> {'Light and very slim with ample battery life.'}
+smartphone ->> {"It's a great smartphone I love it enjoy it every single time I use it I'm in love with it"}
+smiled display ->> {'Love the modular ability and smiled display.'}
+smooth ->> {'Love this phone, its fast and smooth.', 'Very smooth and fast.'}
+soft shiny finish ->> {'I have he jet black iPhone , love the soft shiny finish .'}
+software ->> {'The Pixel XL is a boring phone physically, but the software and battery life is amazing.', 'Great camera, smooth screen response, simple design but the hardware and software are amazing.', 'The camera is good and so is the software.'}
+sound ->> {'It is very fast and the sound on the phone is good too.', 'Good sound.', 'sound is great, great apps.', 'It has good sound.'}
+sound quality ->> {'It has excellent features and very good sound quality.', 'Apps come up quick, sound quality on the phone is good and battery life is above average.', 'The phone works great syncs quickly to my truck and the sound quality is amazing.'}
+speaker features ->> {'Love the camera and speaker features on the phone.'}
+speaker module ->> {'I like the speaker module.'}
+specifications ->> {'Interesting specifications!'}
+specs ->> {'it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.', 'I still would recommend it cause it has good specs on it.', 'The design and specs are what you would expect with a flagship phone but the duo camera in the back is a win!'}
+speed ->> {'This phone features an awesome camera, great speed and (my favorite feature of this phone) Google Assistant.'}
+speed of operation ->> {'Love the speed of operation and the camera is excellent.'}
+speed performance ->> {'I got my 7 on release day and I am very happy with all the upgrades and the speed performance.'}
+stereo speakers ->> {'Stereo speakers are an improvement in sound.'}
+storage ->> {'plenty of storage and you can add storage unlike the S6.', 'Great storage for photo takers.', 'I am amazed at how much storage it can hold I love it!', 'Charges a little slow and no removable storage.'}
+stylish ->> {'The phone is fast, stylish and everything I was needing to help me get over the Samsung fiasco.'}
+swipe away the notification ->> {'It was easy to swipe away the notification, but I had to do it over and over.'}
+syncs ->> {'The phone works great syncs quickly to my truck and the sound quality is amazing.'}
+taking pictures ->> {"Although the hardware hasn't been innovated recently, the camera is truly a great upgrade and I'm loving taking pictures with it."}
+team at best buy ->> {'Samsung and the team at Best Buy have hit another grand slam.'}
+texting ->> {'Phone is great for texting, pictures, screen clarity but for regular old fashioned phone calls that some people still need to make it is seriously lacking.'}
+thin ->> {'Totally waterproof, super thin, works hella fast.'}
+thing of beauty ->> {'This phone is a thing of beauty.'}
+turbo charger ->> {'Excellent battery life and turbo charger.'}
+twist for camera ->> {'And, the special Motorola features like chop twice for flashlight and twist for camera are awesome.'}
+two cameras ->> {'Love two cameras'}
+ugly ->> {'The phone is big and ugly.'}
+update ->> {'new phone for my daughter, nice update with features that her old phone did not have'}
+upgrades ->> {'The upgrades are simple, but easy to get used to.'}
+upgrades, to the camera ->> {'The upgrades, to the camera in particular, are great.'}
+uploading pics straight to the cloud ->> {'Very fast and sleek, I love the OS and uploading pics straight to the cloud.'}
+use ->> {"I'm new with smart phones, so far fairly easy to use, slightly large for my hand, I have fat fingers so I need a stylus.", 'iPhones are so easy to use and very reliable.', 'Great phone, easy to use, and very reliable.', 'Great camera, fast and easy to use.', 'It is easy and fun to use.', 'Easy to use.', 'it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.', 'Very easy to use.', 'Good phone, easy to use, great camera.', 'The s6 is easy to use, the sound is much better than the s4, super fast phone.', "This phone is fantastic - it's fast and responsive - htc has done a great job of keeping the bloatware to a minimum - very easy to use - very close to pure android - they finally fixed the camera", 'I really love the phone, especially its speed, ease of use, and its camera quality.', 'This is a great phone and easy to use.', 'Great battery life, easy to use, and fast.', 'Great battery life, amazing camera puts the iPhone to shame, easy to use great options.', 'Easy to use very light weight nice big clear crisp screen', 'Very easy to use, love the cameras on the phone!', 'The ease of use slim and easy to navigate the camera is outstanding', 'Very fast, easy to use.', 'Great pictures, easy to use, and lots of cool attachments.'}
+use for older people ->> {'Easy to use for older people, but feature-rich for the tech-savvy.'}
+user friendly ->> {'It is very fast and user friendly but with the case makes it a little bulky', 'Operation system and battery life is wonderful and user friendly for those new to Iphone software.', 'I like screen size and it is user friendly.', 'User friendly.'}
+user interface ->> {'He is pretty satisfied minus the user interface all the apps are on the home screen like Apple products.', 'The user interface is predictable Android.'}
+value ->> {'Super ez purchase, always helpful staff and imho, good value for money.'}
+very smooth ->> {'Very smooth and efficiency cell phone to have ...also look very stylish in a way !!'}
+videos ->> {'Camera takes amazing photos and videos.'}
+vr alone ->> {"The VR alone is astonishing, and many will complain that it's 'not real VR unless it's real Oculus'...and maybe they are right, but for such an inexpensive entry fee (I was part of the free VR, 64gb memory & games promo), it was impossible to pass up."}
+water resistance ->> {'The added water resistance is nice to finally have.'}
+waterproof ->> {'Totally waterproof, super thin, works hella fast.'}
+weight ->> {'It is light weight & easy to read.', 'Easy to use very light weight nice big clear crisp screen'}
+wide angle camera ->> {'I have only had to use the second battery a couple of times with heave use and it is so easy to change the batter.The wide angle camera is so nice.Phone takes great pictures front and rear facing.', 'The wide angle camera on it is amazing!'}
+wireless charging ->> {'Battery last all day and wireless charging is nice', 'The wireless charging is important to me & was built in.Last phone added it.'}
+worked ->> {"It's worked flawlessly so far."}
+working ->> {'iPhone is working great!'}
+works ->> {'The phone works great syncs quickly to my truck and the sound quality is amazing.', 'Works great though, glad to have bought it.', 'iPhone works great no complaints love it no problems', 'It just works!', 'Phone works great does everything i need it to do.', 'Works great.', 'It is responsive and works amazingly well.', 'I love how it works!', 'Works well so far.'}

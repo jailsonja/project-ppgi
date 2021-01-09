@@ -1,0 +1,136 @@
+5ghz: 7
+5ghz range: 1
+802.11 ac: 1
+ability to expand my internet connections: 1
+accessories: 1
+adapter: 2
+air port: 2
+air port extreme: 1
+antennas: 4
+attach: 4
+brand: 3
+build quality: 1
+buy: 5
+cables: 2
+card: 5
+choice: 2
+compact: 2
+configure: 4
+connect: 65
+connection: 24
+connections: 8
+connectivity: 3
+cost: 5
+coverage: 6
+deal: 2
+delivered: 1
+design: 2
+device: 28
+display: 3
+download newest firmware: 1
+expensive: 4
+extend signal: 1
+extended range: 2
+extender: 26
+extends range: 1
+extention: 1
+fast: 14
+feature: 11
+firmware: 5
+firmware features: 1
+functionality: 1
+gain: 4
+gigabit switch: 2
+gigabyte speeds: 1
+graphics: 2
+gss108e: 2
+hook up: 4
+hookup: 1
+inexpensive: 2
+install: 23
+installation: 3
+instructions: 5
+internet speeds: 1
+item: 11
+logging: 1
+looks: 4
+maintain: 1
+management software: 1
+netgear: 17
+netgear genie: 1
+netgear switch: 2
+network set-up: 1
+open port: 1
+operate: 2
+package: 3
+performance: 3
+performes: 1
+performs: 1
+piece of junk: 2
+plug: 20
+plug in: 2
+poe: 2
+port 1: 1
+power plug: 2
+power plug orientation: 1
+price: 19
+priced: 1
+product: 29
+programs: 1
+protect: 1
+purchase: 19
+quality: 5
+quality of signal: 1
+quick: 5
+quiet: 2
+quite: 6
+range: 35
+reception: 2
+router: 73
+running: 4
+sale price: 1
+secure: 7
+secure management: 1
+security: 9
+security features: 1
+security management: 1
+set up: 39
+set-up: 4
+setting it up: 1
+setup: 26
+signal: 53
+size: 5
+slow: 5
+small: 13
+small business: 1
+software: 9
+software genie: 1
+software/app: 1
+space: 4
+speed: 12
+speeds: 7
+st-up: 1
+stable: 3
+start: 5
+support: 8
+switch: 29
+technical people: 1
+touch screen: 9
+touch screen display: 1
+touchscreen: 3
+transfer speeds: 1
+update software: 1
+usb charging: 3
+usb charging ports: 2
+usb ports: 3
+use: 87
+use touch screen: 1
+user friendly: 4
+value: 3
+wifi: 43
+wifi extender: 5
+wifi strength: 1
+wireless router: 7
+worked: 15
+working: 16
+works: 56

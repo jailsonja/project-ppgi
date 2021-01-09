@@ -1,0 +1,109 @@
+affordable ->> {'Affordable.'}
+audio ->> {'This fits the bill perfectly &amp; like the product description says, it has a "crisp, smooth picture with quality audio".', 'Video and audio are very clear'}
+audio compatibility ->> {'Had a slight problem figuring out audio compatibility with a sound system, but the Sony Customer Service group was very helpful resolving this issue.'}
+buttons ->> {"You'll also want to place the player in a well-lighted area because its black-on-black buttons can be difficult to see."}
+buy ->> {'Great buy..............'}
+colors ->> {"failry good product for budget conscious person and it's good for kids room; however, it does not show very good colors with HD high end quality TV"}
+combo ->> {'Great Combo without paying an arm n leg for two separate units.'}
+compact ->> {'This DVD Player is compact, slim and plays well through HDMI with the 1080p up-conversion.', 'Installs easy, HDMI compatible, compact.', 'Plus it is compact so it fit perfect on her chest of drawers.'}
+connect ->> {'This was easy to connect to my new TV and easy to operate once I got it connected.', 'Easy to set up and connect.', 'Excellent product n easy to connect...'}
+connected ->> {'Awesome inexpensive DVD player connected easily to Insignia TV.'}
+conversion to hd ->> {'Easy To Use...Works Very Well With My Samsung TV...Great Up Conversion To HD Quality Picture.........................................'}
+cost ->> {'Just looking for a reasonable cost just to have an extra DVD player'}
+different connections ->> {'You have to have different connections for VHS and DVD, which I consider a serious drawback.'}
+durable ->> {"It's small yet durable."}
+dvd ->> {'affordable dvd, easy setup, sharp pic, hdmi slots, luv it!!!!!!!!', 'The DVD has worked great so far.'}
+dvd playe ->> {'This DVD player is a great value for the price, nothing fantastic just a solid player.'}
+dvd player ->> {'This is a great DVD player,', 'It is a very nice dvd player and the price was excellent', 'This is a nice, small, basic DVD player.', 'This DVD player works great and is very useful for people who just want a straightforward DVD player without a bunch of extra buttons and fancy features.', 'This dvd player is great for the price.', 'a good ,no frills dvd player.', "It's a great DVD player again simple easy to use and HDMI.", 'This DVD player does the job and is cute as well as compact.', 'Good DVD player for the money, it plays most format.', 'Good starter DVD player, I would recommend this to another user.', 'This is an ordinary DVD player with ordinary performance which is all I was expecting in the $40 range.', 'Really easy to set up with a great picture quality for anyone searching for a nice dvd player.', 'I like this DVD player very much.', 'I am very pleased with this DVD Player as a player with more features would have made no difference on an old TV like mine.', "This is a good basic DVD player, but it has one shortcoming that I'm finding annoying.", 'This DVD player was just what we needed.', 'Just an ordinary DVD player.', 'NICE SMALL DVD PLAYER THAT YOU CAN EVEN TAKE WITH YOU ON TRIPS.', 'I use the DVD player for safety presentations, interfaced with a projector.', "This DVD player is great,it meets all your needs and with 1080p upconversion it's very easy too hook up with great sound and video.", 'this is a very compact dvd player works great with all tvs and is easy to set up for everyone and easy to move from room to room', 'great DVD player.', 'A decent DVD player.'}
+dvd/vcr combo ->> {'This DVD/VCR combo is perfect for watching old favorites from your childhood or new releases!'}
+easy ->> {'This one is small easy to op pirate and quality picture it takes up hardly any room great for small areas.'}
+easy-to-install ->> {"If you're looking for a low-priced, great quality, easy-to-install, and simple-to-operate upconverting DVD player, this is the one for you."}
+experience ->> {'Staff made experience very easy.'}
+features ->> {'This player has a very small footprint and tons of features.', 'Great features for value.. We gave this unit away for a golf outing and people where impressed!'}
+figured out ->> {'It was hard to get it figured out at first from the instructions on the cable set up.'}
+fit ->> {'Plus it is compact so it fit perfect on her chest of drawers.'}
+fits ->> {'Nice small unit that fits perfectly on top of my cable box.', 'It fits easily into the projector carrier so I can use 1 bag for my presentation media.'}
+fits the bill ->> {'This fits the bill perfectly &amp; like the product description says, it has a "crisp, smooth picture with quality audio".'}
+footprint ->> {'This player has a very small footprint and tons of features.'}
+hdmi ->> {'Installs easy, HDMI compatible, compact.'}
+hdmi connection ->> {"It simply does what it's supposed to do and I love the HDMI connection."}
+hook up ->> {'Easy to hook up.', "This DVD player is great,it meets all your needs and with 1080p upconversion it's very easy too hook up with great sound and video.", 'standard hook up, nothing to mess up.'}
+hooked up ->> {'Remote is basic and it hooked up really easy.'}
+hookup ->> {'Easy to hookup.'}
+inexpensive ->> {'Awesome inexpensive DVD player connected easily to Insignia TV.'}
+install ->> {'Easy to install and use.', 'It works wonderful, was easy to install and we have had no problems with it.', 'Easy to install.'}
+installation ->> {'The installation of the DVD/VHS player was very easy.'}
+installs ->> {'Installs easy, HDMI compatible, compact.'}
+item ->> {'Very happy with this purchase Great item, especially for the price.', 'This item Is awesome.'}
+job ->> {"If you must have the low price, and don't mind the segregation, this deck does the job fine."}
+listening to music and books ->> {'They provide good quality pictures and are great for listening to music and books on CD!'}
+loads menu ->> {'Loads menu quickly.'}
+loud ->> {'It is pretty loud and sometimes i thInk it may explode though...'}
+low-priced ->> {"If you're looking for a low-priced, great quality, easy-to-install, and simple-to-operate upconverting DVD player, this is the one for you."}
+machine ->> {'This machine works good.', 'With so little choice on the market, thankfully it is a good machine.', 'This seems to be the only way to get a VCR today, but we are quite happy with the machine.'}
+menu ->> {'bought because of the HD option, easy set up, but the menu is somewhat confusing.'}
+money ->> {'A waste of money!'}
+motion blu ->> {'Little disappointed at the motion blur, particularly with movies.'}
+move ->> {'this is a very compact dvd player works great with all tvs and is easy to set up for everyone and easy to move from room to room'}
+nice small ->> {'Nice small unit that fits perfectly on top of my cable box.'}
+noisy ->> {"Only complaint is it's a bit noisy as it reads the disc, but you learn to ignore it."}
+operate ->> {'This was easy to connect to my new TV and easy to operate once I got it connected.', 'Seems sturdy enough to withstand their treatment and easy to operate.', 'Easy for her to operate.', 'It is high-quality and very easy to operate.'}
+operating instructions ->> {"Toshiba Still Keeps on Top of it's Reputation of Being Up to date with All their Product Line.This DVD Player/VERY Combo with easy operating instructions, easy set up,anyone can use it to its full advantage."}
+operationality ->> {'Got this to replace an old one that died after 10 years.....setup was a cinch and operationality is a piece of cake.'}
+performance ->> {'Good working unit - price was fair - happy with its performance', 'This is an ordinary DVD player with ordinary performance which is all I was expecting in the $40 range.'}
+pic ->> {'affordable dvd, easy setup, sharp pic, hdmi slots, luv it!!!!!!!!'}
+picture ->> {"I don't have it connected with an HDMI cable and the picture is still great.", "Picture is great on her basic TV and it can okay any type of DVD, so we don't have to worry if it is BLU-Ray or not.", 'Clear picture, easy to use.', 'No matter what TV I hooked it up to or what connections I use the picture was awful.', 'We have been able to watch several of our old Video movies, and they have good picture and sound quality for videos.', 'Great picture and very easy to set up.', 'the picture from both are clear', 'Great picture, great sound, incredibly easy set up and its so small!', 'This fits the bill perfectly &amp; like the product description says, it has a "crisp, smooth picture with quality audio".', "Good picture and easy to set up and IF it was stolen, we aren't out a lot of money.", 'Picture is great.', 'Product has very good picture and is easy to use.'}
+picture quality ->> {'Excellent picture quality and easy set up.', 'The picture quality is very good, as was the sound.', 'WORKS VERY WELL IN OUR FAMILY ROOM, THE PICTURE QUALITY AS WELL AS THE SOUND IS EXCELLENT.', 'Really easy to set up with a great picture quality for anyone searching for a nice dvd player.', 'The picture quality is good and the sound was movie quality.', 'DVD player works fine, good picture quality with my Samsung HDTV.'}
+player ->> {'Very good player.', 'I guess you get what you play for, this player is a piece of junk.', 'Definitely a good player for someone on a budget or a young teen.', 'This DVD player is a great value for the price, nothing fantastic just a solid player.', 'In comparison to my Blu-Ray players this player seems prehistoric, but it does play dvds which is all I needed.', 'It was a decent player until it ate a tape.', 'This player is perfect...'}
+playing dvds ->> {'It is easy to use, does a great job playing DVDs and the price was right!'}
+plays ->> {'Plays well when I use it.', 'Plays VHS tapes and DVDs fine.', 'plays great with the upconversion.', 'Nice little unit, plays great.', 'This DVD Player is compact, slim and plays well through HDMI with the 1080p up-conversion.'}
+plays videos ->> {'Nothing extra associated with it but it plays videos just fine.'}
+price ->> {'printer was exactly what i needed at a great price', 'DVD player easy to setup and use, good price, and upscales.', 'It is easy to use, does a great job playing DVDs and the price was right!', "If you must have the low price, and don't mind the segregation, this deck does the job fine.", 'It is a very nice dvd player and the price was excellent', 'Needed a basic DVD player at a reasonable price.', 'Great DVD for the price.', 'And pretty good price point.', 'The price was also very reasonable.', 'No HDMI - the price is right for a legacy DVD player (when it works).', 'Good item for the price, easy to use....not that difficult my grand kids have learned how to work it with no problem.', 'Great price', 'Good working unit - price was fair - happy with its performance', 'Quality at a great price.', 'The price was very reasonable, as well.', 'Great value for the price.', "Works great &amp; can't beat the price!"}
+pricey ->> {'A little pricey but you can hardly find any new combo players nowadays'}
+product ->> {"failry good product for budget conscious person and it's good for kids room; however, it does not show very good colors with HD high end quality TV", 'good product, easy to use.', 'I like this product.', 'Excellent product n easy to connect...', 'Good product for the price!!!', 'This is a great product.', 'I am very satisfied with the purchase of this product.', 'A good product for the everyday not so savvy watcher.'}
+products ->> {'Would always buy Samsung products I think they make very good products'}
+program for recording ->> {'difficult to program for recording times.'}
+purchase ->> {'This was indeed a great purchase.'}
+quality ->> {'The quality is what is expected for the price paid.', 'Sony quality is really good, Connect using USB Port and the quality is real good', "If you're looking for a low-priced, great quality, easy-to-install, and simple-to-operate upconverting DVD player, this is the one for you.", 'Great quality for the price.', 'Good quality for the money.'}
+quality of player ->> {'The quality of player is just as great as the ones that costs a lot.'}
+quality of the pictures ->> {'I was amazed at the quality of the pictures from the dvds played on it.'}
+quality picture ->> {'They provide good quality pictures and are great for listening to music and books on CD!'}
+read ->> {'very difficult to read.'}
+reliable ->> {"If you want a simple and reliable dvd player and don't want to spend much cash, this is the one."}
+remote ->> {'The remote is adequate and works well.', 'The remote was easy to use.', 'Remote is basic and it hooked up really easy.', 'The remote is conveinent to use and the "pause" works instantly unlike ones i have had in the past.'}
+remote control ->> {'Easy remote control.'}
+remote graphics ->> {'the remote graphics are terrible.'}
+resolution ->> {"Good resolution on regular DVD's."}
+rewinds ->> {'The VCR part is nice and quiet and rewinds quickly and quietly.'}
+sale price ->> {'This Dvd player will work for now, and sale price was good'}
+salesman ->> {'I really appreciated the salesman who showed me the various DVD Players as his product knowledge helped me in my decision.'}
+salesperson ->> {'Had a great salesperson who probably thought I was NUTS!'}
+service out ->> {'After initial set up was complete I have had great service out of this item.'}
+set up ->> {'bought because of the HD option, easy set up, but the menu is somewhat confusing.', 'Easy to set up and connect.', 'very easy machine to use, set up of machine was fast.', "Toshiba Still Keeps on Top of it's Reputation of Being Up to date with All their Product Line.This DVD Player/VERY Combo with easy operating instructions, easy set up,anyone can use it to its full advantage.", 'Excellent picture quality and easy set up.', 'Works great and was easy to set up', 'Easy to set up and use.', 'This player was easy to set up and use.', 'Great picture and very easy to set up.', 'Great picture, great sound, incredibly easy set up and its so small!', "Good picture and easy to set up and IF it was stolen, we aren't out a lot of money.", 'Really easy to set up with a great picture quality for anyone searching for a nice dvd player.', 'this is a very compact dvd player works great with all tvs and is easy to set up for everyone and easy to move from room to room'}
+setup ->> {'affordable dvd, easy setup, sharp pic, hdmi slots, luv it!!!!!!!!', 'DVD player easy to setup and use, good price, and upscales.', 'Got this to replace an old one that died after 10 years.....setup was a cinch and operationality is a piece of cake.'}
+setup process ->> {'BIGGEST PROBLEM IS WITH TIME-WARNER WHICH WAS NOT USER FRIENDLY WITH SETUP PROCESS.'}
+simple ->> {"If you want a simple and reliable dvd player and don't want to spend much cash, this is the one.", 'The sony dvd player is simple to setup and use.'}
+simple-to-operate ->> {"If you're looking for a low-priced, great quality, easy-to-install, and simple-to-operate upconverting DVD player, this is the one for you."}
+simplicity ->> {'She is happy with the simplicity of it.'}
+size ->> {'This is just the right size and extremely easy to use.', "I like its small size but don't like the distracting noises when a disc is loading and searching.", "I just need an inexpensive something that was compact in size, to play CD's on through a stereo system in my Master Bed Rm &amp; Bath."}
+slim ->> {'This DVD Player is compact, slim and plays well through HDMI with the 1080p up-conversion.'}
+small ->> {'Great picture, great sound, incredibly easy set up and its so small!', 'This one is small easy to op pirate and quality picture it takes up hardly any room great for small areas.', "It's small yet durable."}
+sony ->> {'This is the fourth Sony I have purchased, and I have been more than satisfied with these products.'}
+sony customer service group ->> {'Had a slight problem figuring out audio compatibility with a sound system, but the Sony Customer Service group was very helpful resolving this issue.'}
+sony dvd player ->> {'The sony dvd player is simple to setup and use.'}
+sony product ->> {'I am a big fan of any Sony product.'}
+sony quality ->> {'Sony quality is really good, Connect using USB Port and the quality is real good'}
+sound ->> {'The picture quality is very good, as was the sound.', 'We have been able to watch several of our old Video movies, and they have good picture and sound quality for videos.', 'WORKS VERY WELL IN OUR FAMILY ROOM, THE PICTURE QUALITY AS WELL AS THE SOUND IS EXCELLENT.', 'Great picture, great sound, incredibly easy set up and its so small!', "This DVD player is great,it meets all your needs and with 1080p upconversion it's very easy too hook up with great sound and video.", 'The picture quality is good and the sound was movie quality.'}
+sturdy ->> {'Seems sturdy enough to withstand their treatment and easy to operate.'}
+support/toshiba ->> {'I tried to get in touch with support/Toshiba but they have been non-responsive.'}
+unit ->> {'Compact unit.', 'Good working unit - price was fair - happy with its performance', 'Nice little unit, plays great.'}
+up-conversion option ->> {"Works great, up-conversion option is excellent, and plays every DVD my old basic player couldn't/wouldn't play"}
+use ->> {'DVD player easy to setup and use, good price, and upscales.', 'It is easy to use, does a great job playing DVDs and the price was right!', "It's easy to use and works perfectly.", 'So easy to use my 3 year old can start a movie..', 'Good item for the price, easy to use....not that difficult my grand kids have learned how to work it with no problem.', 'Easy to use.', "It's a great DVD player again simple easy to use and HDMI.", 'Very easy to use.', 'So easy to use, even my husband can do it.', 'Easy To Use...Works Very Well With My Samsung TV...Great Up Conversion To HD Quality Picture.........................................', 'Easy to install and use.', 'Easy to set up and use.', 'Clear picture, easy to use.', 'This player was easy to set up and use.', 'Very easy to use, great for kids rooms, or for small spaces.', 'This is just the right size and extremely easy to use.', 'Product has very good picture and is easy to use.', 'Easy to use too.', 'We have only used the product one time &amp; were pleased with ease of use &amp; value.', 'very easy machine to use, set up of machine was fast.', 'good product, easy to use.', 'Have lots of vcr movies and this is easy to use, also the dvd player is very easy for us old folks to understand.', 'The first player I purchased ate the VHS videotapes- the second player I exchanged it with works just fine functions well and easy to use.'}
+vcr part ->> {'The VCR part is nice and quiet and rewinds quickly and quietly.'}
+video ->> {"This DVD player is great,it meets all your needs and with 1080p upconversion it's very easy too hook up with great sound and video.", 'Video and audio are very clear'}
+view ->> {'Once we got the right cable (all 5 connections required) it was easy to view.'}
+wonderful ->> {"It's wonderful."}
+work ->> {'It does work great with my Panasonic HDTV.'}
+worked ->> {'So far it has worked great.'}
+working ->> {'So far it is working great!'}
+works ->> {'It works great so far.', "Works great, up-conversion option is excellent, and plays every DVD my old basic player couldn't/wouldn't play", 'Works great and was easy to set up', "It's easy to use and works perfectly.", 'This DVD player works great and is very useful for people who just want a straightforward DVD player without a bunch of extra buttons and fancy features.', 'Works great and no issues.', 'Works great.', 'DVD player works fine, good picture quality with my Samsung HDTV.', 'Easy To Use...Works Very Well With My Samsung TV...Great Up Conversion To HD Quality Picture.........................................', 'WORKS VERY WELL IN OUR FAMILY ROOM, THE PICTURE QUALITY AS WELL AS THE SOUND IS EXCELLENT.', 'DVD works great with my TV I installed wiring was a breeze and had no problem mounting unit.', 'works well under my 24 inch samsung smart tv in kitchen-very happy with purchase', 'It works great for the kids to easily watch movies and shows on dvd while making thr picture fill the screen.', "Works great &amp; can't beat the price!", 'It works great!', 'It works wonderful, was easy to install and we have had no problems with it.', 'it works really great.', 'this is a very compact dvd player works great with all tvs and is easy to set up for everyone and easy to move from room to room'}

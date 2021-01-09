@@ -1,0 +1,237 @@
+6s: 9
+a10 chip: 1
+ability to use to apps split screen: 1
+adaptor for the microusb: 1
+all features: 1
+android: 16
+apps: 10
+attachments: 1
+bargain: 1
+batterie life: 1
+battery: 66
+battery life: 41
+battery power: 2
+beautiful: 6
+best buy customer service: 1
+bestbuy staff: 1
+big: 20
+big phone: 1
+built: 4
+built-in calendar: 1
+buy: 31
+call quality: 1
+camera: 86
+camera features: 2
+camera quality: 2
+cameras: 5
+case selection: 1
+change the batter: 1
+changeable battery: 1
+charge: 21
+charges: 7
+chargest: 1
+charging: 9
+choice: 4
+chop twice for flashlight: 1
+clarity in the pictures: 1
+clarity of the screen: 1
+color: 6
+color gold: 1
+convenient: 2
+cool: 5
+curved screen: 1
+customer service: 4
+daydream vr: 1
+design: 10
+designing: 1
+device: 12
+display: 7
+doesn't have a lot of added software: 1
+downloads: 1
+droid force: 1
+dual forward: 1
+dual lens camera: 1
+durability: 1
+durable: 1
+edge features: 2
+efficiency: 1
+expandable storage option: 1
+expensive: 4
+extra storage: 1
+facetime quality: 1
+fast: 65
+fast charging: 4
+feature: 39
+features: 32
+feeling performance: 1
+fingerprint scanner: 2
+finish on the jet black: 1
+first phone: 1
+flip back and forth: 1
+force touch: 1
+front camera: 2
+functional: 4
+functionality: 3
+g5: 11
+get used to: 1
+glass: 6
+google assistant: 3
+google pixel: 2
+gps: 1
+graphics: 1
+great: 144
+handle one handed: 1
+hardware: 5
+high definition camera: 1
+high resolution pics: 1
+htc: 15
+htc series: 2
+interconnectivity between my car bluetooth and the phone: 1
+interface: 4
+ios 10: 1
+iphone: 74
+iphone 6: 7
+iphone 6s: 2
+iphone 7 plus: 7
+lasting battery: 2
+lasting battery life: 1
+lense: 1
+lg g5: 4
+light: 13
+lightweight: 1
+live photos: 1
+look of the jet black: 1
+looks: 5
+maneuver: 1
+memory: 9
+micro sd card slot: 2
+mods: 15
+modular ability: 1
+moto: 25
+moto mods: 8
+moto phone: 1
+moto z force droid: 1
+moto-mods: 1
+motorola software: 1
+navigate: 4
+new design: 1
+new features: 1
+new galaxy: 1
+new iphone: 5
+new themes: 1
+notch phone: 1
+ok google: 2
+operate: 1
+operation system: 1
+options: 6
+os: 51
+performance: 5
+phone: 451
+phone/data plan: 1
+photo features: 1
+photos: 6
+physically: 1
+picture: 19
+picture quality: 2
+pictures: 16
+piece of hardware: 1
+pixel xl: 3
+pretty color: 1
+price: 11
+priced: 2
+processing speed: 2
+processor: 3
+product: 9
+profile: 1
+promotion: 1
+qualities built in: 1
+quality: 16
+quick: 12
+quick charge function: 1
+radio: 2
+read: 12
+read screen: 1
+rear camera: 2
+rear cameras: 1
+reception: 1
+reliable: 3
+removable battery: 2
+replaceable battery: 1
+response: 2
+responsive: 6
+rose gold color: 1
+runs: 1
+s7 edg: 15
+s7 edge: 15
+samsung: 60
+samsung 6: 1
+samsung galaxy s7 edge: 3
+samsung pay: 1
+samsung phone computer: 1
+samsung s6: 1
+screen: 37
+screen clarity: 2
+screen display: 1
+screen resolution: 1
+screen response: 1
+screen size: 2
+selfie camara: 1
+service: 12
+service at best buy: 1
+service from sales: 1
+service from the salesperson: 1
+several charging options: 1
+simplicity: 2
+size: 10
+size screen: 1
+sleek: 7
+sleek design: 1
+slim: 3
+smartphone: 1
+smiled display: 1
+smooth: 8
+soft shiny finish: 1
+software: 10
+sound: 16
+sound quality: 3
+speaker features: 1
+speaker module: 2
+specifications: 1
+specs: 4
+speed: 8
+speed of operation: 1
+speed performance: 1
+stereo speakers: 1
+storage: 11
+stylish: 2
+swipe away the notification: 1
+syncs: 1
+taking pictures: 2
+team at best buy: 1
+texting: 1
+thin: 63
+thing of beauty: 1
+turbo charger: 1
+twist for camera: 1
+two cameras: 2
+ugly: 1
+update: 4
+upgrades: 6
+upgrades, to the camera: 1
+uploading pics straight to the cloud: 1
+use: 97
+use for older people: 1
+user friendly: 4
+user interface: 2
+value: 1
+very smooth: 2
+videos: 2
+vr alone: 1
+water resistance: 1
+waterproof: 3
+weight: 3
+wide angle camera: 2
+wireless charging: 4
+worked: 3
+working: 9
+works: 14

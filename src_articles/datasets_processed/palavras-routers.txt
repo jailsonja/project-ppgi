@@ -1,0 +1,136 @@
+5ghz ->> {'The 5GHZ is amazing and my connection never drops.'}
+5ghz range ->> {"Works well except the 5ghz range doesn't seem as good as shown in reviews."}
+802.11 ac ->> {'The 802.11 ac is perfect for the HD video streaming on my ipad air 2.'}
+ability to expand my internet connections ->> {'Love the ability to expand my internet connections.'}
+accessories ->> {'Came with all accessories in good condition.'}
+adapter ->> {'I very much like the metal case and small adapter.', "Adapter is small as well fit's my small in wall network center."}
+air port ->> {'this air port works great.'}
+air port extreme ->> {'Air port extreme is great.'}
+antennas ->> {'The three antennas attached easily.', 'The antennas pull in a great signal from that distance (-54 DBM), and my internet bandwidth tests out at 120mbps over the wireless network, which is pretty awesome.', 'The antennas are a little flimsy and appear to be made of weak plastic, but a little care should prevent them from falling apart.'}
+attach ->> {'It was easy to attach to the leg of my desk.'}
+brand ->> {'Net gear is a better brand and quality.'}
+build quality ->> {'This one is just as good in build quality with a metal housing compared to other brands with molded plastic housings.'}
+buy ->> {'Good buy.', 'A good buy for an inexpensive unmanaged switch...'}
+cables ->> {'Cables all tested fine.', 'With good cables (am using Cat6).'}
+card ->> {'The price is also very nice and the card looks good in my windows/ryzen build.', 'My connection is very stable and and the card itself was very easy to install.'}
+choice ->> {'This was a great choice for us.'}
+compact ->> {'Small, compact, touchscreen is a nice feature.'}
+configure ->> {'It was easy to install and configure.'}
+connect ->> {'Its easy to connect and user friendly.', 'I can connect easier without it to the area wifi signal at times which is frustrating at best.'}
+connection ->> {'When it does get a good connection, it is great and the security of logging in seems much safer than surfing the web directly.', 'Connection and setup was easy.', 'The 5GHZ is amazing and my connection never drops.', 'My connection is very stable and and the card itself was very easy to install.'}
+connections ->> {'Just read a few how-tos about how to optimize a Wi-Fi connection before blaming the card for poor connections.'}
+connectivity ->> {'Great connectivity and throughput when used with a TP-Link AC3150 router.'}
+cost ->> {'Found the product at a great cost.'}
+coverage ->> {'Was very Easy to set up the router and have good coverage everywhere in my home.', 'I get not only a great signal, but great coverage in a two level home.', 'Really good coverage.', 'All of them have good coverage when they work.', 'Great coverage throughout our home.'}
+deal ->> {'Wifi extender was real easy to set up and the price made it a better deal.'}
+delivered ->> {'Was delivered quickly.'}
+design ->> {'Adequate as a switch, but obsolete design and terrible firmware that makes secure management effectively impossible to enable.'}
+device ->> {'I recommend this device.', "Don't know if it's my house but it seems to lose the connection at least one a week but other than that it's fine I love this device!", 'This is a very good device that is reasonably priced.'}
+display ->> {'nice display and graphics.'}
+download newest firmware ->> {'ABSOLUTELY CRITICAL TO DOWNLOAD NEWEST FIRMWARE.'}
+expensive ->> {'Less expensive than some other brands but performs very well.'}
+extend signal ->> {'Good to extend signal all over the house, I would recommend if you need to cover more land w wifi'}
+extended range ->> {'the range and extended range is pretty good it works well with netgear would recommend to a friend'}
+extender ->> {'Terrific extender.'}
+extends range ->> {'Extends range very well.'}
+extention ->> {'Great extention for wifi.'}
+fast ->> {'Fast', 'This router is very fast had no problems with it.'}
+feature ->> {'That feature is nice if you have a computer you bought second hand and you are not sure if it has a virus on it.'}
+firmware ->> {'Adequate as a switch, but obsolete design and terrible firmware that makes secure management effectively impossible to enable.'}
+firmware features ->> {'Obsolete firmware features make security management an unholy nightmare.'}
+functionality ->> {'Smart functionality allows for lab setup situations where different vlans may be needed.'}
+gain ->> {'Setup in 5 minutes, high gain, very stable despite a 3 floor home covers the whole house'}
+gigabit switch ->> {'For its price, this is an excellent gigabit switch.'}
+gigabyte speeds ->> {'I like the netgear AC wireless routers, easy setup and great to get gigabyte speeds over wireless'}
+graphics ->> {'nice display and graphics.', 'The X Box has wonderful graphics and seems fairly easy to use.'}
+gss108e ->> {'The GSS108E was easy to install and operates silently.'}
+hook up ->> {'Super easy to hook up.', 'Easy to install and hook up.', 'easy to hook up.'}
+hookup ->> {'Easy to hookup and really extended my range on my tv and iPad'}
+inexpensive ->> {'Nice and small, fast, reliable, inexpensive and very easy to secure.'}
+install ->> {'easy to install and setup.', 'Easy install, it worked well and increase my range', 'very easy to set up and install.', 'Easy to install and hook up.', 'I liked how easy it was to install.', 'It was easy to install and configure.', 'Easy install.', 'It was easy to install and my computer was instantly faster .', 'Very easy to install and now wi fi works perfectly saving me a lot of money by not using my data.', 'Beside that in was easy to install.', "This is very easy to install and really handles my multiple Xbox's and other items hooked up to it."}
+installation ->> {'Simply follow on-screen instructions and installation is a snap.', 'This router installation could not have been easier.'}
+instructions ->> {'The instructions were easy to understand.', 'Works awesomely, easy to set up and instructions are clear.'}
+internet speeds ->> {'Internet speeds are great all over the house.'}
+item ->> {'Very nice item.', 'Great Item!!!!', 'It is a very good item for a very good price.', 'This item is just perfect.'}
+logging ->> {'When it does get a good connection, it is great and the security of logging in seems much safer than surfing the web directly.'}
+looks ->> {'Even looks sleek and nice on the mantel.'}
+maintain ->> {'Very secure and very easy to maintain.'}
+management software ->> {'Buy an unmanaged switch or check to make sure the software is from this century, the management software is a joke.'}
+netgear ->> {'Netgear is a nice gigabit switch in a very small and solid package.'}
+netgear genie ->> {'I love the Netgear Genie that helps set up the router.'}
+netgear switch ->> {'Matching a good Netgear switch did the job.'}
+network set-up ->> {'Can be wall mounted, easy network set-up.'}
+open port ->> {'Unscrewed an open port, put the card in and secured it with a screw.'}
+operate ->> {'Amped has a great range and was very easy to set up and operate'}
+package ->> {'Netgear is a nice gigabit switch in a very small and solid package.'}
+performance ->> {'Solid 1 gigabit performance, even showed me a faulty network cable with the status lights.'}
+performes ->> {'Have multiple devices connected to it and it performes well.'}
+performs ->> {'Less expensive than some other brands but performs very well.'}
+piece of junk ->> {'Piece of junk!!!'}
+plug ->> {'Great plug, play, and forget device'}
+plug in ->> {'Plug in and set up was easy.'}
+poe ->> {'POE is a nice feature on this, well port 1 is POE'}
+port 1 ->> {'POE is a nice feature on this, well port 1 is POE'}
+power plug ->> {'The only thing that I found weird was the power plug was on the other side of the switch and that made it hard to fit on a shelf'}
+power plug orientation ->> {'Only issue is the power plug orientation make is difficult to plug the electrical plug in the outlet in a residential wiring closet.'}
+price ->> {'The price is also very nice and the card looks good in my windows/ryzen build.', 'Great price and with all the functions I need.', 'I works great but sometimes I have trouble getting the wifi and then I have to refresh it.. All in all not a bad job for the price', 'And the price was reasonable.', 'Well worth the price.', 'It is a very good item for a very good price.', 'Does everthing it should snd a very good price.', 'Great price and easy setup.', 'Good price.'}
+priced ->> {'This is a very good device that is reasonably priced.'}
+product ->> {'Its a great product.', 'The instructions can not be miss understood and support for the product is great.', 'Nice and great cheap product...', 'Great Product, easy to set up and use!', 'This is a great product for a home network.', 'Every thing running with no problem, great product.', 'An absolute great product!', 'This product was one of the worst things I ever bought never kept connection.', 'Good product for the price.', 'This product was highly recommended.', 'Excellent product.', 'Just what I was looking for great product great #1', 'Great product, I am going to buy more of these.', 'Great product!', 'This product is great, easy to set up, and exactly what I was looking for.'}
+programs ->> {"USB ports wouldn't work, cD-drive wouldn't work, and all programs including internet explorer would open very slowly and become in-responsive."}
+protect ->> {'I found this router easy to set up and easy to protect.'}
+purchase ->> {'I am more than satisfied with this purchase.'}
+quality ->> {'Net gear is a better brand and quality.'}
+quality of signal ->> {'Range is fantastic and quality of signal is excellent.'}
+quick ->> {'Small quick and easy to setup.'}
+quiet ->> {"It's quiet and allows you to connect multiple devices without any buffering."}
+quite ->> {'This one has a metal body and is super quite.'}
+range ->> {'The range seems to be excellent.', 'Purchased this access point having purchased others in the past, Offers decent range with internal antenna, very good when paired with an external antenna (purchased separately).', 'Range is fantastic and it was so easy to set up.', 'Great range and awesome capacity for price.', 'Easy install, it worked well and increase my range', 'Range is also much improved.', 'the range and extended range is pretty good it works well with netgear would recommend to a friend', 'Range is very good.', 'Range is fantastic and quality of signal is excellent.', 'Works great with Comcast gateway, very easy setup, copies router information automatically, very good range works from house past detached garage', 'Also, the range is excellent for this unit.', 'Amped has a great range and was very easy to set up and operate', 'Range seems to be OK but not outstanding.', 'Router constantly loses signal and the range sucks', 'This extender is easy to set up and has excellent range', 'The range was good and the setup was easy even for those who are not tech savvy.', 'this extender had good range and is easy to use with stylus and touch screen'}
+reception ->> {'Super easy set up, great reception through 7000sq ft'}
+router ->> {'Close to the router is excellent, but when you veer away about 20 ft, the signal is inconsistent.', 'This router rocks, I am many items using it at all times and it does a great job!', 'Overall, this is an fantastic router if you have good internet service and a house that will well wired for Wi-Fi.', 'This router is nice when it works, but it seems every couple of days I need to reset it to make it work again, then it takes a while to set itself up again', 'Great router for any person.', 'Best router in this price range.', "It's a great router for basic stuff and gaming and computing.", 'Not a bad router.... but the router is supposed to cover 10k square ft.', 'This new router is great.'}
+running ->> {'Every thing running with no problem, great product.'}
+sale price ->> {'The sale price was wonderful, as it included an extra controller and two games.'}
+secure ->> {'Very secure and very easy to maintain.', "It's secure.", 'Nice and small, fast, reliable, inexpensive and very easy to secure.'}
+secure management ->> {'Adequate as a switch, but obsolete design and terrible firmware that makes secure management effectively impossible to enable.'}
+security ->> {'provides extra security by being able to configure -- allows you to set it up so that it will not allow looping back on a network', 'OK, I thought, maybe I can find a way to configure this securely enough, despite the laughably absent security.'}
+security features ->> {'Great security features.'}
+security management ->> {'Obsolete firmware features make security management an unholy nightmare.'}
+set up ->> {'Range is fantastic and it was so easy to set up.', 'Great signal, easy set up.', 'Very simple set up.', 'Extremely easy to set up- no computer needed.', 'Easy set up.', "Easy to set up switch works good, looses power always have to reset switch doesn't boot with out reset", "It's also very easy to set up and detected our network right away.", 'This unit is a quick start and fairly easy to set up.', 'This was a simple set up took 2 minutes.', 'easy to set up wireless network its cover whole house', 'Great Product, easy to set up and use!', 'very easy to set up and install.', 'The switch was very easy to set up and works great.', 'The set up is easy and love the software that came with it.', 'Works awesomely, easy to set up and instructions are clear.', 'Have no issues and was easy to set up', 'This product is great, easy to set up, and exactly what I was looking for.', 'Easy to set up with the software.', 'Easy to set up and use.', 'It was very easy to set up and choose settings.', 'This router was so very easy to set up.', 'Super easy set up, great reception through 7000sq ft', 'Wifi extender was real easy to set up and the price made it a better deal.', 'Set up was fairly easy with option to set up as extended (booster) signal from router or as a subsystem allowing separate passwords e.g.', 'Was very Easy to set up the router and have good coverage everywhere in my home.', 'I found this router easy to set up and easy to protect.', 'easy set up and worked after a few adjustments in the location chosen.', 'Amped has a great range and was very easy to set up and operate', 'Plug in and set up was easy.', 'Easy to use and set up and the item purchases works', 'Set up had a few hiccups but once it was done, product works great!', 'This extender is easy to set up and has excellent range'}
+set-up ->> {'Set-up was easy and fast.', 'This Netgear Router was extremely easy to set-up and begin operation!', 'Otherwise, easy to set-up.'}
+setting it up ->> {"I liked the ease of setting it up it just wasn't powerful enough for my needs."}
+setup ->> {'I am a retired 63 yr old and not a tech guru - easy setup and now completely wireless.', 'Connection and setup was easy.', 'easy to install and setup.', 'very user friendly and easy to setup.', 'Easy to setup.', 'Very easy setup.', 'It was easy to setup with the directions and was deployed within 10 minutes of opening the box.', "Setup was very simple and we've had no issues.", 'Setup was by far the most straight forward and simple that I have seen.', 'Works great with Comcast gateway, very easy setup, copies router information automatically, very good range works from house past detached garage', 'Small quick and easy to setup.', 'I like the netgear AC wireless routers, easy setup and great to get gigabyte speeds over wireless', 'It was easy to setup.', "SETUP look easy, but it wasn't cooperating with my modem, so I had to exchanged it for the Nighthawk", 'Great price and easy setup.', 'Simple to setup and works like a dream in my basement extending the wireless signal all over the house', 'The range was good and the setup was easy even for those who are not tech savvy.', 'The setup is very easy and fast.'}
+signal ->> {'Close to the router is excellent, but when you veer away about 20 ft, the signal is inconsistent.', 'This router is working extremely well for us with strong signal throughout the house.', 'I get not only a great signal, but great coverage in a two level home.', 'Great signal, easy set up.', "The signal is weak or the signal doesn't hold for very long.", 'We have about 12-14 wireless and 2 wired items going and the signal is very stable.', 'Signal is very strong, even through brick (interior) walls'}
+size ->> {'the size is great.', 'Compact size.', 'It is a nice size &amp; works great.', 'Perfect size and speed for my department', 'Small in size no bright lights'}
+slow ->> {'it was very slow.'}
+small ->> {'I very much like the metal case and small adapter.', 'Small quick and easy to setup.', 'Small, compact, touchscreen is a nice feature.', 'Netgear is a nice gigabit switch in a very small and solid package.'}
+small business ->> {'Perfect for small business owners in retail!!'}
+software ->> {'The set up is easy and love the software that came with it.', 'The Software was horrible for this managed switch'}
+software genie ->> {'But the best thing about it is the software Genie that sits it up with absolutely no problem.'}
+software/app ->> {'Even still, the software/app is nice for getting useful data about network connectivity.'}
+space ->> {'Fits the small space I have for it.', 'It takes up less space.'}
+speed ->> {'Perfect size and speed for my department', 'Wanted to see if a new router would really make a difference, and wow, lightening speed compared to the old b/g/n router.', 'fast speed.'}
+speeds ->> {'Has performed with high speeds and no problems.'}
+st-up ->> {'Easy st-up.'}
+stable ->> {'Setup in 5 minutes, high gain, very stable despite a 3 floor home covers the whole house'}
+start ->> {'This unit is a quick start and fairly easy to set up.'}
+support ->> {'The instructions can not be miss understood and support for the product is great.'}
+switch ->> {'This switch was the perfect addition to my house.', 'Basic switch, does what it needs to do.', 'great switch, works as advertised.', 'Adequate as a switch, but obsolete design and terrible firmware that makes secure management effectively impossible to enable.'}
+technical people ->> {'This is great for less technical people.'}
+touch screen ->> {'The touch screen on it is a little bit finicky but it boots my wifi onto my front driveway and my backyard.', 'By the end of the second week, touch screen went blank and stopped working completely.'}
+touch screen display ->> {'Touch screen display was a totally messed up and when it worked typed random stuff.'}
+touchscreen ->> {"The touchscreen was almost entirely nonfunctional, and when I was finally able to connect it to my network, it didn't work at all.", 'Small, compact, touchscreen is a nice feature.'}
+transfer speeds ->> {'Transfer speeds on the 2.4ghz network is good enough.'}
+update software ->> {'Easy to update software right out of the box.'}
+usb charging ->> {'I love the USB charging!'}
+usb charging ports ->> {'The 8-port model has very convenient USB charging ports, a nice bonus feature for a professional workstation or home office.', 'The USB charging ports are handy for plugging phones or other electronic devices so they can charge.'}
+usb ports ->> {'The USB ports are convenient to charge cell phones.', 'It functions as expected and I enjoy the usb ports for charging.', "USB ports wouldn't work, cD-drive wouldn't work, and all programs including internet explorer would open very slowly and become in-responsive."}
+use ->> {'The X Box has wonderful graphics and seems fairly easy to use.', 'Great Product, easy to set up and use!', 'Easy to set up and use.', 'Easy to use and set up and the item purchases works', 'The majority of the others were not and add the fact that this was easy to use and took all of 10 minutes to get going was great!', 'this extender had good range and is easy to use with stylus and touch screen'}
+use touch screen ->> {'Kind of hard to use touch screen.'}
+user friendly ->> {'Its easy to connect and user friendly.', 'very user friendly and easy to setup.', 'Very user friendly.'}
+value ->> {'Great Value!', 'Good value for the price.', "Best value I could find and does it's job."}
+wifi ->> {'I works great but sometimes I have trouble getting the wifi and then I have to refresh it.. All in all not a bad job for the price'}
+wifi extender ->> {"This was the worst wifi extender I've ever used, and I've tried many trying to get the best wifi extender I can."}
+wifi strength ->> {'Installed this device on the first floor and they now have good WiFi strength throughout the house.'}
+wireless router ->> {'good wireless router has capacity to cover whole house i would recommend to other'}
+worked ->> {'Worked fine for about 3 months....', 'Easy install, it worked well and increase my range', 'This worked perfectly and now my whole yard has wifi.', 'Rewired my house and this worked perfect for the job.', 'Worked great for a week, then started dropping the signal.', 'Needed a router that would work through the whole house and tks product worked perfectly.'}
+working ->> {'Working as expected.', 'This router is working extremely well for us with strong signal throughout the house.', 'It was working good but now is just a piece of junk.', 'Plugged in and working great so far.', "It's working good and it extends signal in my house.", 'This unit is working great the only thing that made it bad was i had to call my internet carrier, that took time.', 'Working perfectly....', 'My dad even got one after I did and his is working very well too.', 'This internet range extender is working quite well.'}
+works ->> {'Works great for having more Ethernet ports to connect more devices.', 'It is a nice size &amp; works great.', "Easy to set up switch works good, looses power always have to reset switch doesn't boot with out reset", 'works great and GIGABIT speeds make a world of difference on my Xbox game play!', 'Just plugged it in, and it works great.', "Works perfectly on a Windows 10 Pro system using the drivers from TP-Link's support website.", 'Had this for about a month now and it works perfectly', 'Works very well.', 'Router works great.', "Works well except the 5ghz range doesn't seem as good as shown in reviews.", 'Works perfectly.', 'the range and extended range is pretty good it works well with netgear would recommend to a friend', 'Once I got this it works great!!', 'It works as expected and I would recommend this to anyone looking for an unmanaged switch.', 'The switch was very easy to set up and works great.', 'Works awesomely, easy to set up and instructions are clear.', 'This extender works seamlessly and took just a few minutes to set up and run.', 'No issues, disconnects if too far away from it, works just fine within distance', 'Have had it for a few weeks and works perfect.', 'This switch works great.', 'It works awesome.', 'Works well!', 'It works well for my initial requirement of migrating data and continues to work well as I use it to split the Ethernet connection coming out of my wall.', 'Works great.', 'This router works perfect for our smaller type house with multiple devices at the same time and also for video chatting', 'Works great with Comcast gateway, very easy setup, copies router information automatically, very good range works from house past detached garage', 'I works great but sometimes I have trouble getting the wifi and then I have to refresh it.. All in all not a bad job for the price', 'Simple to setup and works like a dream in my basement extending the wireless signal all over the house', 'Works well.', 'Works very well in our small office.', 'Set up had a few hiccups but once it was done, product works great!', "It's what you expect: metal case, works fine without hanging."}

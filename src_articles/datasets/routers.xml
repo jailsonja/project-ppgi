@@ -1,0 +1,1452 @@
+<review codeProduct=1243203 idReview=1>
+	<sentence idSentence=1>Can be wall mounted, easy network set-up.</sentence>
+	<opinion>aspect="network set-up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great if you have a Xfinity wireless router, this allows more hard wired connections to be run thru the router, currently it has one wired port .</sentence>
+</review>
+<review codeProduct=1243203 idReview=2>
+	<sentence idSentence=1>Nice and small, fast, reliable, inexpensive and very easy to secure.</sentence>
+	<opinion>aspect="secure" sentiment="easy" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+	<opinion>aspect="inexpensive" sentiment="" polarity="Positive" aspectClass="Price" type="implicit"</opinion>
+	<sentence idSentence=2>Great product, I am going to buy more of these.</sentence>
+	<opinion>aspect="product" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=3>
+	<sentence idSentence=1>provides extra security by being able to configure -- allows you to set it up so that it will not allow looping back on a network</sentence>
+	<opinion>aspect="security" sentiment="extra" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=4>
+	<sentence idSentence=1>Plug and Play.</sentence>
+	<sentence idSentence=2>Compact size.</sentence>
+	<opinion>aspect="size" sentiment="Compact" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=3>Nice</sentence>
+</review>
+<review codeProduct=1243203 idReview=5>
+	<sentence idSentence=1>It functions as expected and I enjoy the usb ports for charging.</sentence>
+	<opinion>aspect="usb ports" sentiment="enjoy" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+	<sentence idSentence=2>I use it for my home to connect my desktop, raspberry pie, nas unit, and hue lights.</sentence>
+	<sentence idSentence=3>It was easy to attach to the leg of my desk.</sentence>
+	<opinion>aspect="attach" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>As long as it remains functional I'm happy with the purchase.</sentence>
+</review>
+<review codeProduct=1243203 idReview=6>
+	<sentence idSentence=1>My old one wore out and all I had to do was unplug the old one and plugin the new one and connect all the devices I had and bam it all worked!</sentence>
+	<sentence idSentence=2>I did not have to run software or be some kind of computer expert.</sentence>
+	<sentence idSentence=3>It is a very good item for a very good price.</sentence>
+	<opinion>aspect="item" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>It works awesome.</sentence>
+	<opinion>aspect="works" sentiment="awesome" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=7>
+	<sentence idSentence=1>Netgear is a nice gigabit switch in a very small and solid package.</sentence>
+	<opinion>aspect="Netgear" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="package" sentiment="solid" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=2>I very much like the metal case and small adapter.</sentence>
+	<opinion>aspect="adapter" sentiment="small" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+	<opinion>aspect="small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=8>
+	<sentence idSentence=1>The Software was horrible for this managed switch</sentence>
+	<opinion>aspect="Software" sentiment="horrible" polarity="Negative" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=9>
+	<sentence idSentence=1>Perfect for small business owners in retail!!</sentence>
+	<opinion>aspect="small business" sentiment="Perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Fast</sentence>
+	<opinion>aspect="Fast" sentiment="" polarity="Positive" aspectClass="Speed" type="implicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=10>
+	<sentence idSentence=1>The USB ports are convenient to charge cell phones.</sentence>
+	<opinion>aspect="USB ports" sentiment="convenient to charge cell phones" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+	<sentence idSentence=2>The GSS108E was easy to install and operates silently.</sentence>
+	<opinion>aspect="GSS108E" sentiment="easy to install" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>As this is a home network setup, I am not using GSS108E's VPN or other advanced capabilities, but they may eventually be useful.</sentence>
+</review>
+<review codeProduct=1243203 idReview=11>
+	<sentence idSentence=1>Adapter is small as well fit's my small in wall network center.</sentence>
+	<opinion>aspect="Adapter" sentiment="small" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=12>
+	<sentence idSentence=1>This is a great product for a home network.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Smart functionality allows for lab setup situations where different vlans may be needed.</sentence>
+	<opinion>aspect="functionality" sentiment="Smart" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=13>
+	<sentence idSentence=1>Got the product I ordered.</sentence>
+	<sentence idSentence=2>Came with all accessories in good condition.</sentence>
+	<opinion>aspect="accessories" sentiment="good condition" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+	<sentence idSentence=3>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Would recommend this seller to others.</sentence>
+</review>
+<review codeProduct=1243203 idReview=14>
+	<sentence idSentence=1>OK, I thought, maybe I can find a way to configure this securely enough, despite the laughably absent security.</sentence>
+	<opinion>aspect="security" sentiment="absent" polarity="Negative" aspectClass="Security" type="explicit"</opinion>
+	<sentence idSentence=2>But there are no other options to help make HTTP-only manageable.</sentence>
+	<sentence idSentence=3>It's not possible to limit admin access to a certain port or VLAN - in fact, there doesn't seem to be any form of ACL available for the admin interface.</sentence>
+</review>
+<review codeProduct=1243203 idReview=15>
+	<sentence idSentence=1>This Netgear switch is the second one I have bought.</sentence>
+	<sentence idSentence=2>The first one I have in my first house has worked for over 5 years enclosed in a wiring closet with no problems.</sentence>
+	<sentence idSentence=3>This one is just as good in build quality with a metal housing compared to other brands with molded plastic housings.</sentence>
+	<opinion>aspect="build quality" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Only issue is the power plug orientation make is difficult to plug the electrical plug in the outlet in a residential wiring closet.</sentence>
+	<opinion>aspect="power plug orientation" sentiment="difficult to plug the electrical plug" polarity="Negative" aspectClass="Accessory" type="explicit"</opinion>
+	<sentence idSentence=5>Had to run the power cord outside of the wiring closet to a normal wall outlet.</sentence>
+</review>
+<review codeProduct=1243203 idReview=16>
+	<sentence idSentence=1>The 8-port model has very convenient USB charging ports, a nice bonus feature for a professional workstation or home office.</sentence>
+	<opinion>aspect="USB charging ports" sentiment="convenient" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+	<sentence idSentence=2>Both models are solidly constructed, and for the price, both are a steal.</sentence>
+</review>
+<review codeProduct=1243203 idReview=17>
+	<sentence idSentence=1>Adequate as a switch, but obsolete design and terrible firmware that makes secure management effectively impossible to enable.</sentence>
+	<opinion>aspect="switch" sentiment="Adequate" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="design" sentiment="obsolete" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="firmware" sentiment="terrible" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="secure management" sentiment="impossible to enable" polarity="Negative" aspectClass="Security" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=18>
+	<sentence idSentence=1>Buy an unmanaged switch or check to make sure the software is from this century, the management software is a joke.</sentence>
+	<opinion>aspect="management software" sentiment="joke" polarity="Negative" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=19>
+	<sentence idSentence=1>It works for what I am using it for.</sentence>
+	<sentence idSentence=2>I don't think I will use the VLAN capability at this time but will in the future.</sentence>
+	<sentence idSentence=3>POE is a nice feature on this, well port 1 is POE</sentence>
+	<opinion>aspect="POE" sentiment="nice feature" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="port 1" sentiment="POE" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=20>
+	<sentence idSentence=1>Great plug, play, and forget device</sentence>
+	<opinion>aspect="plug" sentiment="Great" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=21>
+	<sentence idSentence=1>It works well for my initial requirement of migrating data and continues to work well as I use it to split the Ethernet connection coming out of my wall.</sentence>
+	<opinion>aspect="works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>With good cables (am using Cat6).</sentence>
+	<opinion>aspect="cables" sentiment="good" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=22>
+	<sentence idSentence=1>The switch was very easy to set up and works great.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=23>
+	<sentence idSentence=1>Obsolete firmware features make security management an unholy nightmare.</sentence>
+	<opinion>aspect="firmware features" sentiment="Obsolete" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="security management" sentiment="nightmare" polarity="Negative" aspectClass="Security" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=24>
+	<sentence idSentence=1>Our old switch was not delivering the 150+ speed coming in from our new cable provider.</sentence>
+	<sentence idSentence=2>As soon as the old unit was swapped with this new unit, the network PC's were running internet apps 10x+++ faster.</sentence>
+	<sentence idSentence=3>Perfect size and speed for my department</sentence>
+	<opinion>aspect="size" sentiment="Perfect" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="speed" sentiment="Perfect" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=25>
+	<sentence idSentence=1>It does a good job.</sentence>
+	<opinion>aspect="It" sentiment="good job" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Small quick and easy to setup.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="quick" sentiment="" polarity="Positive" aspectClass="Speed" type="implicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=26>
+	<sentence idSentence=1>Bought a new NightHawk router and needed a good reliable switch to expand my connections for a home network.</sentence>
+	<sentence idSentence=2>Matching a good Netgear switch did the job.</sentence>
+	<opinion>aspect="Netgear switch" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=27>
+	<sentence idSentence=1>The USB charging ports are handy for plugging phones or other electronic devices so they can charge.</sentence>
+	<opinion>aspect="USB charging ports" sentiment="handy" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+</review>
+<review codeProduct=1243203 idReview=28>
+	<sentence idSentence=1>I love the USB charging!</sentence>
+	<opinion>aspect="USB charging" sentiment="love" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+	<sentence idSentence=2>I like it, and I hope it finds a market because it's well made.</sentence>
+</review>
+<review codeProduct=1243203 idReview=29>
+	<sentence idSentence=1>provides extra security by being able to configure -- allows you to set it up so that it will not allow looping back on a network</sentence>
+	<opinion>aspect="security" sentiment="extra" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+</review>
+<review codeProduct=1420016 idReview=1>
+	<sentence idSentence=1>I actually bought this for a co-worker of mine to replace a Netgear router that wasn't quite up to standard of what they needed.</sentence>
+	<sentence idSentence=2>I don't know why but after opening up the box one of the antennas was popped off it's base.</sentence>
+	<sentence idSentence=3>I was able to secure it back but I don't think that's how it was supposed to arrive.</sentence>
+	<sentence idSentence=4>In any case, the owner of this product is very pleased with it's results--especially the dual band feature which they use the 2.4GHZ for the laptop and the 5GHZ for the tv and Samsung Galaxy 3 phone.</sentence>
+</review>
+<review codeProduct=1420016 idReview=2>
+	<sentence idSentence=1>Worked fine for about 3 months....</sentence>
+	<opinion>aspect="Worked" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420016 idReview=3>
+	<sentence idSentence=1>Easy to use and set up and the item purchases works</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1420016 idReview=4>
+	<sentence idSentence=1>This product was highly recommended.</sentence>
+	<opinion>aspect="product" sentiment="recommended" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I think there are as good products out there that don't cost as much, are easier to understand and work as well, if not better</sentence>
+</review>
+<review codeProduct=1420016 idReview=5>
+	<sentence idSentence=1>Intro:</sentence>
+</review>
+<review codeProduct=1420016 idReview=6>
+	<sentence idSentence=1>I have a couple of the RTA15 routers and many of the APA20 access points.</sentence>
+	<sentence idSentence=2>All of them have good coverage when they work.</sentence>
+	<opinion>aspect="coverage" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=3>I have to reboot the devices almost daily.</sentence>
+	<sentence idSentence=4>I have reached out to Amped Wireless numerous times.</sentence>
+	<sentence idSentence=5>I am told they will send a replacement which has never happened.</sentence>
+	<sentence idSentence=6>The problem seems to be with the firmware.</sentence>
+	<sentence idSentence=7>Please get this fixed Amped Wireless.</sentence>
+	<sentence idSentence=8>If you could fix this issue you would have a product worth bragging about.</sentence>
+	<sentence idSentence=9>If I could rate this product worse than Poor I would.</sentence>
+</review>
+<review codeProduct=1420016 idReview=7>
+	<sentence idSentence=1>I was hoping the amplified signal would be better than my existing Cisco 4200 router.</sentence>
+	<sentence idSentence=2>Close to the router is excellent, but when you veer away about 20 ft, the signal is inconsistent.</sentence>
+	<opinion>aspect="signal" sentiment="inconsistent" polarity="Negative" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="router" sentiment="excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Will wait until all bugs are figured out.</sentence>
+</review>
+<review codeProduct=1420016 idReview=8>
+	<sentence idSentence=1>Not a bad router.... but the router is supposed to cover 10k square ft.</sentence>
+	<opinion>aspect="router" sentiment="Not a bad" polarity="Neutral" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>THIS IS NOT EVEN CLOSE.</sentence>
+</review>
+<review codeProduct=1603044 idReview=1>
+	<sentence idSentence=1>Already had 3, but needed more space so I bought another.</sentence>
+	<sentence idSentence=2>Basically just plug and play, but still has internet portal for fine tuning the settings.</sentence>
+</review>
+<review codeProduct=1612625 idReview=1>
+	<sentence idSentence=1>Purchased this access point having purchased others in the past, Offers decent range with internal antenna, very good when paired with an external antenna (purchased separately).</sentence>
+	<opinion>aspect="range" sentiment="decent" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=2>Does require technical knowledge of WiFi to setup properly - there is no wizard to walk a beginner through setup.</sentence>
+</review>
+<review codeProduct=1612625 idReview=2>
+	<sentence idSentence=1>Super easy set up, great reception through 7000sq ft</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="reception" sentiment="great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612625 idReview=3>
+	<sentence idSentence=1>Works very well in our small office.</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It was easy to setup with the directions and was deployed within 10 minutes of opening the box.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612625 idReview=4>
+	<sentence idSentence=1>Set it up, worked until now.</sentence>
+</review>
+<review codeProduct=1612625 idReview=5>
+	<sentence idSentence=1>Connection and setup was easy.</sentence>
+	<opinion>aspect="Connection" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The range seems to be excellent.</sentence>
+	<opinion>aspect="range" sentiment="excellent" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=1>
+	<sentence idSentence=1>We bought this to replace a previous router that had to be rebooted three or four times a day -- on a good day.</sentence>
+	<sentence idSentence=2>This router is working extremely well for us with strong signal throughout the house.</sentence>
+	<opinion>aspect="working" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="signal" sentiment="strong" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>We already had a booster on the second floor and it connected to it quickly and easily.</sentence>
+</review>
+<review codeProduct=1612916 idReview=2>
+	<sentence idSentence=1>WiFi reaches further than expected or needed and transmits at maximum speeds.</sentence>
+	<sentence idSentence=2>I am more than satisfied with this purchase.</sentence>
+	<opinion>aspect="purchase" sentiment="satisfied" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=3>
+	<sentence idSentence=1>I bought this to replace my N300 router since it started dropping.</sentence>
+	<sentence idSentence=2>This is very easy to install and really handles my multiple Xbox's and other items hooked up to it.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I love the Netgear Genie that helps set up the router.</sentence>
+	<opinion>aspect="Netgear Genie" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>I would recommend this for home use!</sentence>
+</review>
+<review codeProduct=1612916 idReview=4>
+	<sentence idSentence=1>Nothing special but it does the job.</sentence>
+	<sentence idSentence=2>Range seems to be OK but not outstanding.</sentence>
+	<opinion>aspect="Range" sentiment="OK" polarity="Neutral" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="Range" sentiment="not outstanding" polarity="Neutral" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=5>
+	<sentence idSentence=1>easy set up and worked after a few adjustments in the location chosen.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>This was used in a pro audio/video installation with other wireless devices.</sentence>
+</review>
+<review codeProduct=1612916 idReview=6>
+	<sentence idSentence=1>The signal strength is a lot stronger than the old one, even when the desktop is in the conner of the furthest room.</sentence>
+	<sentence idSentence=2>The 802.11 ac is perfect for the HD video streaming on my ipad air 2.</sentence>
+	<opinion>aspect="802.11 ac" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=7>
+	<sentence idSentence=1>I was what we were looking for.</sentence>
+	<sentence idSentence=2>It is a nice size &amp; works great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="size" sentiment="nice" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=8>
+	<sentence idSentence=1>I have about 6 thinkgs I need to connect wireless and I needed a faster with AC Capability.</sentence>
+	<sentence idSentence=2>I choose this one entry level Yest with all the features I needed.</sentence>
+	<sentence idSentence=3>Working as expected.</sentence>
+	<opinion>aspect="Working" sentiment="expected" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=9>
+	<sentence idSentence=1>I picked up this router on sale.</sentence>
+	<sentence idSentence=2>I haven't had any problems with it so far.</sentence>
+	<sentence idSentence=3>I was hoping to mount it on the wall, but it doesn't have mounting holes like other routers I've seen.</sentence>
+	<sentence idSentence=4>Even still, the software/app is nice for getting useful data about network connectivity.</sentence>
+	<opinion>aspect="software/app" sentiment="nice" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=10>
+	<sentence idSentence=1>This router works perfect for our smaller type house with multiple devices at the same time and also for video chatting</sentence>
+	<opinion>aspect="works" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=11>
+	<sentence idSentence=1>Ideal because it has a wps button for those difficult wireless connections between my computor and printer..</sentence>
+	<sentence idSentence=2>I present router didn't have a button and connecting was impossible</sentence>
+</review>
+<review codeProduct=1612916 idReview=12>
+	<sentence idSentence=1>Easy to install and hook up.</sentence>
+	<opinion>aspect="install" sentiment="Easy" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="hook up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>An absolute great product!</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=13>
+	<sentence idSentence=1>Great price and easy setup.</sentence>
+	<opinion>aspect="price" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Was able to expand the wifi ability in my house.</sentence>
+</review>
+<review codeProduct=1612916 idReview=14>
+	<sentence idSentence=1>Very easy setup.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Don't have problems getting kicked off my own internet when my kids come home for the weekend any more.</sentence>
+	<sentence idSentence=3>Range is also much improved.</sentence>
+	<opinion>aspect="Range" sentiment="improved" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=15>
+	<sentence idSentence=1>The setup is very easy and fast.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The instructions were easy to understand.</sentence>
+	<opinion>aspect="instructions" sentiment="easy to understand" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I had no trouble connecting all my devices to it.</sentence>
+	<sentence idSentence=4>At first I kept getting disconnected on my Air IPad.</sentence>
+	<sentence idSentence=5>Then I realized their are two options regular and 5 G. When I connected to the 5G I haven't had any more problems.</sentence>
+	<sentence idSentence=6>So now I am satisfied.</sentence>
+	<sentence idSentence=7>That first few days I considered returning it til I figured out the 5 G. I wish it had a guest network like my previous Linkseys.</sentence>
+</review>
+<review codeProduct=1612916 idReview=16>
+	<sentence idSentence=1>I realize that I just got a lemon but still felt I needed to share my experience.</sentence>
+	<sentence idSentence=2>First I researched for a LONG time and finally made the decision (based on reviews mostly ) that this would work best for me.</sentence>
+	<sentence idSentence=3>I have a 2 story home and needed something to go through walls, floors, etc.</sentence>
+	<sentence idSentence=4>I finally ordered on-line, then picked up at the store.</sentence>
+	<sentence idSentence=5>That all went well.</sentence>
+	<sentence idSentence=6>I get it home, unpack it, plug it in and nothing.</sentence>
+	<sentence idSentence=7>After some troubleshooting to no avail I got on-line with Netgear.</sentence>
+	<sentence idSentence=8>After 62 minutes of back and forth corresponding with the tech support rep he asked me if I had a different power supply that I could use.</sentence>
+	<sentence idSentence=9>That's when I said "Never mind, I'm returning it" to which he concurred that was a good idea.</sentence>
+	<sentence idSentence=10>So I'm back to using my old one for now and will research more.</sentence>
+	<sentence idSentence=11>I'm actually debating on buying another one so am I crazy?</sentence>
+	<sentence idSentence=12>I'm actually marking No on the question..."I would recommend this to a friend" however, I would share my experience and let them decide for themselves.</sentence>
+</review>
+<review codeProduct=1612916 idReview=17>
+	<sentence idSentence=1>I have it on my desk in my home office and it works in every room of the house, in the basement, in the garage, and in the attic.</sentence>
+	<sentence idSentence=2>Supports 2.4 GHz and 5 GHz as well as AC WiFi protocol for maximum user flexibility.</sentence>
+	<sentence idSentence=3>Also supports separate 2.4 GHz and 5 GHz guest accounts with isolated networks and passwords.</sentence>
+	<sentence idSentence=4>More expensive models may have more range or slightly higher data rates but this one should be good enough for most of us.</sentence>
+</review>
+<review codeProduct=1612916 idReview=18>
+	<sentence idSentence=1>SETUP look easy, but it wasn't cooperating with my modem, so I had to exchanged it for the Nighthawk</sentence>
+	<opinion>aspect="SETUP" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=19>
+	<sentence idSentence=1>Simply follow on-screen instructions and installation is a snap.</sentence>
+	<opinion>aspect="installation" sentiment="snap" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=20>
+	<sentence idSentence=1>This product is great, easy to set up, and exactly what I was looking for.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=21>
+	<sentence idSentence=1>This was a great choice for us.</sentence>
+	<opinion>aspect="choice" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>We have about 12-14 wireless and 2 wired items going and the signal is very stable.</sentence>
+	<opinion>aspect="signal" sentiment="stable" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Good buy.</sentence>
+	<opinion>aspect="buy" sentiment="Good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=22>
+	<sentence idSentence=1>Its a great product.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It should be the only product used for any PC.</sentence>
+	<sentence idSentence=3>Its easy to connect and user friendly.</sentence>
+	<opinion>aspect="connect" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="user friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=4>The instructions can not be miss understood and support for the product is great.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="support" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=23>
+	<sentence idSentence=1>I have few wireless devices which are located on different levels at the house.</sentence>
+	<sentence idSentence=2>Communication between them are improved.</sentence>
+</review>
+<review codeProduct=1612916 idReview=24>
+	<sentence idSentence=1>This router transmits a strong signal far beyond what I expected.</sentence>
+	<sentence idSentence=2>It reaches within every corner of my house and beyond.</sentence>
+	<sentence idSentence=3>I have never had a problem with losing connection and can even hold a signal while outside.</sentence>
+</review>
+<review codeProduct=1612916 idReview=25>
+	<sentence idSentence=1>Benefit comes since each unit in the package works independantly</sentence>
+</review>
+<review codeProduct=1612916 idReview=26>
+	<sentence idSentence=1>Great Item!!!!</sentence>
+	<opinion>aspect="Item" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to set up and use.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Small in size no bright lights</sentence>
+	<opinion>aspect="size" sentiment="Small" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=27>
+	<sentence idSentence=1>I bought this to go with new HP computers with 10 gig Hardrive.</sentence>
+	<sentence idSentence=2>I wanted this to hook up a external harddrive for storage.</sentence>
+	<sentence idSentence=3>It works perfect.</sentence>
+	<opinion>aspect="It" sentiment="perfect" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=4>I just can't seem to set up a forwarding port on the Genie or website.</sentence>
+</review>
+<review codeProduct=1612916 idReview=28>
+	<sentence idSentence=1>Easy st-up.</sentence>
+	<opinion>aspect="st-up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>fast speed.</sentence>
+	<opinion>aspect="speed" sentiment="fast" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=3>only issue was I kept getting error message when I tried to change wifi name and password.</sentence>
+	<sentence idSentence=4>Otherwise, easy to set-up.</sentence>
+	<opinion>aspect="set-up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=29>
+	<sentence idSentence=1>Great signal, easy set up.</sentence>
+	<opinion>aspect="signal" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Even looks sleek and nice on the mantel.</sentence>
+	<opinion>aspect="looks" sentiment="sleek" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="looks" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=30>
+	<sentence idSentence=1>My new laptop has AC wireless and my old router didn't.</sentence>
+	<sentence idSentence=2>Wanted to see if a new router would really make a difference, and wow, lightening speed compared to the old b/g/n router.</sentence>
+	<opinion>aspect="speed" sentiment="lightening" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=3>Setup was very simple and we've had no issues.</sentence>
+	<opinion>aspect="Setup" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Range is very good.</sentence>
+	<opinion>aspect="Range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=5>Good product for the price.</sentence>
+	<opinion>aspect="product" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=31>
+	<sentence idSentence=1>This router is very fast had no problems with it.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Speed" type="implicit"</opinion>
+	<sentence idSentence=2>I had bought a belkin router but that didn't work out for me.</sentence>
+	<sentence idSentence=3>it was very slow.</sentence>
+	<opinion>aspect="slow" sentiment="" polarity="Negative" aspectClass="Speed" type="implicit"</opinion>
+	<sentence idSentence=4>Net gear is a better brand and quality.</sentence>
+	<opinion>aspect="brand" sentiment="better" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="quality" sentiment="better" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=32>
+	<sentence idSentence=1>Easy set up.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Having a dual router has been very beneficial with the college students home for the summer.</sentence>
+</review>
+<review codeProduct=1612916 idReview=33>
+	<sentence idSentence=1>easy to set up wireless network its cover whole house</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=34>
+	<sentence idSentence=1>I found this router easy to set up and easy to protect.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="protect" sentiment="easy" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+	<sentence idSentence=2>It works well.</sentence>
+	<opinion>aspect="It" sentiment="well" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1612916 idReview=35>
+	<sentence idSentence=1>Easy to update software right out of the box.</sentence>
+	<opinion>aspect="update software" sentiment="Easy" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=2>This Netgear Router was extremely easy to set-up and begin operation!</sentence>
+	<opinion>aspect="set-up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=36>
+	<sentence idSentence=1>Router works great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>My house is 2000 square feet and I can access internet wirelessly inside or out.</sentence>
+	<sentence idSentence=3>Reverse compatibility means this router will not be outdated for a while.</sentence>
+	<sentence idSentence=4>Great Value!</sentence>
+	<opinion>aspect="Value" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=37>
+	<sentence idSentence=1>Needed a router that would work through the whole house and tks product worked perfectly.</sentence>
+	<opinion>aspect="worked" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=38>
+	<sentence idSentence=1>The range was good and the setup was easy even for those who are not tech savvy.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=39>
+	<sentence idSentence=1>Best router in this price range.</sentence>
+	<opinion>aspect="router" sentiment="Best" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Was very Easy to set up the router and have good coverage everywhere in my home.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="coverage" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=40>
+	<sentence idSentence=1>It's a great router for basic stuff and gaming and computing.</sentence>
+	<opinion>aspect="router" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=41>
+	<sentence idSentence=1>Works well except the 5ghz range doesn't seem as good as shown in reviews.</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="5ghz range" sentiment="doesn't seem as good" polarity="Negative" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=2>I get better range on the 2.4 ghz band.</sentence>
+</review>
+<review codeProduct=1612916 idReview=42>
+	<sentence idSentence=1>I could not get my computer to connect wirelessly.</sentence>
+	<sentence idSentence=2>I called Netgear technical ,assistance and they could not fix the problem.</sentence>
+	<sentence idSentence=3>They told me I had to take my computer to get it fixed.</sentence>
+	<sentence idSentence=4>I disconnected the new router and reconnected my old Belkin unit and everything worked fine</sentence>
+</review>
+<review codeProduct=1612916 idReview=43>
+	<sentence idSentence=1>No issues, disconnects if too far away from it, works just fine within distance</sentence>
+	<opinion>aspect="works" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=44>
+	<sentence idSentence=1>This unit is working great the only thing that made it bad was i had to call my internet carrier, that took time.</sentence>
+	<opinion>aspect="working" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Beside that in was easy to install.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=45>
+	<sentence idSentence=1>This router installation could not have been easier.</sentence>
+	<opinion>aspect="installation" sentiment="easier" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Literally plug and play.</sentence>
+	<sentence idSentence=3>Range is fantastic and quality of signal is excellent.</sentence>
+	<opinion>aspect="Range" sentiment="fantastic" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="quality of signal" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Allowed me to convert my 70 year old father's desktop computer to a wireless network with laptops.</sentence>
+	<sentence idSentence=5>He's thrilled to be able to sit on the sofa with a laptop now connected to a network instead of running back to his desktop and uses it with no problems!</sentence>
+</review>
+<review codeProduct=1612916 idReview=46>
+	<sentence idSentence=1>Bought this router after a friend suggested it would be better than the 1 offered by Comcast.</sentence>
+	<sentence idSentence=2>They were so right !</sentence>
+	<sentence idSentence=3>Range is fantastic and it was so easy to set up.</sentence>
+	<opinion>aspect="Range" sentiment="fantastic" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Paired it with surfboard modem.</sentence>
+	<sentence idSentence=5>Great choice.</sentence>
+	<opinion>aspect="choice" sentiment="Great" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1612916 idReview=47>
+	<sentence idSentence=1>Had this for about a month now and it works perfectly</sentence>
+	<opinion>aspect="works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=48>
+	<sentence idSentence=1>Bought wrong one its not for cable line as I originally thought</sentence>
+</review>
+<review codeProduct=1612916 idReview=49>
+	<sentence idSentence=1>Have had it for a few weeks and works perfect.</sentence>
+	<opinion>aspect="works" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to set up with the software.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Like the fact that it has 2ghz, 5ghz and a guest account.</sentence>
+	<sentence idSentence=4>Lots of options, but not complicated at all.</sentence>
+</review>
+<review codeProduct=1612916 idReview=50>
+	<sentence idSentence=1>Arrived ahead of time and took only 10 minutes to be totally connected.</sentence>
+	<sentence idSentence=2>I am a retired 63 yr old and not a tech guru - easy setup and now completely wireless.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=51>
+	<sentence idSentence=1>My router was old and đropping my WiFi signal constantly.</sentence>
+	<sentence idSentence=2>Thought it was my ISP, maybe the modem, but it was my old Dlink.</sentence>
+	<sentence idSentence=3>This new router is great.</sentence>
+	<opinion>aspect="router" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>Multiple channels and guest networks if you want.</sentence>
+	<sentence idSentence=5>It was very easy to set up and choose settings.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=6>Has not dropped the WiFi signal yet and I'm streaming movies downstairs with no issues.</sentence>
+	<sentence idSentence=7>My dad even got one after I did and his is working very well too.</sentence>
+	<opinion>aspect="working" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=8>At one time, on separate channels I might have Xbox one, 2 phones, and a tablet on the network.</sentence>
+	<sentence idSentence=9>No interference issues yet,!</sentence>
+</review>
+<review codeProduct=1612916 idReview=52>
+	<sentence idSentence=1>The AC-1200 does the job quite well on both the 2.4 and the 5 Gigahertz bands.</sentence>
+	<sentence idSentence=2>But the best thing about it is the software Genie that sits it up with absolutely no problem.</sentence>
+	<opinion>aspect="software Genie" sentiment="no problem" polarity="Neutral" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=3>None of the guessing at all the settings like we all used to have to do.</sentence>
+	<sentence idSentence=4>You can bring up on your screen a map of your whole network - iPhone - iPod - iPad - other computers - printers - etc.</sentence>
+	<sentence idSentence=5>You can also reconnect or change connections using the Genie program instead of using the program for wifi connections that comes with your computer.</sentence>
+	<sentence idSentence=6>It is more fun to play with the Genie screen than it is to use your computer (slight exaggeration).</sentence>
+	<sentence idSentence=7>It also has a "guest" feature so that you can use a different key to connect to the router which keeps the guest computer separate from your regular network.</sentence>
+	<sentence idSentence=8>That feature is nice if you have a computer you bought second hand and you are not sure if it has a virus on it.</sentence>
+	<opinion>aspect="feature" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=9>I recommend this device.</sentence>
+	<opinion>aspect="device" sentiment="recommend" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=53>
+	<sentence idSentence=1>Loved it as I don't need to reboot every now and then.</sentence>
+	<opinion>aspect="it" sentiment="Loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1612916 idReview=54>
+	<sentence idSentence=1>I have had a hard time getting wifi to constantly work in my home.</sentence>
+	<sentence idSentence=2>Once I got this it works great!!</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Have no issues and was easy to set up</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=55>
+	<sentence idSentence=1>This router was so very easy to set up.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>As soon as I plugged it in, it found my network and starting working.....just that simple.</sentence>
+	<sentence idSentence=3>Very much worth the money!!</sentence>
+	<sentence idSentence=4>!</sentence>
+</review>
+<review codeProduct=1612916 idReview=56>
+	<sentence idSentence=1>I read several reviews before purchasing the Netgear 1200 AC router.</sentence>
+	<sentence idSentence=2>It was easy to install and my computer was instantly faster .</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=3>I love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1612916 idReview=57>
+	<sentence idSentence=1>good wireless router has capacity to cover whole house i would recommend to other</sentence>
+	<opinion>aspect="wireless router" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=58>
+	<sentence idSentence=1>Set up had a few hiccups but once it was done, product works great!</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Set up" sentiment="few hiccups" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=59>
+	<sentence idSentence=1>I like the netgear AC wireless routers, easy setup and great to get gigabyte speeds over wireless</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="gigabyte speeds" sentiment="great" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=60>
+	<sentence idSentence=1>Super easy to hook up.</sentence>
+	<opinion>aspect="hook up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It's secure.</sentence>
+	<opinion>aspect="secure" sentiment="" polarity="Positive" aspectClass="Security" type="implicit"</opinion>
+	<sentence idSentence=3>It takes up less space.</sentence>
+	<opinion>aspect="space" sentiment="less" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=4>I just wish my Internet provider worked as well as and was as reliable as my new router!</sentence>
+</review>
+<review codeProduct=1612916 idReview=61>
+	<sentence idSentence=1>This router rocks, I am many items using it at all times and it does a great job!</sentence>
+	<opinion>aspect="router" sentiment="rocks" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=62>
+	<sentence idSentence=1>I purchased this based on other reviews and so far it has been great.</sentence>
+	<sentence idSentence=2>The set up is easy and love the software that came with it.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="software" sentiment="love" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=3>It has 2.4ghz and 5ghz band as well as a guest login.</sentence>
+	<sentence idSentence=4>Have multiple devices connected to it and it performes well.</sentence>
+	<opinion>aspect="performes" sentiment="well" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=5>If you can get this on sale I would recommend it.</sentence>
+</review>
+<review codeProduct=1612916 idReview=63>
+	<sentence idSentence=1>Works perfectly.</sentence>
+	<opinion>aspect="Works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I wish I had bought this sooner.</sentence>
+	<sentence idSentence=3>Great coverage throughout our home.</sentence>
+	<opinion>aspect="coverage" sentiment="Great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=64>
+	<sentence idSentence=1>This router is nice when it works, but it seems every couple of days I need to reset it to make it work again, then it takes a while to set itself up again</sentence>
+	<opinion>aspect="router" sentiment="works" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=65>
+	<sentence idSentence=1>Has performed with high speeds and no problems.</sentence>
+	<opinion>aspect="speeds" sentiment="high" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=2>ABSOLUTELY CRITICAL TO DOWNLOAD NEWEST FIRMWARE.</sentence>
+	<opinion>aspect="DOWNLOAD NEWEST FIRMWARE" sentiment="CRITICAL" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=66>
+	<sentence idSentence=1>I like the freedom it gives me.</sentence>
+	<sentence idSentence=2>the size is great.</sentence>
+	<opinion>aspect="size" sentiment="great" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=1612916 idReview=67>
+	<sentence idSentence=1>Just what I was looking for great product great #1</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=1>
+	<sentence idSentence=1>Works awesomely, easy to set up and instructions are clear.</sentence>
+	<opinion>aspect="Works" sentiment="awesomely" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="instructions" sentiment="clear" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=2>
+	<sentence idSentence=1>Works great with Comcast gateway, very easy setup, copies router information automatically, very good range works from house past detached garage</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=3>
+	<sentence idSentence=1>Easy install, it worked well and increase my range</sentence>
+	<opinion>aspect="install" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="range" sentiment="increase" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="worked" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=4>
+	<sentence idSentence=1>Guests who stayed in basement bedroom couldn't download from the Internet.</sentence>
+	<sentence idSentence=2>Now they can stream movies</sentence>
+</review>
+<review codeProduct=1835046 idReview=5>
+	<sentence idSentence=1>This is the second range extender I purchased and was much more user friendly than the first.</sentence>
+	<sentence idSentence=2>Was able to set it up and get it working right out of the box.</sentence>
+</review>
+<review codeProduct=1835046 idReview=6>
+	<sentence idSentence=1>This was the worst wifi extender I've ever used, and I've tried many trying to get the best wifi extender I can.</sentence>
+	<opinion>aspect="wifi extender" sentiment="worst" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The only reason this costs more than the better extenders like any of the netgear ones is because it has a touch screen and looks pretty.</sentence>
+	<sentence idSentence=3>It isn't even dual band.</sentence>
+	<sentence idSentence=4>Only 2.4ghz and it hardly receives a signal from your router and the signal it puts out is slow.</sentence>
+	<sentence idSentence=5>I would recommend the netgear ac750 which works great receives your router signal great and is dual band 2.4 and 5ghz and it also has a feature called fast lane technology which puts bot signals together into one faster signal.</sentence>
+	<sentence idSentence=6>The ac1200 is good to puts out a much faster signal than the ac750 and has fast lane tech as well but puts out up to 1200Mbps where the ac750 puts out up to 750Mbps but it depends on how much bandwidth you receive from your provider where you won't get 1200Mbps unless yoyour cable modem is capable.</sentence>
+	<sentence idSentence=7>I also found that the ac1200 which costs approx $100 and the ac750 is around $75 but I notice the ac1200 seems a bit harder to catch a good signal but if it does it is a pretty awesome extender it even has a dual core processor in it.</sentence>
+	<sentence idSentence=8>But all in all I would never go with amped wireless again.</sentence>
+	<sentence idSentence=9>They're pretty with touch screens but suck in performance and cost around $120 and it isn't even dual band.</sentence>
+	<sentence idSentence=10>It's garbage for people that aren't computer say and are pulled in by its looks.</sentence>
+	<sentence idSentence=11>I really didn't want to give it any stars.</sentence>
+</review>
+<review codeProduct=1835046 idReview=7>
+	<sentence idSentence=1>this extender had good range and is easy to use with stylus and touch screen</sentence>
+	<opinion>aspect="range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=8>
+	<sentence idSentence=1>Great Product, easy to set up and use!</sentence>
+	<opinion>aspect="Product" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Works well!</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=9>
+	<sentence idSentence=1>I was impressed by the amped Wi-Fi signal this unit permitted throughout my house.</sentence>
+	<sentence idSentence=2>However, I have a patrician wall made of aluminum to block sound and the Wi-Fi signal will not penetrate that either.</sentence>
+</review>
+<review codeProduct=1835046 idReview=10>
+	<sentence idSentence=1>I bought this 2 months ago to replace the Netgear extender with hopes of providing greater distance to my network.</sentence>
+	<sentence idSentence=2>It extended my network better, but did not pickup the signal from my router consistently.</sentence>
+	<sentence idSentence=3>Called Amped support, they helped upgrade the firmware, which corrected the problem.</sentence>
+</review>
+<review codeProduct=1835046 idReview=11>
+	<sentence idSentence=1>easy to install and setup.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>it extends internet though my house.</sentence>
+</review>
+<review codeProduct=1835046 idReview=12>
+	<sentence idSentence=1>Had to take this back it connected to the network but didn't pass Internet</sentence>
+</review>
+<review codeProduct=1835046 idReview=13>
+	<sentence idSentence=1>This device provides better coverage to the remainder of the house than the previous 2 Netgear units that it replaced.</sentence>
+	<sentence idSentence=2>Setup was by far the most straight forward and simple that I have seen.</sentence>
+	<opinion>aspect="Setup" sentiment="straight forwar" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Setup" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>It does not require an additional device to program it.</sentence>
+	<sentence idSentence=4>If you can find wifi with your telephone, then you have the capacity to set up this device.</sentence>
+</review>
+<review codeProduct=1835046 idReview=14>
+	<sentence idSentence=1>Simple to setup and works like a dream in my basement extending the wireless signal all over the house</sentence>
+	<opinion>aspect="setup" sentiment="Simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="dream" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=15>
+	<sentence idSentence=1>Easy to hookup and really extended my range on my tv and iPad</sentence>
+	<opinion>aspect="hookup" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=16>
+	<sentence idSentence=1>very user friendly and easy to setup.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="user friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>has USB for network drive which i have attached 1tb harddisk</sentence>
+</review>
+<review codeProduct=1835046 idReview=17>
+	<sentence idSentence=1>I was looking for a range extender and this was the first one that jumped out at me since it was digital.</sentence>
+	<sentence idSentence=2>The majority of the others were not and add the fact that this was easy to use and took all of 10 minutes to get going was great!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>This has definitely extended my range in the old dead spots around my house.</sentence>
+</review>
+<review codeProduct=1835046 idReview=18>
+	<sentence idSentence=1>Took my signal in house and boosted it in areas that were weaker.</sentence>
+</review>
+<review codeProduct=1835046 idReview=19>
+	<sentence idSentence=1>I had a number of dead spots in the house before I purchased this.</sentence>
+	<sentence idSentence=2>Once I installed it, they were gone.</sentence>
+	<sentence idSentence=3>Internet speeds are great all over the house.</sentence>
+	<opinion>aspect="Internet speeds" sentiment="great" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=20>
+	<sentence idSentence=1>Worked great for a week, then started dropping the signal.</sentence>
+	<opinion>aspect="Worked" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>By the end of the second week, touch screen went blank and stopped working completely.</sentence>
+	<opinion>aspect="touch screen" sentiment="blank" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Returned to store and bought a linksys, I like it better and it is still working.</sentence>
+</review>
+<review codeProduct=1835046 idReview=21>
+	<sentence idSentence=1>There was parts of my house that my wifi was slow or didn't work at all.</sentence>
+	<sentence idSentence=2>Not only did this fix it but in those locations I had a fast connection.</sentence>
+</review>
+<review codeProduct=1835046 idReview=22>
+	<sentence idSentence=1>I bought this hoping it will help make my signal stronger through out our home hard to say right now if it's really helping I feel it's helping but hard to say..</sentence>
+	<sentence idSentence=2>Still early..</sentence>
+</review>
+<review codeProduct=1835046 idReview=23>
+	<sentence idSentence=1>Well worth the price.</sentence>
+	<opinion>aspect="price" sentiment="worth" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Extremely easy to set up- no computer needed.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>nice display and graphics.</sentence>
+	<opinion>aspect="display" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="graphics" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Pulls in 85-95% signal consistently.</sentence>
+	<sentence idSentence=5>Had purchased older versions from same manufacturer-this is the best by far.</sentence>
+</review>
+<review codeProduct=1835046 idReview=24>
+	<sentence idSentence=1>Works as described, allows Wi Fi signal in different parts of house and outside.</sentence>
+	<sentence idSentence=2>Small, compact, touchscreen is a nice feature.</sentence>
+	<opinion>aspect="touchscreen" sentiment="nice feature" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Small" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="compact" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=25>
+	<sentence idSentence=1>Great product!</sentence>
+	<opinion>aspect="product" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Would recommend it to anyone.</sentence>
+	<sentence idSentence=3>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>No problems so far</sentence>
+</review>
+<review codeProduct=1835046 idReview=26>
+	<sentence idSentence=1>So much easier to set up than traditional extenders.</sentence>
+	<sentence idSentence=2>This thing connects to a wireless network like a cell phone does.</sentence>
+</review>
+<review codeProduct=1835046 idReview=27>
+	<sentence idSentence=1>This wifi product helped to end the dead zone in my home.</sentence>
+	<sentence idSentence=2>Set-up was easy and fast.</sentence>
+	<opinion>aspect="Set-up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Set-up" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=28>
+	<sentence idSentence=1>Good to extend signal all over the house, I would recommend if you need to cover more land w wifi</sentence>
+	<opinion>aspect="extend signal" sentiment="Good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=29>
+	<sentence idSentence=1>just keep one for a Home as it's almost covered all area.</sentence>
+</review>
+<review codeProduct=1835046 idReview=30>
+	<sentence idSentence=1>very easy to set up and install.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Entering the security key takes the most time.</sentence>
+	<sentence idSentence=3>Signal is very strong, even through brick (interior) walls</sentence>
+	<opinion>aspect="Signal" sentiment="strong" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=31>
+	<sentence idSentence=1>The X Box has wonderful graphics and seems fairly easy to use.</sentence>
+	<opinion>aspect="graphics" sentiment="wonderful" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The sale price was wonderful, as it included an extra controller and two games.</sentence>
+	<opinion>aspect="sale price" sentiment="wonderful" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=3>Thank you!</sentence>
+</review>
+<review codeProduct=1835046 idReview=32>
+	<sentence idSentence=1>The time display defaults to the time at the Internet provider server which in my case is in a different time zone so the time is always off by an hour.</sentence>
+</review>
+<review codeProduct=1835046 idReview=33>
+	<sentence idSentence=1>Wifi extender was real easy to set up and the price made it a better deal.</sentence>
+	<opinion>aspect="deal" sentiment="better" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=34>
+	<sentence idSentence=1>I was unable to connect this to my router.</sentence>
+	<sentence idSentence=2>Returned</sentence>
+</review>
+<review codeProduct=1835046 idReview=35>
+	<sentence idSentence=1>I bought this because my room was not close enough to the cable router and the router is kinda out dated.</sentence>
+	<sentence idSentence=2>I think the hardest part is finding the go between so that it amplifies enough.</sentence>
+	<sentence idSentence=3>I works great but sometimes I have trouble getting the wifi and then I have to refresh it.. All in all not a bad job for the price</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="wifi" sentiment="trouble" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="not a bad jo" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=36>
+	<sentence idSentence=1>This extender really does give extended range.</sentence>
+	<sentence idSentence=2>I had tried other extenders and had been unhappy with them.</sentence>
+</review>
+<review codeProduct=1835046 idReview=37>
+	<sentence idSentence=1>This product was one of the worst things I ever bought never kept connection.</sentence>
+	<opinion>aspect="product" sentiment="worst thing" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Had to reprogram it daily</sentence>
+</review>
+<review codeProduct=1835046 idReview=38>
+	<sentence idSentence=1>Setup in 5 minutes, high gain, very stable despite a 3 floor home covers the whole house</sentence>
+	<opinion>aspect="stable" sentiment="very" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="gain" sentiment="high" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=39>
+	<sentence idSentence=1>This is great and has extended my WiFi well beyond my expectations!</sentence>
+	<opinion>aspect="This" sentiment="great" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=1835046 idReview=40>
+	<sentence idSentence=1>the range and extended range is pretty good it works well with netgear would recommend to a friend</sentence>
+	<opinion>aspect="works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="extended range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="range" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=41>
+	<sentence idSentence=1>It has a lot of features some useful some useless but seems to get the job done my signal is much better in the house.</sentence>
+</review>
+<review codeProduct=1835046 idReview=42>
+	<sentence idSentence=1>I've used this on a building that has concrete walls and the signal was able to carry about 50 ft beyond the adjacent wall.</sentence>
+	<sentence idSentence=2>Set up was fairly easy with option to set up as extended (booster) signal from router or as a subsystem allowing separate passwords e.g.</sentence>
+	<opinion>aspect="Set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>for an apartment complex.</sentence>
+	<sentence idSentence=4>Only issue I had was that I could not reset from a remote location such as when I am out of country/area and there was a short power outage.</sentence>
+</review>
+<review codeProduct=1835046 idReview=43>
+	<sentence idSentence=1>Great extention for wifi.</sentence>
+	<opinion>aspect="extention" sentiment="Great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=2>I used to have wifi just inside the house.</sentence>
+	<sentence idSentence=3>This was a simple set up took 2 minutes.</sentence>
+	<opinion>aspect="set up" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Now I go to my back yard and half full strength signal out in the back.</sentence>
+	<sentence idSentence=5>Same goes with the front I'm in the car and I have wifi.</sentence>
+	<sentence idSentence=6>Really good coverage.</sentence>
+	<opinion>aspect="coverage" sentiment="good" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=7>I happy with it.</sentence>
+</review>
+<review codeProduct=1835046 idReview=44>
+	<sentence idSentence=1>This extender is easy to set up and has excellent range</sentence>
+	<opinion>aspect="range" sentiment="excellent" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=45>
+	<sentence idSentence=1>I've tried quite a few wireless extenders and none of them seem to hold up.</sentence>
+	<sentence idSentence=2>The signal is weak or the signal doesn't hold for very long.</sentence>
+	<opinion>aspect="signal" sentiment="weak" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>This is definitely not the case with the Amped extender.</sentence>
+	<sentence idSentence=4>I get not only a great signal, but great coverage in a two level home.</sentence>
+	<opinion>aspect="signal" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="coverage" sentiment="great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=5>It's also very easy to set up and detected our network right away.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=46>
+	<sentence idSentence=1>I am good with computers,but terrible when it comes to Networks.</sentence>
+	<sentence idSentence=2>Most routers and Wifi extenders require almost a professional technical understanding of netwoking to get them setup correctly.</sentence>
+	<sentence idSentence=3>I was so pleased to find this Wifi Extender !</sentence>
+	<sentence idSentence=4>With its screen, you can connect to a existing Wifi signal just like you do with your smartphone.</sentence>
+	<sentence idSentence=5>You just press Scan to find existing signals, then select the one you want, put in the security key and you are connected !</sentence>
+	<sentence idSentence=6>Also, the range is excellent for this unit.</sentence>
+	<opinion>aspect="range" sentiment="excellent" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=7>I connected to a neighboring building that is 200 Ft. away and I get a 79% signal !</sentence>
+	<sentence idSentence=8>What more could you ask for less than 100.00 ?</sentence>
+</review>
+<review codeProduct=1835046 idReview=47>
+	<sentence idSentence=1>its really good i get wifi where i didnt before i can now use it outside.</sentence>
+</review>
+<review codeProduct=1835046 idReview=48>
+	<sentence idSentence=1>My WiFi in my home was horrible until I got this.</sentence>
+	<sentence idSentence=2>I can now use my WiFi on all three of my floors and I can connect my hard drive up to it and view my things on my smart TVs.</sentence>
+</review>
+<review codeProduct=1835046 idReview=49>
+	<sentence idSentence=1>I had to return it for a more powerful one.</sentence>
+	<sentence idSentence=2>I liked the ease of setting it up it just wasn't powerful enough for my needs.</sentence>
+	<opinion>aspect="setting it up" sentiment="ease" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=50>
+	<sentence idSentence=1>needed to extend my wifi out to my pole barn on my property.</sentence>
+	<sentence idSentence=2>This worked perfectly and now my whole yard has wifi.</sentence>
+	<opinion>aspect="worked" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=51>
+	<sentence idSentence=1>had trouble getting unit to connect to certain encryption types (WPA2).</sentence>
+	<sentence idSentence=2>once passed that part item worked like it was suppose to.</sentence>
+</review>
+<review codeProduct=1835046 idReview=52>
+	<sentence idSentence=1>Don't know if it's my house but it seems to lose the connection at least one a week but other than that it's fine I love this device!</sentence>
+	<opinion>aspect="device" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>!</sentence>
+</review>
+<review codeProduct=1835046 idReview=53>
+	<sentence idSentence=1>This unit is a quick start and fairly easy to set up.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="start" sentiment="quick" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It has dropped offline a few times but seems to have stabilized recently.</sentence>
+	<sentence idSentence=3>Out of the box, it required an update which didn't fully integrate so the screen was off for a couple of days but righted itself upon update fix.</sentence>
+</review>
+<review codeProduct=1835046 idReview=54>
+	<sentence idSentence=1>This is the best idea in Wifi extending I have seen!</sentence>
+	<sentence idSentence=2>It is just like using a phone to see available wireless &amp; connecting!!</sentence>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=1835046 idReview=55>
+	<sentence idSentence=1>Bought this last week in order to extend the range of my wireless router.</sentence>
+	<sentence idSentence=2>Simple enough, I've used a Linksys before with satisfactory results, but my previous unit finally died on me.</sentence>
+	<sentence idSentence=3>Figured I'd try this unit since it was on sale.</sentence>
+	<sentence idSentence=4>Don't.</sentence>
+	<sentence idSentence=5>The touchscreen was almost entirely nonfunctional, and when I was finally able to connect it to my network, it didn't work at all.</sentence>
+	<opinion>aspect="touchscreen" sentiment="entirely nonfunctional" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=6>No signal.</sentence>
+	<sentence idSentence=7>Got my money back, and will stick with a reputable model going forward.</sentence>
+	<sentence idSentence=8>Linksys or Netgear are recommended.</sentence>
+</review>
+<review codeProduct=1835046 idReview=56>
+	<sentence idSentence=1>Amped wireless extender bet my expectations and works better than advertised.</sentence>
+	<sentence idSentence=2>It does work with my iPhone, iPad way beyond the range I expected.</sentence>
+</review>
+<review codeProduct=1835046 idReview=57>
+	<sentence idSentence=1>Amped has a great range and was very easy to set up and operate</sentence>
+	<opinion>aspect="range" sentiment="great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=58>
+	<sentence idSentence=1>I read the directions and placed the product in a place where my wifi signal was strong and it extended the signal to the back and sides of my house.</sentence>
+	<sentence idSentence=2>Now I can watch videos and access the internet from everywhere in my house including my back Patio.</sentence>
+</review>
+<review codeProduct=1835046 idReview=59>
+	<sentence idSentence=1>Very nice item.</sentence>
+	<opinion>aspect="item" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Excellent product.</sentence>
+	<opinion>aspect="product" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>I recommend it.</sentence>
+</review>
+<review codeProduct=1835046 idReview=60>
+	<sentence idSentence=1>I purchased this for my kid's house.</sentence>
+	<sentence idSentence=2>They FaceTime me every day and the screen froze constantly because their mom's modem/router is in the basement.</sentence>
+	<sentence idSentence=3>Installed this device on the first floor and they now have good WiFi strength throughout the house.</sentence>
+	<opinion>aspect="WiFi strength" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=61>
+	<sentence idSentence=1>Purchased first one in store and spent 5+ hours trying to get it connected to wireless router.</sentence>
+	<sentence idSentence=2>When I finally got it connected would not connect to wireless security camera.</sentence>
+	<sentence idSentence=3>Touch screen display was a totally messed up and when it worked typed random stuff.</sentence>
+	<opinion>aspect="Touch screen display" sentiment="messed up" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Exchanged for another one in the store and after 3+ hours wouldn't connect to wireless router.</sentence>
+	<sentence idSentence=5>Piece of junk!!!</sentence>
+	<opinion>aspect="Piece of junk" sentiment="" polarity="Negative" aspectClass="General" type="implicit"</opinion>
+	<sentence idSentence=6>!</sentence>
+</review>
+<review codeProduct=1835046 idReview=62>
+	<sentence idSentence=1>I am finding it difficult to get a signal at 70% or more to boost.</sentence>
+	<sentence idSentence=2>I can connect easier without it to the area wifi signal at times which is frustrating at best.</sentence>
+	<opinion>aspect="connect" sentiment="easier" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>When it does get a good connection, it is great and the security of logging in seems much safer than surfing the web directly.</sentence>
+	<opinion>aspect="connection" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="logging" sentiment="security" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="logging" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=63>
+	<sentence idSentence=1>I purchased this extender because of the 10,000 ft. range.</sentence>
+	<sentence idSentence=2>Much more than what I needed but every room now has a 100% clear signal.</sentence>
+	<sentence idSentence=3>I have purchased other extenders but this one has by far surpassed the rest.</sentence>
+</review>
+<review codeProduct=1835046 idReview=64>
+	<sentence idSentence=1>It's working good and it extends signal in my house.</sentence>
+	<opinion>aspect="working" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Kind of hard to use touch screen.</sentence>
+	<opinion>aspect="use touch screen" sentiment="hard" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=65>
+	<sentence idSentence=1>I use an Apple wireless time machine and network, which despite stringing Extreme and Express devices to extend the range, hasn't done the job.</sentence>
+	<sentence idSentence=2>This extender works seamlessly and took just a few minutes to set up and run.</sentence>
+	<opinion>aspect="works" sentiment="seamlessly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Terrific extender.</sentence>
+	<opinion>aspect="extender" sentiment="Terrific" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=66>
+	<sentence idSentence=1>Appears to work.</sentence>
+	<sentence idSentence=2>Not having any issues thus far...</sentence>
+</review>
+<review codeProduct=1835046 idReview=67>
+	<sentence idSentence=1>prior to purchase wi fi was intermittent..</sentence>
+	<sentence idSentence=2>Very easy to install and now wi fi works perfectly saving me a lot of money by not using my data.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=68>
+	<sentence idSentence=1>Does what its supposed to.I have no complaints about product</sentence>
+</review>
+<review codeProduct=1835046 idReview=69>
+	<sentence idSentence=1>It extends wifi range to all corner of my my house.</sentence>
+</review>
+<review codeProduct=1835046 idReview=70>
+	<sentence idSentence=1>Very simple set up.</sentence>
+	<opinion>aspect="set up" sentiment="simple" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Very user friendly.</sentence>
+	<opinion>aspect="user friendly" sentiment="" polarity="" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=71>
+	<sentence idSentence=1>This internet range extender is working quite well.</sentence>
+	<opinion>aspect="working" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It was easy to setup.</sentence>
+	<opinion>aspect="setup" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>And the price was reasonable.</sentence>
+	<opinion>aspect="price" sentiment="reasonable" polarity="Neutral" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=72>
+	<sentence idSentence=1>Plug in and set up was easy.</sentence>
+	<opinion>aspect="set up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Plug in" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Increased wifi signal greatly</sentence>
+</review>
+<review codeProduct=1835046 idReview=73>
+	<sentence idSentence=1>This is great for less technical people.</sentence>
+	<opinion>aspect="technical people" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>No computer needed for setup.</sentence>
+	<sentence idSentence=3>Setup took less than 5 minutes with the touchscreen.</sentence>
+</review>
+<review codeProduct=1835046 idReview=74>
+	<sentence idSentence=1>Easy to setup.</sentence>
+	<opinion>aspect="setup" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Extends range very well.</sentence>
+	<opinion>aspect="Extends range" sentiment="well" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=3>Can use to extend jet packs even.</sentence>
+</review>
+<review codeProduct=1835046 idReview=75>
+	<sentence idSentence=1>This is the second Amped WIFI booster I purchased.</sentence>
+	<sentence idSentence=2>The touch screen on it is a little bit finicky but it boots my wifi onto my front driveway and my backyard.</sentence>
+	<opinion>aspect="touch screen" sentiment="finicky" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I'm really happy with my purchase and would definitely recommend itz</sentence>
+</review>
+<review codeProduct=1835046 idReview=76>
+	<sentence idSentence=1>This item is just perfect.</sentence>
+	<opinion>aspect="item" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It extended our WiFi signal to the far end of my home.</sentence>
+</review>
+<review codeProduct=1835046 idReview=77>
+	<sentence idSentence=1>Router constantly loses signal and the range sucks</sentence>
+	<opinion>aspect="range" sentiment="sucks" polarity="Negative" aspectClass="CoverageArea" type="explicit"</opinion>
+</review>
+<review codeProduct=1835046 idReview=78>
+	<sentence idSentence=1>My personal space is upstairs and well away from my base router and mac airbase.</sentence>
+	<sentence idSentence=2>I had wifi connectivity, but it was rarely full and not very dependable.</sentence>
+	<sentence idSentence=3>Along comes this touch screen extender and hello full connection and no more loss of signal.</sentence>
+</review>
+<review codeProduct=1835046 idReview=79>
+	<sentence idSentence=1>Why don't everybody have a touch screen showing your WiFi provider .</sentence>
+	<sentence idSentence=2>Take the the work out of setting up your Extender</sentence>
+</review>
+<review codeProduct=1835046 idReview=80>
+	<sentence idSentence=1>I got this device 3 months ago, suddenly stop working.</sentence>
+	<sentence idSentence=2>I reset it and did all the trouble shootings they recommended.</sentence>
+	<sentence idSentence=3>Including a 1 hour call to tech support.</sentence>
+	<sentence idSentence=4>Nothing!</sentence>
+	<sentence idSentence=5>the Device is not getting the IP address and is not working at all.</sentence>
+	<sentence idSentence=6>Is working when I set it next to the main router...100% signal.</sentence>
+	<sentence idSentence=7>It was working good but now is just a piece of junk.</sentence>
+	<opinion>aspect="working" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=8>If you want a extender for 2-3 months go for it.</sentence>
+	<sentence idSentence=9>They don't last at all.</sentence>
+</review>
+<review codeProduct=2080049 idReview=1>
+	<sentence idSentence=1>I looked for a good Switch and yours fit the bill.</sentence>
+</review>
+<review codeProduct=2080049 idReview=2>
+	<sentence idSentence=1>Good price.</sentence>
+	<opinion>aspect="price" sentiment="Good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Works great for having more Ethernet ports to connect more devices.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=1>
+	<sentence idSentence=1>This switch was the perfect addition to my house.</sentence>
+	<opinion>aspect="switch" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Installs in minutes and has enough connections to complete your house.</sentence>
+	<sentence idSentence=3>The only thing that I found weird was the power plug was on the other side of the switch and that made it hard to fit on a shelf</sentence>
+	<opinion>aspect="power plug" sentiment="weird" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=2>
+	<sentence idSentence=1>Not much to say, it's a simple network hub that works.</sentence>
+	<sentence idSentence=2>so far no disconnection issues.</sentence>
+</review>
+<review codeProduct=2080085 idReview=3>
+	<sentence idSentence=1>Easy to set up switch works good, looses power always have to reset switch doesn't boot with out reset</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="works" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=4>
+	<sentence idSentence=1>No issues so far.</sentence>
+	<sentence idSentence=2>Plugged it in, connected my devices and I was up an running.</sentence>
+</review>
+<review codeProduct=2080085 idReview=5>
+	<sentence idSentence=1>I purchased this along with another switch to upgrade my home network.</sentence>
+	<sentence idSentence=2>It installed easily and I could instantly tell the difference in speed on my network.</sentence>
+</review>
+<review codeProduct=2080085 idReview=6>
+	<sentence idSentence=1>Bough this network switch when my Ethernet ports on my router were full.</sentence>
+	<sentence idSentence=2>Solid 1 gigabit performance, even showed me a faulty network cable with the status lights.</sentence>
+	<opinion>aspect="performance" sentiment="Solid 1 gigabit" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=3>Replaced it and got 1 gigabit performance from that line.</sentence>
+	<sentence idSentence=4>Got it installed on my living room for 4 devices: Blu-ray, game console, smart tv and tv provider dvr box which runs completely by Ethernet.</sentence>
+	<sentence idSentence=5>Every thing running with no problem, great product.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="running" sentiment="no problem" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=7>
+	<sentence idSentence=1>Nowadays, I dont think there is much difference between many of the unmanaged network switches that you see in market for a given price range.</sentence>
+	<sentence idSentence=2>This one has a metal body and is super quite.</sentence>
+	<opinion>aspect="quite" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=3>It works as expected and I would recommend this to anyone looking for an unmanaged switch.</sentence>
+	<opinion>aspect="works" sentiment="expected" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=8>
+	<sentence idSentence=1>Found the product at a great cost.</sentence>
+	<opinion>aspect="cost" sentiment="great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Fits the small space I have for it.</sentence>
+	<opinion>aspect="space" sentiment="small" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=3>Was delivered quickly.</sentence>
+	<opinion>aspect="delivered" sentiment="quickly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=9>
+	<sentence idSentence=1>This is a very good device that is reasonably priced.</sentence>
+	<opinion>aspect="priced" sentiment="reasonably" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="device" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="priced" sentiment="reasonably" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>You take it out of the box, plug it in, connect it to your router or internet connection, attach your devices and it just sits there and works.</sentence>
+	<sentence idSentence=3>Whenever you have to reset your internet connection or router, the switch just continues where it left off ... you do not need to unplug it or rest it.</sentence>
+</review>
+<review codeProduct=2080085 idReview=10>
+	<sentence idSentence=1>I have no complaints about it.</sentence>
+	<sentence idSentence=2>Basic switch, does what it needs to do.</sentence>
+	<opinion>aspect="switch" sentiment="Basic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=11>
+	<sentence idSentence=1>Best value I could find and does it's job.</sentence>
+	<opinion>aspect="value" sentiment="Best" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Works well.</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=12>
+	<sentence idSentence=1>Great price and with all the functions I need.</sentence>
+	<opinion>aspect="price" sentiment="Great" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=13>
+	<sentence idSentence=1>I needed more ethernet conditions and this little box did the trick.</sentence>
+</review>
+<review codeProduct=2080085 idReview=14>
+	<sentence idSentence=1>Plug and play.</sentence>
+	<sentence idSentence=2>Easy install.</sentence>
+	<opinion>aspect="install" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>No problems.</sentence>
+	<sentence idSentence=4>Good value for the price.</sentence>
+	<opinion>aspect="value" sentiment="Good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=15>
+	<sentence idSentence=1>Does everthing it should snd a very good price.</sentence>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>Works very well.</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=16>
+	<sentence idSentence=1>For its price, this is an excellent gigabit switch.</sentence>
+	<opinion>aspect="gigabit switch" sentiment="excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=17>
+	<sentence idSentence=1>I liked how easy it was to install.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=18>
+	<sentence idSentence=1>I have had it for a month or so now and I have no complaints.</sentence>
+	<sentence idSentence=2>It does what it was designed to do.</sentence>
+	<sentence idSentence=3>Its cool, quiet, and supports 1GbE.</sentence>
+	<opinion>aspect="Its" sentiment="cool" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="Its" sentiment="quiet" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=4>A good buy for an inexpensive unmanaged switch...</sentence>
+	<opinion>aspect="buy" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=19>
+	<sentence idSentence=1>Rewired my house and this worked perfect for the job.</sentence>
+	<opinion>aspect="worked" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Brought everything to a central location.</sentence>
+</review>
+<review codeProduct=2080085 idReview=20>
+	<sentence idSentence=1>I used this switch to hardwire all of the devices in my living room.</sentence>
+	<sentence idSentence=2>In occasion I am having some connection quality issues that only exist on the devices hooked up to the switch.</sentence>
+	<sentence idSentence=3>Cables all tested fine.</sentence>
+	<opinion>aspect="Cables" sentiment="fine" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+	<sentence idSentence=4>Fairly certain its the switch.</sentence>
+</review>
+<review codeProduct=2080085 idReview=21>
+	<sentence idSentence=1>Nice and great cheap product...</sentence>
+	<opinion>aspect="product" sentiment="Nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="product" sentiment="great cheap" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Working perfectly....</sentence>
+	<opinion>aspect="Working" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=22>
+	<sentence idSentence=1>Plugged in and working great so far.</sentence>
+	<opinion>aspect="working" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I filled it up real quick.</sentence>
+	<sentence idSentence=3>It even has a way to hang it on the wall which was a nice surprise.</sentence>
+</review>
+<review codeProduct=2080085 idReview=23>
+	<sentence idSentence=1>I needed a network switch for my On Hub router since I needed more than just a single ethernet port.</sentence>
+	<sentence idSentence=2>I looked around, but eventually decided on a TP-LINK because I trust TP-LINK products and it just so happened that the router itself is made by TP-LINK.</sentence>
+	<sentence idSentence=3>The colors even sort of match, so there's that.</sentence>
+</review>
+<review codeProduct=2080085 idReview=24>
+	<sentence idSentence=1>great switch, works as advertised.</sentence>
+	<opinion>aspect="switch" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>easy to hook up.</sentence>
+	<opinion>aspect="hook up" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=25>
+	<sentence idSentence=1>Disregard all the bad reviews.</sentence>
+	<sentence idSentence=2>This item works like a charm.</sentence>
+	<sentence idSentence=3>It's quiet and allows you to connect multiple devices without any buffering.</sentence>
+	<opinion>aspect="quiet" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=4>This is the way to go not wifi.</sentence>
+	<sentence idSentence=5>If people are having problems with this item, it's their modem that has the problem or they received a bad product.</sentence>
+	<sentence idSentence=6>If that's the case, just send it back and receive a new unit.</sentence>
+	<sentence idSentence=7>5 stars across the board.</sentence>
+</review>
+<review codeProduct=2080085 idReview=26>
+	<sentence idSentence=1>works great and GIGABIT speeds make a world of difference on my Xbox game play!</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>quality metal construction too.</sentence>
+</review>
+<review codeProduct=2080085 idReview=27>
+	<sentence idSentence=1>Less expensive than some other brands but performs very well.</sentence>
+	<opinion>aspect="expensive" sentiment="Less" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="performs" sentiment="well" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<sentence idSentence=2>I ran tests using the "iperf" utility &amp; there was no difference in throughput with or without the switch on the network.</sentence>
+</review>
+<review codeProduct=2080085 idReview=28>
+	<sentence idSentence=1>It's what you expect: metal case, works fine without hanging.</sentence>
+	<opinion>aspect="works" sentiment="fine" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Just make sure you know that the LEDs are in the same location as the jacks..</sentence>
+	<sentence idSentence=3>Some routers have the LEDs on the front and jacks on the back.</sentence>
+</review>
+<review codeProduct=2080085 idReview=29>
+	<sentence idSentence=1>This switch works great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Love the ability to expand my internet connections.</sentence>
+	<opinion>aspect="ability to expand my internet connections" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080085 idReview=30>
+	<sentence idSentence=1>Just plugged it in, and it works great.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Use it for streaming videos.</sentence>
+	<sentence idSentence=3>No issues.</sentence>
+</review>
+<review codeProduct=2080118 idReview=1>
+	<sentence idSentence=1>This router offers everything promised.</sentence>
+	<sentence idSentence=2>It was easy to install and configure.</sentence>
+	<opinion>aspect="install" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="configure" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=1>
+	<sentence idSentence=1>The package also contains a second smaller bracket for low-profile computers if you need it.</sentence>
+	<sentence idSentence=2>The three antennas attached easily.</sentence>
+	<opinion>aspect="antennas" sentiment="attached easily" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=2>
+	<sentence idSentence=1>Works perfectly on a Windows 10 Pro system using the drivers from TP-Link's support website.</sentence>
+	<opinion>aspect="Works" sentiment="perfectly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great connectivity and throughput when used with a TP-Link AC3150 router.</sentence>
+	<opinion>aspect="connectivity" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=3>
+	<sentence idSentence=1>Great router for any person.</sentence>
+	<opinion>aspect="router" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to set up and use.</sentence>
+	<opinion>aspect="set up" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Very secure and very easy to maintain.</sentence>
+	<opinion>aspect="secure" sentiment="Very" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+	<opinion>aspect="maintain" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Great range and awesome capacity for price.</sentence>
+	<opinion>aspect="range" sentiment="Great" polarity="Positive" aspectClass="CoverageArea" type="explicit"</opinion>
+	<sentence idSentence=5>50 devices connected and no slow down!</sentence>
+	<sentence idSentence=6>Amazing!</sentence>
+</review>
+<review codeProduct=2080127 idReview=4>
+	<sentence idSentence=1>The antennas are a little flimsy and appear to be made of weak plastic, but a little care should prevent them from falling apart.</sentence>
+	<opinion>aspect="antennas" sentiment="flimsy" polarity="Negative" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=5>
+	<sentence idSentence=1>The 5GHZ is amazing and my connection never drops.</sentence>
+	<opinion>aspect="5GHZ" sentiment="amazing" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+	<opinion>aspect="connection" sentiment="never drops" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Ping on games is always super constant.</sentence>
+</review>
+<review codeProduct=2080127 idReview=6>
+	<sentence idSentence=1>The antennas pull in a great signal from that distance (-54 DBM), and my internet bandwidth tests out at 120mbps over the wireless network, which is pretty awesome.</sentence>
+	<opinion>aspect="antennas" sentiment="pull in a great signal" polarity="Positive" aspectClass="Accessory" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=7>
+	<sentence idSentence=1>i was having bad reception in certain areas of my house.</sentence>
+	<sentence idSentence=2>this air port works great.</sentence>
+	<opinion>aspect="air port" sentiment="works great" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=8>
+	<sentence idSentence=1>Unscrewed an open port, put the card in and secured it with a screw.</sentence>
+	<opinion>aspect="open port" sentiment="Unscrewed" polarity="Neutral" aspectClass="Port" type="explicit"</opinion>
+	<sentence idSentence=2>Twisted on the antennae and started up my Hackintosh and BOOM I had wifi... tested my speeds and they are coming through at over 30mbps, which is about what I used to get wired directly into my modem.</sentence>
+</review>
+<review codeProduct=2080127 idReview=9>
+	<sentence idSentence=1>Air port extreme is great.</sentence>
+	<opinion>aspect="Air port extreme" sentiment="great" polarity="Positive" aspectClass="Port" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=10>
+	<sentence idSentence=1>Received my wifi card 3 days after purchase.</sentence>
+	<sentence idSentence=2>Installed easily onto my MSI board.</sentence>
+	<sentence idSentence=3>Windows 10 picked up the device immediatly.</sentence>
+	<sentence idSentence=4>I was up and online within 5 minutes.</sentence>
+	<sentence idSentence=5>Won't pick up the 5ghz signal, but this particular machine is quite far from the wireless router.</sentence>
+	<sentence idSentence=6>Transfer speeds on the 2.4ghz network is good enough.</sentence>
+	<opinion>aspect="Transfer speeds" sentiment="good enough" polarity="Positive" aspectClass="Speed" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=11>
+	<sentence idSentence=1>Overall, this is an fantastic router if you have good internet service and a house that will well wired for Wi-Fi.</sentence>
+	<opinion>aspect="router" sentiment="fantastic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Just read a few how-tos about how to optimize a Wi-Fi connection before blaming the card for poor connections.</sentence>
+	<opinion>aspect="connections" sentiment="poor" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=12>
+	<sentence idSentence=1>Great security features.</sentence>
+	<opinion>aspect="security features" sentiment="Great" polarity="Positive" aspectClass="Security" type="explicit"</opinion>
+	<sentence idSentence=2>Able to schedule internet times for my children.</sentence>
+</review>
+<review codeProduct=2080127 idReview=13>
+	<sentence idSentence=1>Attempted to install as per instructions, wireless connection worked right away but caused serious configuration issues with my Dell t1700 workstation.</sentence>
+	<sentence idSentence=2>USB ports wouldn't work, cD-drive wouldn't work, and all programs including internet explorer would open very slowly and become in-responsive.</sentence>
+	<opinion>aspect="USB ports" sentiment="wouldn't work" polarity="Negative" aspectClass="Port" type="explicit"</opinion>
+	<opinion>aspect="programs" sentiment="open very slowly" polarity="Negative" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="programs" sentiment="become in-responsive" polarity="Negative" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=2080127 idReview=14>
+	<sentence idSentence=1>My connection is very stable and and the card itself was very easy to install.</sentence>
+	<opinion>aspect="connection" sentiment="stable" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="card" sentiment="easy to install" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>My router is netgear and ISP is xfinity.</sentence>
+	<sentence idSentence=3>The price is also very nice and the card looks good in my windows/ryzen build.</sentence>
+	<opinion>aspect="price" sentiment="nice" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<opinion>aspect="card" sentiment="looks good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>

@@ -1,0 +1,259 @@
+11 size: 1
+128 gig storage: 1
+17: 2
+256gb: 1
+500gb hard disk: 1
+adapters: 1
+amount of usb available: 1
+amount of usb ports: 1
+appearance: 2
+apple computer: 1
+apple product: 15
+apple products: 12
+applications: 5
+apps: 11
+backlit keyboard: 3
+batter life: 1
+battery: 29
+battery life: 18
+big: 15
+boot: 7
+boots up: 3
+brand: 16
+build quality: 1
+buy: 25
+carry: 9
+change screens: 1
+charger: 3
+charges: 1
+checking emails: 1
+chromebook: 11
+color lights: 1
+compact: 7
+compatible microsoft office apps: 1
+computer: 129
+computer programs: 1
+computers: 6
+controls: 1
+conversion: 1
+cost: 3
+custom keyboard: 1
+deal: 4
+design: 4
+device: 10
+disappointed: 1
+disk drive: 1
+display: 6
+downfall laptop: 1
+durable: 1
+ease: 18
+easy: 43
+easy to carry: 4
+efficient: 2
+effort: 3
+electronic: 3
+end games: 1
+equipment performanc: 1
+everything: 23
+expensive: 5
+experience: 7
+fast: 58
+features: 12
+find a case: 1
+finish: 2
+fit: 10
+flash storage: 1
+footprint: 1
+freeze: 5
+functionality: 2
+functioning: 1
+game playing: 1
+gaming: 20
+gaming laptop: 5
+get around: 2
+gift: 6
+google apps: 2
+gpu: 3
+graphics: 18
+graphics capabilities: 1
+graphics card: 5
+graphs: 1
+hard drive: 10
+hard drive space: 2
+hard shiny plastic: 1
+hardware: 3
+hardware features: 1
+hd screen: 1
+hdd: 3
+heavy: 7
+hook up: 1
+i -7 processor: 1
+install: 6
+intel core processors: 1
+internal memory: 1
+internet: 6
+internet connection: 1
+investment: 1
+key strokes: 1
+keyboard: 34
+keyboard letter size: 1
+keyboards: 1
+keys: 2
+lap top: 5
+laptop: 153
+laptop specs: 1
+laptops: 12
+large: 7
+laser printer: 1
+learning curve: 2
+lenovo: 26
+lenovo edge: 3
+lenovo lapto: 5
+lenovo laptop: 5
+lenovo laptops: 1
+lenovo laptp: 1
+lenovo program for photos: 1
+light: 53
+lighter: 1
+lightweight: 14
+loads: 3
+loads programs: 1
+longevity: 1
+looks: 5
+mac: 78
+mac air: 3
+mac airbook: 1
+mac book: 2
+macbook: 28
+macbook air: 14
+machine: 19
+materials: 1
+mba 11inch: 1
+memory: 16
+microphone: 2
+mobile: 2
+model: 9
+money: 9
+mouse pad: 3
+movies: 5
+navigate: 1
+navigation: 2
+nice touch: 1
+noiseless: 1
+not big: 2
+not heavy: 2
+notebooks: 2
+nvidia video player: 1
+optical drive: 1
+original price tag: 1
+other uses: 1
+pc: 25
+performance: 13
+performances: 1
+physical keyboard: 1
+picture: 8
+picture quality: 1
+plastic: 2
+play video games: 1
+plays games: 1
+portability: 2
+portable: 13
+power: 12
+presentation creation: 1
+presentations: 2
+price: 27
+priced: 1
+pricepoint: 1
+pricey: 1
+problems: 13
+process: 15
+process of purchasing: 1
+processing: 3
+processing speed: 2
+processor: 10
+product: 43
+programs: 13
+purchase: 32
+quality: 7
+quality of programs: 1
+quick: 21
+ram: 34
+ran: 37
+reliable: 6
+resolution: 3
+response: 1
+retina definition: 1
+run: 30
+runs: 15
+runs all my games: 1
+runs games: 1
+salesman: 2
+school work: 5
+screen: 60
+screen resolution: 1
+screen size: 1
+screens: 3
+search web: 1
+send emails: 1
+set up: 10
+setup: 3
+share pictures: 1
+shop: 5
+simplicity: 1
+size: 27
+sleek design: 1
+slim: 3
+slow: 15
+small: 19
+software: 11
+speaker: 2
+specs: 4
+speed: 12
+spreaders sheets: 1
+staff: 2
+start programs: 1
+startup: 3
+storage: 10
+storage space: 2
+sturdy: 4
+super fast: 4
+support communities: 1
+sync multiple devices: 1
+tech: 8
+thin: 82
+thinner: 1
+toshiba: 21
+toshiba laptop: 5
+toshiba products: 1
+touch: 45
+touch display: 2
+touch pad: 4
+touch scree: 22
+touch screen: 22
+touch screen features: 1
+touch sensitivity: 1
+touchpad: 3
+touchscreen: 6
+touchscreen features: 1
+track pad: 1
+transferring my apps and files: 1
+transition: 3
+transport: 1
+travel: 13
+turns off and on: 1
+turns on/off: 1
+updates: 3
+use: 138
+user friendly: 4
+value: 4
+viewing our multiple security cameras: 1
+weight: 27
+wi-fi: 2
+wifi: 3
+windows: 55
+windows 10: 19
+windows 8: 11
+windows 8 problems: 1
+windows 8.1: 1
+windows10: 1
+works: 29

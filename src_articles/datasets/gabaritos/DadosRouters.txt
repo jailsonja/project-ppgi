@@ -1,0 +1,10 @@
+Others: {'support', 'install', 'connect', 'design', 'delivered', 'looks', 'wifi extender', 'start', 'graphics', 'worked', 'working', 'running', 'quiet', 'maintain', 'setting it up', 'attach', 'feature', 'buy', 'logging', 'use', 'use touch screen', 'connections', 'firmware features', 'choice', 'operate', 'wifi', 'hookup', 'technical people', 'connectivity', 'small business', 'configure', 'firmware', 'poe', 'st-up', 'touchscreen', 'installation', 'touch screen display', 'device', 'gain', 'package', 'network set-up', 'connection', 'set-up', 'quality', 'ability to expand my internet connections', 'hook up', 'netgear genie', 'works', 'display', 'plug in', '802.11 ac', 'build quality', 'quite', 'functionality', 'set up', 'user friendly', 'wifi strength', 'signal', 'extend signal', 'power plug', 'quality of signal', 'touch screen', 'card', 'setup', 'download newest firmware', 'stable', 'instructions'}
+Security: {'protect', 'security management', 'secure', 'security features', 'secure management', 'security'}
+Price: {'value', 'price', 'expensive', 'sale price', 'inexpensive', 'priced', 'cost'}
+General: {'deal', 'piece of junk', 'device', 'item', 'product', 'netgear', 'gss108e', 'extender', 'netgear switch', 'wireless router', 'brand', 'switch', 'purchase', 'gigabit switch', 'router'}
+Dimension: {'size', 'small', 'space', 'compact'}
+Port: {'usb charging', 'open port', 'port 1', 'air port extreme', 'usb charging ports', 'usb ports', 'air port'}
+Accessory: {'adapter', 'accessories', 'antennas', 'plug', 'power plug orientation', 'cables'}
+Software: {'install', 'programs', 'software/app', 'software', 'software genie', 'update software', 'management software'}
+Speed: {'speed', 'performes', 'fast', '5ghz', 'gigabyte speeds', 'quick', 'speeds', 'internet speeds', 'performance', 'slow', 'transfer speeds', 'performs'}
+CoverageArea: {'reception', 'extends range', 'signal', 'range', 'coverage', '5ghz range', 'extended range', 'extention'}
