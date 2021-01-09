@@ -1,0 +1,2395 @@
+<review codeProduct=4371055 idReview=1>
+	<sentence idSentence=1>I went from a s4 to the s6 and I LOVE that this can charge wirelessly.</sentence>
+</review>
+<review codeProduct=4371055 idReview=2>
+	<sentence idSentence=1>Not a Palm Pre but great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Do miss the removable memory though</sentence>
+</review>
+<review codeProduct=4371055 idReview=3>
+	<sentence idSentence=1>best design to date for galaxy and sexy color gold</sentence>
+	<opinion>aspect="design" sentiment="best" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="color gold" sentiment="sexy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=4>
+	<sentence idSentence=1>I was blown away by all of the upgrades that they have done on this phone.</sentence>
+	<sentence idSentence=2>I switched from my S4.</sentence>
+	<sentence idSentence=3>I definitely love this phone!</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=5>
+	<sentence idSentence=1>I love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is responsive and works amazingly well.</sentence>
+	<opinion>aspect="works" sentiment="amazingly well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Phone comes with capabilities for s pay which is a neat feature</sentence>
+</review>
+<review codeProduct=4371055 idReview=6>
+	<sentence idSentence=1>The best phone on the market.</sentence>
+	<sentence idSentence=2>Samsung really cleaned up the phone.</sentence>
+</review>
+<review codeProduct=4371055 idReview=7>
+	<sentence idSentence=1>I am suprised by the technology on this phone.</sentence>
+	<sentence idSentence=2>I went from a galaxy S3 and what a difference.</sentence>
+	<sentence idSentence=3>I love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=4371055 idReview=8>
+	<sentence idSentence=1>Just picked up my new phone.</sentence>
+	<sentence idSentence=2>So far i really like the phone exotic that my Gmail email won't sync with the server appropriately.</sentence>
+</review>
+<review codeProduct=4371055 idReview=9>
+	<sentence idSentence=1>This phone is awesome.</sentence>
+	<opinion>aspect="phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Battery last all day and wireless charging is nice</sentence>
+	<opinion>aspect="wireless charging" sentiment="nice" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=10>
+	<sentence idSentence=1>Best cell phone i have owned.</sentence>
+	<sentence idSentence=2>Have an apple for work, the.samsung blows it away.</sentence>
+</review>
+<review codeProduct=4371055 idReview=11>
+	<sentence idSentence=1>This is my 3rd Samsung Galaxy phone, 2,4,and 6.</sentence>
+	<sentence idSentence=2>They have all been great phones!</sentence>
+	<sentence idSentence=3>The s6 is easy to use, the sound is much better than the s4, super fast phone.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=4>I have no complaints.</sentence>
+</review>
+<review codeProduct=4371055 idReview=12>
+	<sentence idSentence=1>I upgraded from S4 to S6.</sentence>
+	<sentence idSentence=2>Only complaint is the built-in calendar.</sentence>
+	<opinion>aspect="built-in calendar" sentiment="complaint" polarity="Negative" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=3>Preferred S4 version.Otherwise a perfect phone.</sentence>
+	<opinion>aspect="phone" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=13>
+	<sentence idSentence=1>excellent great phone happy i bought it from best buy</sentence>
+	<opinion>aspect="phone" sentiment="excellent great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=14>
+	<sentence idSentence=1>new phone for my daughter, nice update with features that her old phone did not have</sentence>
+	<opinion>aspect="update" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=15>
+	<sentence idSentence=1>Best phone Samsung has made.</sentence>
+	<opinion>aspect="phone" sentiment="Best" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Apple stands no chance.</sentence>
+</review>
+<review codeProduct=4371055 idReview=16>
+	<sentence idSentence=1>I upgraded to this phone and am only leasing it, but I do love it so far.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>The first difference I noticed is the camera quality and speediness of it.</sentence>
+</review>
+<review codeProduct=4371055 idReview=17>
+	<sentence idSentence=1>Cannot stay connected to cellular lines or WiFi.</sentence>
+</review>
+<review codeProduct=4371055 idReview=18>
+	<sentence idSentence=1>great battery life, charges fast.</sentence>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="charges" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=2>sound is great, great apps.</sentence>
+	<opinion>aspect="sound" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="apps" sentiment="great" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=19>
+	<sentence idSentence=1>Super fast, everything I wanted my old s5 to be.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>Very happy.</sentence>
+</review>
+<review codeProduct=4371055 idReview=20>
+	<sentence idSentence=1>Switched from an iPhone and to the galaxy s6.</sentence>
+	<sentence idSentence=2>The galaxy s6 does so much more.</sentence>
+</review>
+<review codeProduct=4371055 idReview=21>
+	<sentence idSentence=1>It's just a Sumsung....they always do better than Apple</sentence>
+</review>
+<review codeProduct=4371055 idReview=22>
+	<sentence idSentence=1>I haven't had my phone long but I can already tell that it is much faster.</sentence>
+</review>
+<review codeProduct=4371055 idReview=23>
+	<sentence idSentence=1>Very smooth and efficiency cell phone to have ...also look very stylish in a way !!</sentence>
+	<opinion>aspect="Very smooth" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<opinion>aspect="efficiency" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>!Love it !</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=4371055 idReview=24>
+	<sentence idSentence=1>Phone works great does everything i need it to do.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Camera is awesome only complain is the battery life and lack of a micro sd slot</sentence>
+	<opinion>aspect="Camera" sentiment="awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=25>
+	<sentence idSentence=1>I've had the S4 up until now....I had some disappointments with the S4, but the s6 so far seems to better already.</sentence>
+	<sentence idSentence=2>I purchased the 64 Gig to make sure that I have plenty of room for storage as well.</sentence>
+</review>
+<review codeProduct=4371055 idReview=26>
+	<sentence idSentence=1>The phone is great works well.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>My bill was $10 more than I was quoted in the store.</sentence>
+	<sentence idSentence=3>Not really happy with that.</sentence>
+</review>
+<review codeProduct=4371055 idReview=27>
+	<sentence idSentence=1>The ease of use slim and easy to navigate the camera is outstanding</sentence>
+	<opinion>aspect="camera" sentiment="outstanding" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="ease" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=28>
+	<sentence idSentence=1>I would highly recommend this phone.</sentence>
+	<sentence idSentence=2>I haven't had any problems with it thus far.</sentence>
+	<sentence idSentence=3>The camera on it is excellent.</sentence>
+	<opinion>aspect="camera" sentiment="excellent" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=29>
+	<sentence idSentence=1>love new features.</sentence>
+	<opinion>aspect="new features" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>NEED BETTER INSTRUCTION MANUAL!</sentence>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=4371055 idReview=30>
+	<sentence idSentence=1>My third Galaxy phone and by far the best phone yet.</sentence>
+	<sentence idSentence=2>Samsung and the team at Best Buy have hit another grand slam.</sentence>
+	<opinion>aspect="team at Best Buy" sentiment="grand slam" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Samsung" sentiment="grand slam" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>That's why I remain a loyal customers to both.</sentence>
+</review>
+<review codeProduct=4371055 idReview=31>
+	<sentence idSentence=1>Very fast, easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>Only down fall is no micro sd slot.</sentence>
+</review>
+<review codeProduct=4371055 idReview=32>
+	<sentence idSentence=1>Best phone ever made to date.</sentence>
+	<sentence idSentence=2>Easy to use very light weight nice big clear crisp screen</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="weight" sentiment="light" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="nice" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="big" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="clear" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="crisp" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=33>
+	<sentence idSentence=1>Was worried about the lack of expandable memory but so for it is doing good and not taking too much up.</sentence>
+</review>
+<review codeProduct=4371055 idReview=34>
+	<sentence idSentence=1>I love my new Samsung S6.</sentence>
+	<opinion>aspect="Samsung S6" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It stays similar to the s4 I had before, but it is just easier.</sentence>
+	<sentence idSentence=3>I am getting used to the fact that there is no memory card, but other than that its awesome!</sentence>
+</review>
+<review codeProduct=4371055 idReview=35>
+	<sentence idSentence=1>Love the phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Definitely a faster processor than my S4.</sentence>
+	<sentence idSentence=3>Great camera</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=36>
+	<sentence idSentence=1>Have had it for a week now and its great.</sentence>
+	<sentence idSentence=2>Had the sg4 before this and it has taken a little getting use to the different buttons and what not.</sentence>
+	<sentence idSentence=3>It is way faster as to be expected and the camera is great.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=37>
+	<sentence idSentence=1>My wifes first new phone in 6 years.</sentence>
+	<sentence idSentence=2>She was nervous about learning how to use phone but very ez.</sentence>
+</review>
+<review codeProduct=4371055 idReview=38>
+	<sentence idSentence=1>This phone was everything I was expecting and more.</sentence>
+	<sentence idSentence=2>I absolutely love this phone and recommend it to all my friends.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=39>
+	<sentence idSentence=1>I have always liked Samsung phones just never enough to keep one until now.</sentence>
+	<sentence idSentence=2>All I have to say is this phone is a WINNER!!!!</sentence>
+	<opinion>aspect="phone" sentiment="WINNER" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=4371055 idReview=40>
+	<sentence idSentence=1>User friendly.</sentence>
+	<opinion>aspect="User friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Sleek and the case selection was great also.</sentence>
+	<opinion>aspect="case selection" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Sleek" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=41>
+	<sentence idSentence=1>Wonderful promotion on a great phone with easy to learn features.</sentence>
+	<opinion>aspect="promotion" sentiment="Wonderful" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="easy to learn" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Amazing camera and decent battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="decent" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=42>
+	<sentence idSentence=1>I am very pleased with the Samsung 6.</sentence>
+	<opinion>aspect="Samsung 6" sentiment="pleased" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It has excellent features and very good sound quality.</sentence>
+	<opinion>aspect="sound quality" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>My only quibble - there should be at least a basic manual with the phone.</sentence>
+</review>
+<review codeProduct=4371055 idReview=43>
+	<sentence idSentence=1>I really love the phone, especially its speed, ease of use, and its camera quality.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="ease" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera quality" sentiment="love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>It has everything I need!</sentence>
+</review>
+<review codeProduct=4371055 idReview=44>
+	<sentence idSentence=1>I would not recommend Best Buy insurance.</sentence>
+	<sentence idSentence=2>It cost me $200.oo for my claim and I was sent a refurbished phone.</sentence>
+	<sentence idSentence=3>I only had the new phone for one month.</sentence>
+</review>
+<review codeProduct=4371055 idReview=45>
+	<sentence idSentence=1>Love it.</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The selfie camara is a great perk.</sentence>
+	<opinion>aspect="selfie camara" sentiment="perk" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=46>
+	<sentence idSentence=1>I'm big fan of Samsung products eventhough I'm using other Apple products like mac book, imac</sentence>
+</review>
+<review codeProduct=4371055 idReview=47>
+	<sentence idSentence=1>The new galaxy is a great phone.</sentence>
+	<opinion>aspect="new galaxy" sentiment="great phone" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The new design brings a fresh look to the galaxy series.</sentence>
+	<opinion>aspect="new design" sentiment="fresh look" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Although i will miss some of the s5 functions i am pleased with my purchase.</sentence>
+</review>
+<review codeProduct=4371055 idReview=48>
+	<sentence idSentence=1>I have owned every Galaxy Samsung has released.</sentence>
+	<sentence idSentence=2>I have been partial to the S3 until I got the S6 in my hands...I'm not looking back!</sentence>
+</review>
+<review codeProduct=4371055 idReview=49>
+	<sentence idSentence=1>I love my phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The service at Best Buy was awesome.</sentence>
+	<opinion>aspect="service at Best Buy" sentiment="awesome" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4371055 idReview=50>
+	<sentence idSentence=1>I enjoy my new phone, went from a s3 to an s6 and this is a great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=1>
+	<sentence idSentence=1>I'm satisfied with my Samsung Galaxy s7 Edge</sentence>
+	<opinion>aspect="Samsung Galaxy s7 Edge" sentiment="satisfied" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=2>
+	<sentence idSentence=1>I absolutely love my S7 Edge.</sentence>
+	<opinion>aspect="S7 Edge" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The phone and it's functionality are perfect.</sentence>
+	<opinion>aspect="functionality" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>The camera is far superior to any phone I've had.</sentence>
+	<sentence idSentence=4>The quality is right up there with a digital SLR.</sentence>
+	<sentence idSentence=5>Took a group photo in a dark bar and it did not require a flash at all.</sentence>
+	<sentence idSentence=6>People were confused why there was no flash :) but the picture looked great.</sentence>
+	<opinion>aspect="picture" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=7>Very happy Samsung added the micro SD card slot again.</sentence>
+	<sentence idSentence=8>I would get this over any phone out there.</sentence>
+</review>
+<review codeProduct=4901024 idReview=3>
+	<sentence idSentence=1>The upgrades, to the camera in particular, are great.</sentence>
+	<opinion>aspect="upgrades, to the camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>Still working out the rest of the features, but am extremely satisfied with my S7 Edge !</sentence>
+	<opinion>aspect="S7 Edg" sentiment="satisfied" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=4901024 idReview=4>
+	<sentence idSentence=1>Overall this is an AMAZING phone, with one huge caveat.</sentence>
+	<opinion>aspect="phone" sentiment="AMAZING" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I like to put a decent amount of apps on my phone and the lack of a 64gb or 128gb option is the reason I returned it.</sentence>
+	<sentence idSentence=3>Yes you can add an SD card, but with adaptive storage disabled you can't install all apps to external SD.</sentence>
+</review>
+<review codeProduct=4901024 idReview=5>
+	<sentence idSentence=1>I bought this phone for my son.</sentence>
+	<sentence idSentence=2>He had an IPhone 5 and wasn't sure if he wanted this phone.</sentence>
+	<sentence idSentence=3>After using it for a couple of days he said he wouldn't go back to an iPhone.</sentence>
+	<sentence idSentence=4>He loves it.</sentence>
+	<opinion>aspect="it" sentiment="loves" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=4901024 idReview=6>
+	<sentence idSentence=1>Have had my new phone over a month, and have yet to find anything bad to say.</sentence>
+	<sentence idSentence=2>The battery lasts all day, even on my long workdays.The camera takes great pics and the new themes are great.</sentence>
+	<opinion>aspect="camera" sentiment="takes great pics" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="new themes" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Now, I'm trying out Scarlet.</sentence>
+	<sentence idSentence=4>Samsung's new assistant.</sentence>
+</review>
+<review codeProduct=4901024 idReview=7>
+	<sentence idSentence=1>Had the phone for a week.</sentence>
+	<sentence idSentence=2>Never dropped.</sentence>
+	<sentence idSentence=3>One day noticed the glass covering the camera is shattered.</sentence>
+	<sentence idSentence=4>I also had a otterbox case on this device.</sentence>
+	<sentence idSentence=5>Did some research other people have had similar problems.</sentence>
+	<sentence idSentence=6>Very thin glass is used over the camera.</sentence>
+	<opinion>aspect="glass" sentiment="thin" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=7>A little finger pressure could crack it.</sentence>
+	<sentence idSentence=8>Samsung won't fix it.</sentence>
+	<sentence idSentence=9>They want $70 for the repair.</sentence>
+	<sentence idSentence=10>Part cost 6.99.</sentence>
+	<sentence idSentence=11>It's a nice phone but don't think $900 for the phone gets you away from cheap parts and bad designs.... thanks samsung!</sentence>
+	<opinion>aspect="phone" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=8>
+	<sentence idSentence=1>It's really hard for me to say this, but Samsung has absolutely met, if not passed, Apple on this phone.</sentence>
+	<sentence idSentence=2>The VR alone is astonishing, and many will complain that it's 'not real VR unless it's real Oculus'...and maybe they are right, but for such an inexpensive entry fee (I was part of the free VR, 64gb memory & games promo), it was impossible to pass up.</sentence>
+	<opinion>aspect="VR alone" sentiment="astonishing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The Edge features are good, although a little redundant at times.</sentence>
+	<opinion>aspect="Edge features" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Edge features" sentiment="little redundant" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>The camera is great, and Samsung has really backed-down on touch wiz.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=5>I also really like knowing it's spill proof and for the most part water proof.</sentence>
+	<sentence idSentence=6>I plan on taking this out on the kayak this summer and using the Google Cardboard Camera app to take photos out on the water.</sentence>
+	<sentence idSentence=7>Overall, it's an amazing piece of hardware that drew me (and has now balanced my enjoyment) from iOS to Android.</sentence>
+	<opinion>aspect="piece of hardware" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=9>
+	<sentence idSentence=1>picture quality is excellent .all features are good</sentence>
+	<opinion>aspect="picture quality" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="all features" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=10>
+	<sentence idSentence=1>Went from an S4 to an S7 Edge.</sentence>
+	<sentence idSentence=2>Skipped the S5 and S6 for a variety of reasons and I'm glad I waited.</sentence>
+	<sentence idSentence=3>Easy enough to handle one handed although I do occasionally activate the edge menus accidentally.</sentence>
+	<opinion>aspect="handle one handed" sentiment="Easy enough" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Display is as good as any I've seen.</sentence>
+	<opinion>aspect="Display" sentiment="good" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=5>Apps come up quick, sound quality on the phone is good and battery life is above average.</sentence>
+	<opinion>aspect="Apps" sentiment="come up quick" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="sound quality" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="above average" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=6>I can go almost 2 full days between charges if I don't burden the phone unnecessarily with leaving on Wi-Fi, location and bluetooth when I don't need them.</sentence>
+	<sentence idSentence=7>Even with them running I get get a full day.</sentence>
+	<sentence idSentence=8>Biggest drain is GPS.</sentence>
+	<opinion>aspect="GPS" sentiment="Biggest drain" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=9>All in all I would definitely recommend this.</sentence>
+	<sentence idSentence=10>FYI - I also carry an Apple 6S for work.</sentence>
+	<sentence idSentence=11>Still a big fan of Android over Apple and this phone just adds to my preference.</sentence>
+</review>
+<review codeProduct=4901024 idReview=11>
+	<sentence idSentence=1>I have been using an iPhone for 7 years, and decided out of the air to get a Samsung Galaxy s7 Edge.</sentence>
+	<sentence idSentence=2>I have never used a samsung or Android phone before and I will never got back to Apple.</sentence>
+	<sentence idSentence=3>For the first time in several years I feel like I have a new phone.</sentence>
+	<sentence idSentence=4>It is easy and fun to use.</sentence>
+	<opinion>aspect="use" sentiment="fun" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=12>
+	<sentence idSentence=1>This phone is great!</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The battery life is a step up from the 6 the camera looks great and the screen resolution is besutiful!</sentence>
+	<opinion>aspect="battery life" sentiment="step up" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="screen resolution" sentiment="besutiful" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=13>
+	<sentence idSentence=1>This phone has most of the features my ideal phone should have.</sentence>
+	<sentence idSentence=2>The only thing missing is a replaceable battery.</sentence>
+	<opinion>aspect="replaceable battery" sentiment="only thing missing" polarity="Negative" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>The screen is very easy to read without glasses (easier than my tablet!)</sentence>
+	<opinion>aspect="screen" sentiment="easy to read without glasses" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=4>.</sentence>
+	<sentence idSentence=5>I like Samsung Pay.</sentence>
+	<opinion>aspect="Samsung Pay" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=6>It's much easier to use than I expected and I know instantly that the charge has gone through.</sentence>
+	<sentence idSentence=7>I would buy this phone again.</sentence>
+</review>
+<review codeProduct=4901024 idReview=14>
+	<sentence idSentence=1>The s7Edge got great reviews but mine had the screen digitizer fail within two weeks of purchase.</sentence>
+	<sentence idSentence=2>The Best Buy store refused to exchange it and said my only option was to send it to Samsung for repair which would take weeks.</sentence>
+	<sentence idSentence=3>They do not give loaners.</sentence>
+	<sentence idSentence=4>If I would have purchased the expensive Geek Squad service contract they would have replaced it.</sentence>
+	<sentence idSentence=5>BEWARE!</sentence>
+	<sentence idSentence=6>Unless you pay for services that hardly anyone even uses then you run the risk of the store not following published replacement policies.</sentence>
+	<sentence idSentence=7>My cell phone carrier agreed to replace the phone and I got one in one day.</sentence>
+	<sentence idSentence=8>One day, and they did not even sell it to me.</sentence>
+	<sentence idSentence=9>Moral of this story is buy cell phones from carriers and not from big box outlets.</sentence>
+</review>
+<review codeProduct=4901024 idReview=15>
+	<sentence idSentence=1>Phone is great for texting, pictures, screen clarity but for regular old fashioned phone calls that some people still need to make it is seriously lacking.</sentence>
+	<opinion>aspect="texting" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="screen clarity" sentiment="great" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=2>Signal fades in and out so parts of conversations get missed and have almost given up on using for important calls for this reason.</sentence>
+	<sentence idSentence=3>Battery life is improved over previous versions but with the cost I would have expected a much higher quality of calling.</sentence>
+</review>
+<review codeProduct=4901024 idReview=16>
+	<sentence idSentence=1>Great camera, long lasting battery, fast charging, phone is very fast, and durable</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="lasting battery" sentiment="long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="charging" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="durable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=17>
+	<sentence idSentence=1>Large screen and does things faster.</sentence>
+	<opinion>aspect="screen" sentiment="Large" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=2>I paid full price to avoid a contract & think samsung is over priced.</sentence>
+	<sentence idSentence=3>I had previous a samsung & liked it so is why bought another one.</sentence>
+	<sentence idSentence=4>The wireless charging is important to me & was built in.Last phone added it.</sentence>
+	<opinion>aspect="wireless charging" sentiment="important" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=18>
+	<sentence idSentence=1>I was unhappy with the Galaxy s5 as it had limited memory and was not performing well.</sentence>
+	<sentence idSentence=2>I thought the s7 sounded like a better choice so I pre-ordered it and received it earlier than expected.</sentence>
+	<sentence idSentence=3>It is a far superior phone and I am very pleased with it.</sentence>
+	<sentence idSentence=4>The battery life is astounding and I have never run out during the day.</sentence>
+	<opinion>aspect="battery life" sentiment="astounding" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=5>The brightness and clarity of the graphics is excellent also.</sentence>
+	<opinion>aspect="graphics" sentiment="clarity" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="graphics" sentiment="brightness" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=6>I also received the VR Gear and added memory card so it really was a bargain.</sentence>
+	<opinion>aspect="bargain" sentiment="" polarity="Positive" aspectClass="Price" type="implicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=19>
+	<sentence idSentence=1>I upgraded from my S5 and I have to say I Love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The clarity of the screen is great and the battery life is far better than my S5 was.</sentence>
+	<opinion>aspect="clarity of the screen" sentiment="great" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>It is very fast and the sound on the phone is good too.</sentence>
+	<opinion>aspect="sound" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=4>I opted for the wireless charger and glad I did.</sentence>
+	<sentence idSentence=5>It works with the cover on my phone and charges very quickly.</sentence>
+	<opinion>aspect="charges" sentiment="very quickly" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=6>Well worth the upgrade.</sentence>
+</review>
+<review codeProduct=4901024 idReview=20>
+	<sentence idSentence=1>I switched from iPhone to this phone.</sentence>
+	<sentence idSentence=2>It took me a bit to learn a new OS, and I'm still figuring things out after a month.</sentence>
+	<sentence idSentence=3>Some features I miss on the iPhone, but overall, I've enjoyed my decision.</sentence>
+</review>
+<review codeProduct=4901024 idReview=21>
+	<sentence idSentence=1>Have had this phone since 3/12 and I love it so far.</sentence>
+	<sentence idSentence=2>Gorgeous screen, snappy and fast (can be slightly faster if you absolutely hate TouchWiz by simply downloading "Google Now Launcher" or "Nova Launcher" from the app store.</sentence>
+	<opinion>aspect="screen" sentiment="Gorgeous" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>I like the look and feel of TouchWiz this time around, so I'll keep it until I have problems with it).</sentence>
+	<sentence idSentence=4>The Gear VR support is more entertaining than I would've guessed, but I'm glad that was free.</sentence>
+	<sentence idSentence=5>Haven't used the camera much to comment on it, but what I have taken turned out well.</sentence>
+	<sentence idSentence=6>Always remember it's a cellphone camera anyways.</sentence>
+	<sentence idSentence=7>You want take pro-level photos with any phone at this point.</sentence>
+	<sentence idSentence=8>Verizon added some bloatware you can disable, but other than that the phone is virtually flawless.</sentence>
+	<sentence idSentence=9>Get it.</sentence>
+	<sentence idSentence=10>It looks amazing turned on or off.</sentence>
+</review>
+<review codeProduct=4901024 idReview=22>
+	<sentence idSentence=1>The phone would randomly and repeatedly generate notifications that an sd card was installed.</sentence>
+	<sentence idSentence=2>It was easy to swipe away the notification, but I had to do it over and over.</sentence>
+	<opinion>aspect="swipe away the notification" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>An $800 phone shouldn't have any irritating glitches in my opinion.</sentence>
+</review>
+<review codeProduct=4901024 idReview=23>
+	<sentence idSentence=1>I started with the s4 s5 s6 and now the s7edge for most the best phone.</sentence>
+	<sentence idSentence=2>I'm just waiting for the glass screen protector to seal the deal.</sentence>
+</review>
+<review codeProduct=4901024 idReview=24>
+	<sentence idSentence=1>It does the most for the money.</sentence>
+	<sentence idSentence=2>it looks expensive, has great battery life, awesome specs, super cool, easy to use, storage capabilities, water and dust resistant.</sentence>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="specs" sentiment="awesome" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="cool" sentiment="super" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="expensive" sentiment="" polarity="Negative" aspectClass="Price" type="implicit"</opinion>
+	<sentence idSentence=3>Almost like a note phone, but smaller.</sentence>
+	<sentence idSentence=4>I love how it works!</sentence>
+	<opinion>aspect="works" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=25>
+	<sentence idSentence=1>Best Samsung Galaxy phone I have had so far.</sentence>
+	<sentence idSentence=2>I have used the S3, S4, S5 , note4, note5.</sentence>
+	<sentence idSentence=3>camera has great high resolution pics.</sentence>
+	<opinion>aspect="high resolution pics" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>best use is to magnify small print that no human can possibly read.</sentence>
+	<sentence idSentence=5>like serial numbers and part numbers and anything you want to zoom in on.</sentence>
+	<sentence idSentence=6>plenty of storage and you can add storage unlike the S6.</sentence>
+	<opinion>aspect="storage" sentiment="plenty" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+	<sentence idSentence=7>voice commands work much better with this version as well.</sentence>
+</review>
+<review codeProduct=4901024 idReview=26>
+	<sentence idSentence=1>I was simply compelled to get an upgrade to this phone, even though I had my S6 for less than a year.</sentence>
+	<sentence idSentence=2>I think Samsung really hit it out of the park with this beautifully crafted work of art!</sentence>
+	<sentence idSentence=3>I've spent quite some time looking for flaws in it, but still couldn't find any.</sentence>
+	<sentence idSentence=4>Its design, screen, camera, battery life are all phenomenal!</sentence>
+	<opinion>aspect="battery life" sentiment="phenomenal" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="phenomenal" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="phenomenal" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="design" sentiment="phenomenal" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>I feel that every tech lover should get one of these to really appreciate it.</sentence>
+	<sentence idSentence=6>I'd highly recommend this phone to everyone, including my own friends and families.</sentence>
+	<sentence idSentence=7>Two thumbs way up!!</sentence>
+	<sentence idSentence=8>!</sentence>
+</review>
+<review codeProduct=4901024 idReview=27>
+	<sentence idSentence=1>I have been an IPhone user,supporter for years.</sentence>
+	<sentence idSentence=2>I had been seeing tv commercial on the Samsung Galaxy S7 edge, the screen spanding edge to edge and it being waterproof spured my curiosity..</sentence>
+	<sentence idSentence=3>I had been contemplating going to Best Buy for a look, but i began to worrie I would have a difficult time operating an Android, seeing that I had only used an iPhone for years..It was Love at first sight, an awesome looking phone, very easy to maneuver I was able to find my way around it in no time,</sentence>
+	<opinion>aspect="maneuver" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=28>
+	<sentence idSentence=1>We have always had Samsung from TV's to cell phones and this Samsung S7 edge is wonderful except... After about 1 month it has a bad cell on the top edge and its a dark spot about a quarter of a inch long.</sentence>
+	<sentence idSentence=2>Samsung says I would need to send it to them and it would take 2>3 weeks to repair and Best Buy said they couldn't help us at all and Verizon just wanted to sell us another line while they get my new phone repaired.</sentence>
+	<sentence idSentence=3>Everyone after looking at it said it was clearly a defective cell so yea...Samsung ....you'very let me down this time because I need my phone and you won't trade this defective one out.</sentence>
+	<sentence idSentence=4>Not fair ...The stores say it will only get worst and grow larger in time...wow...over $700 for a new phone and no trade in for another one that does not have a bad cell?</sentence>
+	<sentence idSentence=5>Wow...if I bought a pair of shoes at a store I would be treated better.</sentence>
+	<sentence idSentence=6>Watch out for the Samsung S7 edge people I would hate for you to be as frustrated and disappointed as I am.</sentence>
+	<sentence idSentence=7>Nobody wants to help me out.</sentence>
+	<sentence idSentence=8>It ain't right!</sentence>
+	<sentence idSentence=9>And no it was not dropped everyone agreed on that.</sentence>
+</review>
+<review codeProduct=4901024 idReview=29>
+	<sentence idSentence=1>Purchased the galaxy s7 edge by Samsung, as a wifi unit only.</sentence>
+	<sentence idSentence=2>Did not need another phone, but wanted to pair it with the Samsung gear VR unit.</sentence>
+	<sentence idSentence=3>It was a good deal with free giveaway items : 64 Evo microSDXC us 1 card ; 5 free games and VR unit itself.</sentence>
+	<sentence idSentence=4>Use the S7 edge as remote control unit for my fire tv programing and other smart items.</sentence>
+	<sentence idSentence=5>It is an attractive, sleek streamlined phone .</sentence>
+	<opinion>aspect="phone" sentiment="sleek streamlined" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=6>Light and very slim with ample battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="ample" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="Light" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="slim" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=7>It maintains a digital read out of date , time and power charge percentage .</sentence>
+	<sentence idSentence=8>Would recommend this phone to anyone in need of a good one.</sentence>
+</review>
+<review codeProduct=4901024 idReview=30>
+	<sentence idSentence=1>It is a better phone then expect.</sentence>
+	<sentence idSentence=2>I have been vary happy</sentence>
+</review>
+<review codeProduct=4901024 idReview=31>
+	<sentence idSentence=1>I love my new phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Had the note 7.</sentence>
+	<sentence idSentence=3>We all knew what happened</sentence>
+</review>
+<review codeProduct=4901024 idReview=32>
+	<sentence idSentence=1>For the last several years I have been an iPhone user and have been completely satisfied.</sentence>
+	<sentence idSentence=2>Prior to that I had problems with Samsung and other android products being great internet and video devices but horrible phones.</sentence>
+	<sentence idSentence=3>I have the iPhone 6 Plus and needed a separate phone for work.</sentence>
+	<sentence idSentence=4>I went in thinking I would just get another iPhone.</sentence>
+	<sentence idSentence=5>I had seen the commercials for the Galaxy S7 and decided to take a chance on it since reviews were good on it and it was different than what I had.</sentence>
+	<sentence idSentence=6>I choose the S7 edge and have to say that it is nothing but amazing.</sentence>
+	<sentence idSentence=7>Great battery life, amazing camera puts the iPhone to shame, easy to use great options.</sentence>
+	<opinion>aspect="battery life" sentiment="Great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="options" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=8>I like the ability to use to apps split screen.</sentence>
+	<opinion>aspect="ability to use to apps split screen" sentiment="like" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=9>The phone works great syncs quickly to my truck and the sound quality is amazing.</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="syncs" sentiment="quickly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="sound quality" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=10>If you are thinking about this phone get it you won't be disappointed.</sentence>
+	<sentence idSentence=11>This phone has changed my mind about the quality and quality control of Samsung.</sentence>
+</review>
+<review codeProduct=4901024 idReview=33>
+	<sentence idSentence=1>I liked my Samsung Galaxy Note 7 better.</sentence>
+	<sentence idSentence=2>To bad they cannot replace them with good working ones</sentence>
+</review>
+<review codeProduct=4901024 idReview=34>
+	<sentence idSentence=1>Always loved the galaxy series and this one doesnt dissappoint.</sentence>
+	<sentence idSentence=2>The curved screen is a great feature and this phone has good battery life.</sentence>
+	<opinion>aspect="curved screen" sentiment="great feature" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=35>
+	<sentence idSentence=1>Samsung out did themselves in the creation of this beast</sentence>
+</review>
+<review codeProduct=4901024 idReview=36>
+	<sentence idSentence=1>This a great phone I have already put it in the water 7 or more times an is still working like I got it.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=37>
+	<sentence idSentence=1>Bought for my son he had the iPhone he is glad he made the change..</sentence>
+</review>
+<review codeProduct=4901024 idReview=38>
+	<sentence idSentence=1>This is a great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The edge features are a nice addition.</sentence>
+	<opinion>aspect="edge features" sentiment="nice addition" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Great Battery life!</sentence>
+	<opinion>aspect="Battery life" sentiment="Great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=39>
+	<sentence idSentence=1>excellent phone, fast charging, long battery life, large screen, camera is just the best ive seen</sentence>
+	<opinion>aspect="phone" sentiment="excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="charging" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="large" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=40>
+	<sentence idSentence=1>Upgraded from the S5, faster bigger better.</sentence>
+	<sentence idSentence=2>Camera takes great pictures, fast wireless charging.</sentence>
+	<opinion>aspect="Camera" sentiment="great pictures" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="charging" sentiment="fast wireless" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>Back to the micro USB, where the S5 was USB 3.0.</sentence>
+</review>
+<review codeProduct=4901024 idReview=41>
+	<sentence idSentence=1>If you buy this phone, DO NOT leave the store without a very good case.</sentence>
+	<sentence idSentence=2>I accidentally dropped mine getting into my car half an hour after getting it and it now has cracked glass all over the upper right side of the back.</sentence>
+	<sentence idSentence=3>Not likely repairable, as this phone is glued together and water resistant.</sentence>
+</review>
+<review codeProduct=4901024 idReview=42>
+	<sentence idSentence=1>I know that iPhones are all the rage, but this is my second Samsung Galaxy, and I love it.</sentence>
+	<sentence idSentence=2>It has a large, clear screen, but it's not so large that you feel as if you're holding a tablet to your head.</sentence>
+	<opinion>aspect="screen" sentiment="clear" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="large" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>If you are used to iOS, this will take a little getting used to, but it's not that much different nowadays.</sentence>
+	<sentence idSentence=4>The Galaxy Edge has a nice feature: a little "window" you can slide open from the side (or edge) of the screen.</sentence>
+	<opinion>aspect="feature" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>This can be customized with any apps, contacts, or widgets that you want to have quick access to.</sentence>
+	<sentence idSentence=6>I haven't had much chance to use the camera yet, but unlike my previous Galaxy S4, the flash and shutter are in sync!</sentence>
+	<sentence idSentence=7>Overall, it is a very nice phone.</sentence>
+	<opinion>aspect="phone" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=43>
+	<sentence idSentence=1>I had a Samsung Galaxy 4 and was having issues.</sentence>
+	<sentence idSentence=2>I took it to Best Buy, and they told me it would continue to have issues and when I said I was thinking of getting a Samsung Galaxy 6, the man told me the 7 was coming out and they were taking orders.</sentence>
+	<sentence idSentence=3>I ordered it, got it and love it!!</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=4>!</sentence>
+</review>
+<review codeProduct=4901024 idReview=44>
+	<sentence idSentence=1>I recently had to surrender my Note 7 because of the recall, and I was sure that nothing could compare to the most awesome phone I have ever had.</sentence>
+	<sentence idSentence=2>Going from the S5 to the Note 7 was like winning the lotto.</sentence>
+	<sentence idSentence=3>Then tragedy struck...</sentence>
+	<sentence idSentence=4>When the recall happened, I was heartbroken.</sentence>
+	<sentence idSentence=5>I am happy to say that the S7 Edge is just as good as the Note, minus a couple of small details.</sentence>
+	<sentence idSentence=6>All things considered, I really don't notice the missing S pen or the associated software.</sentence>
+	<sentence idSentence=7>I never used the iris scanner, so all in all, I really lost nothing.</sentence>
+	<sentence idSentence=8>Wish I had bought the S7 Edge to begin with.</sentence>
+	<sentence idSentence=9>Excellent phone, excellent camera and most of all, perfect Best Buy customer service!</sentence>
+	<opinion>aspect="phone" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="excellent" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="Best Buy customer service" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=45>
+	<sentence idSentence=1>Best Samsung phone yet.</sentence>
+	<sentence idSentence=2>Wish the battery was replacenable, or longer lasting than what they say.</sentence>
+	<sentence idSentence=3>Still love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=4901024 idReview=46>
+	<sentence idSentence=1>I was trying to decide between a Note 5, Galaxy 7, and the Galaxy 7 Edge.</sentence>
+	<sentence idSentence=2>I ended up choosing the edge because it accepts memory cards, the processor was better, & the display is phenomenal.</sentence>
+	<opinion>aspect="display" sentiment="phenomenal" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>It's worked flawlessly so far.</sentence>
+	<opinion>aspect="worked" sentiment="flawlessly" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=47>
+	<sentence idSentence=1>And what a welcome!</sentence>
+	<sentence idSentence=2>I made the jump after previewing this phone in the store and being amazed.</sentence>
+	<sentence idSentence=3>The screen is very clear and bright, the camera is amazing in the the dark and in bright light, the ability to use it with the VR gear, the battery life, the watery resistance, etc, etc.</sentence>
+	<opinion>aspect="screen" sentiment="clear" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="bright" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>I can't believe I stuck to iOS for so long.</sentence>
+	<sentence idSentence=5>Android was second nature and easy to use.</sentence>
+	<opinion>aspect="Android" sentiment="easy to use" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="Android" sentiment="second nature" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=6>I don't think I'll ever go back.</sentence>
+	<sentence idSentence=7>If you are an iOS user this is the phone that will bring you to the light side.</sentence>
+</review>
+<review codeProduct=4901024 idReview=48>
+	<sentence idSentence=1>All I've had has been iPhones, but honestly I got tired of apple.</sentence>
+	<sentence idSentence=2>They hyped their phones too much and when you got the newest model, it was like nothing had changed, just tiny things on it.</sentence>
+	<sentence idSentence=3>I got bored and decided to go for a Galaxy.</sentence>
+	<sentence idSentence=4>I did research and I'm happy with this phone!</sentence>
+	<opinion>aspect="phone" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=5>It is beautiful, and quick!</sentence>
+	<opinion>aspect="quick" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="beautiful" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=6>I don't think I'm ever going back to apple again.</sentence>
+</review>
+<review codeProduct=4901024 idReview=49>
+	<sentence idSentence=1>As with all of the new generations of phones.</sentence>
+	<sentence idSentence=2>This new Samsung phone computer is great.</sentence>
+	<opinion>aspect="Samsung phone computer" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Every day I find out some new cool option that I wasn't aware of.</sentence>
+	<sentence idSentence=4>Thankfully it has a larger battery than its predecessor as it does eat some juice.</sentence>
+	<sentence idSentence=5>Having several charging options is a good idea.</sentence>
+	<opinion>aspect="several charging options" sentiment="good idea" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=6>Works great though, glad to have bought it.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=4901024 idReview=50>
+	<sentence idSentence=1>I have had the S4 and have been waiting for a phone that had these features.</sentence>
+	<sentence idSentence=2>Love this phone!</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>The only thing that it is still lacking is the removable battery.</sentence>
+	<opinion>aspect="removable battery" sentiment="still lacking" polarity="Negative" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>I can live with that since it's water and dust resistant.</sentence>
+</review>
+<review codeProduct=5027401 idReview=1>
+	<sentence idSentence=1>I LOVE this phone!!!</sentence>
+	<opinion>aspect="phone" sentiment="LOVE" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The wide angle camera on it is amazing!</sentence>
+	<opinion>aspect="wide angle camera" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>I wish they would have kept the volume control on the back of the phone with the power button, but it still is fine.</sentence>
+	<sentence idSentence=4>I was concerned before I bought it of the battery and how it is removed from the bottom.</sentence>
+	<sentence idSentence=5>So far, no issues.</sentence>
+	<sentence idSentence=6>It is not a problem at all.</sentence>
+</review>
+<review codeProduct=5027401 idReview=2>
+	<sentence idSentence=1>Love the phone!!</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Battery life is crummy, but that's why you get an extra one.</sentence>
+	<opinion>aspect="Battery life" sentiment="crummy" polarity="Negative" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=3>
+	<sentence idSentence=1>I don't understand how we got so lucky to have gotten the one that dies in a couple of days, but Best Buy took care of it.</sentence>
+</review>
+<review codeProduct=5027401 idReview=4>
+	<sentence idSentence=1>Good phone great camera features and lots of options</sentence>
+	<opinion>aspect="phone" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="options" sentiment="lots" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera features" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=5>
+	<sentence idSentence=1>I bought this as a gift for my husband yes a huge lg fan.</sentence>
+	<sentence idSentence=2>He is pretty satisfied minus the user interface all the apps are on the home screen like Apple products.</sentence>
+	<opinion>aspect="user interface" sentiment="satisfied minus" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>And the phone gets extremely hot at times.</sentence>
+	<opinion>aspect="phone" sentiment="extremely hot" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=6>
+	<sentence idSentence=1>I found it is very easy to operate.</sentence>
+	<opinion>aspect="operate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I have owned another LG mobile phone many years ago (an android of the Blackberry model) and just loved it.</sentence>
+	<sentence idSentence=3>I am discovering a lot of things as I use it day to day.</sentence>
+	<sentence idSentence=4>I am very pleased with my choice.</sentence>
+</review>
+<review codeProduct=5027401 idReview=7>
+	<sentence idSentence=1>This phone has everything 100% satisfied and the camera is the best</sentence>
+	<opinion>aspect="camera" sentiment="best" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=8>
+	<sentence idSentence=1>I have had the G3 & G4 but I like the G5 best.</sentence>
+	<sentence idSentence=2>I love the front camera b/c it has front flash.</sentence>
+	<opinion>aspect="camera" sentiment="love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=9>
+	<sentence idSentence=1>I love my lg g5 ,coming soon are the lg friends, will be interesting</sentence>
+	<opinion>aspect="lg g5" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=10>
+	<sentence idSentence=1>Purchased this phone it's a very good phone the only problem was it kept losing charge but maybe I just got a bad phone.</sentence>
+	<opinion>aspect="phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I still would recommend it cause it has good specs on it.</sentence>
+	<opinion>aspect="specs" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=11>
+	<sentence idSentence=1>The design and specs are what you would expect with a flagship phone but the duo camera in the back is a win!</sentence>
+	<opinion>aspect="specs" sentiment="what you would expect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="design" sentiment="what you would expect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=12>
+	<sentence idSentence=1>Upgrading from my old LG-G2 to the new LG-G5 was like switching from driving an Escort to a Ferrari.</sentence>
+	<sentence idSentence=2>Fast .....</sentence>
+	<opinion>aspect="Fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=13>
+	<sentence idSentence=1>Cameras are awesome, especially the wide lense and easy to flip back and forth</sentence>
+	<opinion>aspect="Cameras" sentiment="awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="lense" sentiment="wide" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="flip back and forth" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=14>
+	<sentence idSentence=1>Great storage for photo takers.</sentence>
+	<opinion>aspect="storage" sentiment="Great" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+	<sentence idSentence=2>I would highly recommend this.</sentence>
+</review>
+<review codeProduct=5027401 idReview=15>
+	<sentence idSentence=1>Loves the camera and removable battery.</sentence>
+	<opinion>aspect="camera" sentiment="Loves" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="removable battery" sentiment="Loves" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=2>So far it has been a good phone.</sentence>
+	<opinion>aspect="phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=16>
+	<sentence idSentence=1>I'm definitely liking this phone.</sentence>
+	<opinion>aspect="phone" sentiment="liking" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Every smart phone I've had was a Samsung so this is a great change, and I love the color!</sentence>
+	<opinion>aspect="color" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=17>
+	<sentence idSentence=1>The G5 is great!</sentence>
+	<opinion>aspect="G5" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>So glad I waited to upgrade my LG g3!</sentence>
+	<sentence idSentence=3>The battery is great last all day and they gave me a second better.</sentence>
+	<opinion>aspect="battery" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>I have only had to use the second battery a couple of times with heave use and it is so easy to change the batter.The wide angle camera is so nice.Phone takes great pictures front and rear facing.</sentence>
+	<opinion>aspect="battery" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="change the batter" sentiment="easy" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="wide angle camera" sentiment="nice" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=18>
+	<sentence idSentence=1>I love Samsung, but this is a great phone as well.</sentence>
+	<opinion>aspect="Samsung" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=19>
+	<sentence idSentence=1>I like the simplicity of the phone yet it can handle all I've tasked it to do.</sentence>
+	<opinion>aspect="simplicity" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=20>
+	<sentence idSentence=1>This is a great phone and easy to use.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I love the expandable storage option and the durability.</sentence>
+	<opinion>aspect="expandable storage option" sentiment="love" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+	<opinion>aspect="durability" sentiment="love" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>I would certainly recommend this phone to others.</sentence>
+</review>
+<review codeProduct=5027401 idReview=21>
+	<sentence idSentence=1>This phone is awesome.</sentence>
+	<opinion>aspect="phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I usually buy Samsung but strayed this time and I am glad I did.</sentence>
+	<sentence idSentence=3>The best part for me is the changeable battery, its so easy and convenient.</sentence>
+	<opinion>aspect="changeable battery" sentiment="easy" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="changeable battery" sentiment="convenient" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=22>
+	<sentence idSentence=1>According to 12 year old owner: its big.</sentence>
+	<sentence idSentence=2>It has good sound.</sentence>
+	<opinion>aspect="sound" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>It has good photo features.</sentence>
+	<opinion>aspect="photo features" sentiment="good" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>It chargest fast.</sentence>
+	<opinion>aspect="chargest" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=5>Like that the off button is on the back instead of the side.</sentence>
+	<sentence idSentence=6>4 out of 5 because with head phones its not as loud.</sentence>
+</review>
+<review codeProduct=5027401 idReview=23>
+	<sentence idSentence=1>I am amazed at how much storage it can hold I love it!</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<opinion>aspect="storage" sentiment="amazed" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=24>
+	<sentence idSentence=1>very easy to navigate, nice size screen, takes nice photos</sentence>
+	<opinion>aspect="navigate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="size screen" sentiment="nice" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="photos" sentiment="nice" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=25>
+	<sentence idSentence=1>It's a great modular phone but has issues with Bluetooth.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It keeps logging out of paired devices in my car.</sentence>
+	<sentence idSentence=3>I just lost Bluetooth connection for no obvious reason.</sentence>
+</review>
+<review codeProduct=5027401 idReview=26>
+	<sentence idSentence=1>Good phone.</sentence>
+	<opinion>aspect="phone" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>All the latest features.</sentence>
+	<sentence idSentence=3>Long batterie life and really quick charge with new c charger.</sentence>
+	<opinion>aspect="batterie life" sentiment="Long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="charge" sentiment="quick" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=27>
+	<sentence idSentence=1>I bought this phone for my son.</sentence>
+	<sentence idSentence=2>It stopped working just shy of having it one month.</sentence>
+	<sentence idSentence=3>I was given the run arounds and was not given a new phone because it was past the 14 days.</sentence>
+	<sentence idSentence=4>Now it has to be sent back to LG for repair.</sentence>
+</review>
+<review codeProduct=5027401 idReview=28>
+	<sentence idSentence=1>I've had this phone for a little over a month and everything is running great!</sentence>
+	<sentence idSentence=2>It's faster, more up to date, better overall!</sentence>
+	<sentence idSentence=3>No issues!</sentence>
+	<sentence idSentence=4>Volume is much louder than the previous ones.</sentence>
+	<sentence idSentence=5>No complaints!</sentence>
+</review>
+<review codeProduct=5027401 idReview=29>
+	<sentence idSentence=1>You want a phone that does it all, but not the same one that everyone is driving?</sentence>
+	<sentence idSentence=2>How about a phone that doesn't make any excuses, like poor battery life, low light picture quality, blah-blah-blah.</sentence>
+	<sentence idSentence=3>And wait, how about specs and gadgets the other bricks haven't even thought of!</sentence>
+	<sentence idSentence=4>My LG G5!</sentence>
+	<sentence idSentence=5>You'll need to strap in and hold on tight.</sentence>
+</review>
+<review codeProduct=5027401 idReview=30>
+	<sentence idSentence=1>Moved from the LG G2 to the G5- read tons of reviews before switching- AMAZING upgrade!</sentence>
+	<sentence idSentence=2>Love the G5's camera and battery power.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="battery power" sentiment="Love" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>Excellent price from best buy that Sprint can't ever match.</sentence>
+	<opinion>aspect="price" sentiment="Excellent" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=4>This is the second phone I've bought from BB, excellent prices with even better service.</sentence>
+</review>
+<review codeProduct=5027401 idReview=31>
+	<sentence idSentence=1>Everything about this phone has turned out to be fantastic.</sentence>
+	<sentence idSentence=2>I have had HTC phones for 5+ years and was very nervous about switching but I have zero regrets with the LG G5</sentence>
+</review>
+<review codeProduct=5027401 idReview=32>
+	<sentence idSentence=1>Bought for Mom.</sentence>
+	<sentence idSentence=2>Easy to use for older people, but feature-rich for the tech-savvy.</sentence>
+	<opinion>aspect="use for older people" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Seems to be much better than the G3.</sentence>
+	<sentence idSentence=4>Sleek profile, great performance so far.</sentence>
+	<opinion>aspect="performance" sentiment="great" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<opinion>aspect="profile" sentiment="Sleek" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Call quality is satisfactory.</sentence>
+	<opinion>aspect="Call quality" sentiment="satisfactory" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=33>
+	<sentence idSentence=1>Love this phone, had this guy for over 2 weeks and have no complaints.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=34>
+	<sentence idSentence=1>So far everything is great wirh the phone, customer service was great also.</sentence>
+	<opinion>aspect="customer service" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=35>
+	<sentence idSentence=1>I'm new with smart phones, so far fairly easy to use, slightly large for my hand, I have fat fingers so I need a stylus.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Pictures are great!</sentence>
+	<opinion>aspect="great" sentiment="Pictures" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>Good sound on radio.</sentence>
+	<opinion>aspect="radio" sentiment="Good sound" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>My son loves his.</sentence>
+</review>
+<review codeProduct=5027401 idReview=36>
+	<sentence idSentence=1>Works great.</sentence>
+	<opinion>aspect="Works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>No problems as of yet.</sentence>
+	<sentence idSentence=3>Does everything I need.</sentence>
+	<sentence idSentence=4>Very happy wih it.</sentence>
+	<opinion>aspect="it" sentiment="happy" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=5027401 idReview=37>
+	<sentence idSentence=1>Great phone!</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I upgraded from the LG G3 and man was it an upgrade.</sentence>
+	<sentence idSentence=3>The dual forward and rear cameras are excellent.</sentence>
+	<opinion>aspect="rear cameras" sentiment="excellent" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="dual forward" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>The only drawback is the interconnectivity between my car bluetooth and the phone.</sentence>
+	<opinion>aspect="interconnectivity between my car bluetooth and the phone" sentiment="only drawback" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Many times the phone will be connected but to the car bluetooth but will not play what is on my phone.</sentence>
+</review>
+<review codeProduct=5027401 idReview=38>
+	<sentence idSentence=1>Picked up the LG-G5s to upgrade our LG-G2s after 4 years.</sentence>
+	<sentence idSentence=2>So far we they have out performed my expectations.</sentence>
+	<sentence idSentence=3>I have always had good experiences with LG products.</sentence>
+	<sentence idSentence=4>BestBuy Sales People made the transfer smooth.</sentence>
+	<sentence idSentence=5>All our contacts and pictures were swapped for us in the store.</sentence>
+	<sentence idSentence=6>Thanks to the BestBuy staff.</sentence>
+	<opinion>aspect="BestBuy staff" sentiment="Thanks" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=39>
+	<sentence idSentence=1>Great camera, fast and easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>Best phone that I have had</sentence>
+</review>
+<review codeProduct=5027401 idReview=40>
+	<sentence idSentence=1>Smooth interface</sentence>
+	<opinion>aspect="interface" sentiment="Smooth" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=41>
+	<sentence idSentence=1>Great Phone!</sentence>
+	<opinion>aspect="Phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I previously owned the LGG3.</sentence>
+	<sentence idSentence=3>The only issue ive had with this LGG5 is that sometimes it will reboot on its own.</sentence>
+</review>
+<review codeProduct=5027401 idReview=42>
+	<sentence idSentence=1>Very functional.</sentence>
+	<opinion>aspect="functional" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Not used to having to have a different charger but i am glad that it comes with an adaptor for the microusb</sentence>
+	<opinion>aspect="adaptor for the microusb" sentiment="glad" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=43>
+	<sentence idSentence=1>Good phone, easy to use, great camera.</sentence>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Lots of memory and overall great phone.</sentence>
+	<opinion>aspect="memory" sentiment="Lots" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=44>
+	<sentence idSentence=1>I bought this phone and had a ton of issues with it within a few hours, by the 6th hour of ownership it went out completely.</sentence>
+	<sentence idSentence=2>I went back to best buy they troubleshooted it and ended up swapping it for another one.</sentence>
+	<sentence idSentence=3>No issues whatsoever now and am loving it!</sentence>
+</review>
+<review codeProduct=5027401 idReview=45>
+	<sentence idSentence=1>Still figuring out all the features of the phone but I am very happy with this device!</sentence>
+	<opinion>aspect="device" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Very easy to use, love the cameras on the phone!</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="cameras" sentiment="love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>Also very pleased with the fast charging.</sentence>
+	<opinion>aspect="fast charging" sentiment="pleased" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=46>
+	<sentence idSentence=1>High quality and good battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="quality" sentiment="High" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>LG is really stepping up their cell phones.</sentence>
+</review>
+<review codeProduct=5027401 idReview=47>
+	<sentence idSentence=1>Fast!</sentence>
+	<opinion>aspect="Fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>Elegant phone that is fast and the camera is great... LG has done it again.</sentence>
+	<opinion>aspect="phone" sentiment="Elegant" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>I had HTC which i loved but no regrets on rhe switch</sentence>
+</review>
+<review codeProduct=5027401 idReview=48>
+	<sentence idSentence=1>I am a LG loyalist though the usb cable is a c. It is all touch and easy to navigate.</sentence>
+	<opinion>aspect="navigate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=49>
+	<sentence idSentence=1>This is one great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Compared to the Samsung s7 I had for ten days it is so far superior.</sentence>
+	<sentence idSentence=3>The Samsung used up battery power and got very hot.</sentence>
+	<sentence idSentence=4>I was able to get it back on a Best Buy 14 day deal and got the LG G5 and could not be happier.</sentence>
+	<sentence idSentence=5>Besides the features the battery life is fantastic.</sentence>
+	<opinion>aspect="battery life" sentiment="fantastic" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="fantastic" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5027401 idReview=50>
+	<sentence idSentence=1>This phone is efficient with a fast processing speed and adequate front camera with amazing rear camera.</sentence>
+	<opinion>aspect="processing speed" sentiment="fast" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="efficient" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="front camera" sentiment="adequate" polarity="Neutral" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="rear camera" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>I've actually been able to get some good pictures of the moon with it.</sentence>
+</review>
+<review codeProduct=5221000 idReview=1>
+	<sentence idSentence=1>Fast easy and convenient.</sentence>
+	<opinion>aspect="convenient" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<opinion>aspect="Fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=2>
+	<sentence idSentence=1>My last 3 phones were HTC, this is the best one yet, not to big or small easy to get use to.packed with all the tech you need.</sentence>
+</review>
+<review codeProduct=5221000 idReview=3>
+	<sentence idSentence=1>The HTC 10 is extremely fast slim fit and it's smarter.</sentence>
+	<sentence idSentence=2>I love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=4>
+	<sentence idSentence=1>Have always loved the HTC series and this phone does not disappoint!</sentence>
+	<opinion>aspect="HTC series" sentiment="loved" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=5>
+	<sentence idSentence=1>Build 5,Software 5, Sound 5, Display 5, camera 4, battery 4.5</sentence>
+</review>
+<review codeProduct=5221000 idReview=6>
+	<sentence idSentence=1>I like this phone.</sentence>
+	<opinion>aspect="phone" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The only problem I have with the HTC 10 is there is no FM radio as in the previous models.</sentence>
+	<sentence idSentence=3>I do not like to carry several devices with me.</sentence>
+	<sentence idSentence=4>I wanted a phone that does it all.</sentence>
+	<sentence idSentence=5>Other than that the phone is very reliable, it charges fast, and it downloads pretty fast too over the network.</sentence>
+	<opinion>aspect="charges" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="downloads" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="reliable" sentiment="very" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=7>
+	<sentence idSentence=1>I upgraded my HTC One M8 with this beauty and HTC did a great job on this one, love it and for the price for me couldn't find a better deal.</sentence>
+	<sentence idSentence=2>HTC keep the good work</sentence>
+	<opinion>aspect="HTC" sentiment="good work" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=8>
+	<sentence idSentence=1>This phone is fantastic - it's fast and responsive - htc has done a great job of keeping the bloatware to a minimum - very easy to use - very close to pure android - they finally fixed the camera</sentence>
+	<opinion>aspect="phone" sentiment="fantastic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="responsive" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=9>
+	<sentence idSentence=1>The HTC-10 is very easy to navigate, makes using a pleasure and I would recommend this above all other phones !</sentence>
+	<opinion>aspect="navigate" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=10>
+	<sentence idSentence=1>Phone is good.</sentence>
+	<opinion>aspect="Phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Camera is better than the HTC 9 that I previously owned</sentence>
+</review>
+<review codeProduct=5221000 idReview=11>
+	<sentence idSentence=1>So far the phone has worked well.</sentence>
+	<sentence idSentence=2>It's well built, is fast, has minimal bloatware and takes decent pictures.</sentence>
+	<opinion>aspect="pictures" sentiment="decent" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="built" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=3>Fingerprint scanner is fast.</sentence>
+	<opinion>aspect="Fingerprint scanner" sentiment="fast" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=4>Only wish it was water resistant.</sentence>
+</review>
+<review codeProduct=5221000 idReview=12>
+	<sentence idSentence=1>Another great product from HTC.</sentence>
+	<opinion>aspect="product" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is a shame that Galaxy users don't try out this phone, because it has far better functionality compared side by side.</sentence>
+</review>
+<review codeProduct=5221000 idReview=13>
+	<sentence idSentence=1>Ive had this phone for 2-3 months now and I have nothing but good things to say.</sentence>
+	<sentence idSentence=2>Between the 2k Screen, the boomsound, the upgraded headphone jack, the camera and etc.</sentence>
+	<sentence idSentence=3>This phone is the perfect dream phone anyone could want.</sentence>
+	<opinion>aspect="phone" sentiment="perfect dream" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>Its definitely a must buy.</sentence>
+</review>
+<review codeProduct=5221000 idReview=14>
+	<sentence idSentence=1>It is useful and good for what i wanted it.</sentence>
+	<opinion>aspect="It" sentiment="useful" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Recommended</sentence>
+</review>
+<review codeProduct=5221000 idReview=15>
+	<sentence idSentence=1>Great phone in looks and function.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is fast and sleek.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="sleek" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=16>
+	<sentence idSentence=1>I love this phone!!!</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The battery life is outstanding.</sentence>
+	<opinion>aspect="battery life" sentiment="outstanding" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>The camera takes gorgeous photos.</sentence>
+	<opinion>aspect="photos" sentiment="gorgeous" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>Just an over all great phone</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=17>
+	<sentence idSentence=1>No complaints.</sentence>
+	<sentence idSentence=2>This phone is legit and Beats the iPhone for sure</sentence>
+</review>
+<review codeProduct=5221000 idReview=18>
+	<sentence idSentence=1>Great phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Battery lasts much linger than the s6edge it replaced.</sentence>
+	<sentence idSentence=3>Good luck seeing the screen with polarized glasses on (frustrating).</sentence>
+</review>
+<review codeProduct=5221000 idReview=19>
+	<sentence idSentence=1>Great phone, definitely an improvement over the M9.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5221000 idReview=20>
+	<sentence idSentence=1>Good screen display, good battery life, fast response.</sentence>
+	<opinion>aspect="screen display" sentiment="Good" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="response" sentiment="fast" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<sentence idSentence=2>My 4th HTC phone and by far the best.</sentence>
+</review>
+<review codeProduct=5221000 idReview=21>
+	<sentence idSentence=1>I waited til it was on sale and got it for $50.</sentence>
+	<sentence idSentence=2>I love the HTC series.</sentence>
+	<opinion>aspect="HTC series" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Buy if you can!</sentence>
+</review>
+<review codeProduct=5221000 idReview=22>
+	<sentence idSentence=1>Not so easy as it seems, you have to fix camera options all the time</sentence>
+</review>
+<review codeProduct=5387104 idReview=1>
+	<sentence idSentence=1>Excellent phone across the board.</sentence>
+	<opinion>aspect="phone" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Excellent battery life and turbo charger.</sentence>
+	<opinion>aspect="battery life" sentiment="Excellent" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="turbo charger" sentiment="Excellent" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=2>
+	<sentence idSentence=1>I was very hesitant to switch from a note to a Motorola, but after a few months with this phone I am very happy with my decision.</sentence>
+	<sentence idSentence=2>Phone is solid all round and love the fact that it doesn't have a lot of added software.</sentence>
+	<opinion>aspect="doesn't have a lot of added software" sentiment="love" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=3>
+	<sentence idSentence=1>Really great phone with a ton of customization.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Pretty close to full Android.</sentence>
+</review>
+<review codeProduct=5387104 idReview=4>
+	<sentence idSentence=1>This phone is great the Moto mods are awesome definitely recommended!</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="Moto mods" sentiment="awesome" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=5>
+	<sentence idSentence=1>Can't think of anything I don't like about the phone.</sentence>
+	<sentence idSentence=2>Size is great.</sentence>
+	<opinion>aspect="Size" sentiment="great" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=3>Screen is awesome.</sentence>
+	<opinion>aspect="Screen" sentiment="awesome" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=4>Camera takes amazing photos and videos.</sentence>
+	<opinion>aspect="photos" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="videos" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=6>
+	<sentence idSentence=1>The features of this phone are very cool.</sentence>
+	<opinion>aspect="features" sentiment="cool" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Love the modular ability and smiled display.</sentence>
+	<opinion>aspect="modular ability" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="smiled display" sentiment="Love" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=7>
+	<sentence idSentence=1>I had to exchange my Galaxy Note 7 and was excited to see this phone and how it compared.</sentence>
+	<sentence idSentence=2>Yes there are slight differences, but overall this is a great phone that does all that I want.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=8>
+	<sentence idSentence=1>this is hands down the best phone ive owned.</sentence>
+	<sentence idSentence=2>it is fast, has great features, lightweight, large screen and great camera.</sentence>
+	<opinion>aspect="features" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="large" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="lightweight" sentiment="" polarity="Positive" aspectClass="Dimension" type="implicit"</opinion>
+	<sentence idSentence=3>i love the moto-mods as well!</sentence>
+	<opinion>aspect="moto-mods" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=9>
+	<sentence idSentence=1>It a high in device, with top notch.comparable with 2016 flagship.the kicker is the awesome mods!!</sentence>
+	<sentence idSentence=2>!</sentence>
+</review>
+<review codeProduct=5387104 idReview=10>
+	<sentence idSentence=1>The fingerprint screen lock is much metter than my old Droid.</sentence>
+	<sentence idSentence=2>The screen has excellent definition.</sentence>
+	<opinion>aspect="screen" sentiment="excellent definition" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>The apps are faster and more responsive.</sentence>
+	<sentence idSentence=4>Still uses a lot of battery.</sentence>
+	<sentence idSentence=5>Can't get more than a day out of it.</sentence>
+</review>
+<review codeProduct=5387104 idReview=11>
+	<sentence idSentence=1>This Moto Z Force Droid is an excellent phone.</sentence>
+	<opinion>aspect="Moto Z Force Droid" sentiment="excellent phone" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It does all!</sentence>
+</review>
+<review codeProduct=5387104 idReview=12>
+	<sentence idSentence=1>Battery life is excellent and I like the mods that you can get for it</sentence>
+	<opinion>aspect="Battery life" sentiment="excellent" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="mods" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=13>
+	<sentence idSentence=1>Other than being a lot larger than my old phone, I cannot find anything to not like about this phone.</sentence>
+	<sentence idSentence=2>Great battery life, easy to use, and fast.</sentence>
+	<opinion>aspect="battery life" sentiment="Great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=14>
+	<sentence idSentence=1>I am extremely happy with my iPhone and droid force phone, great service from the salesperson who helped with my purchase.</sentence>
+	<opinion>aspect="iPhone" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="droid force" sentiment="happy" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="service from the salesperson" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=15>
+	<sentence idSentence=1>Phone is awesome.</sentence>
+	<opinion>aspect="Phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Fast processor and fast charging.</sentence>
+	<opinion>aspect="processor" sentiment="Fast" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<opinion>aspect="charging" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=16>
+	<sentence idSentence=1>Love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Great functionality.</sentence>
+	<opinion>aspect="functionality" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Long battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="Long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>Great camera.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=5>Great service from sales associates at Best Buy.</sentence>
+	<opinion>aspect="service from sales" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=17>
+	<sentence idSentence=1>I love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>This phone is beautiful and can't find a single flaw with it.</sentence>
+	<opinion>aspect="phone" sentiment="beautiful" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=3>Can't wait for more Moto mods!!</sentence>
+	<sentence idSentence=4>!</sentence>
+</review>
+<review codeProduct=5387104 idReview=18>
+	<sentence idSentence=1>This phone is definitely worth it if you can get the promo of $200 off and with a free included mod.</sentence>
+	<sentence idSentence=2>I got the JBL speaker mod.</sentence>
+	<sentence idSentence=3>The phone's battery life is amazing, and the phone itself is very quick and responsive.</sentence>
+	<opinion>aspect="battery life" sentiment="amazing" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="quick" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="responsive" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=19>
+	<sentence idSentence=1>I had a Samsung Note 7 that I really liked (in spite of the bad press) but had to get rid of it.</sentence>
+	<sentence idSentence=2>I decided not to go with another Samsung product and I'm glad I made that decision.</sentence>
+	<sentence idSentence=3>The Moto phone is rock solid and the only think it doesn't have that the Note 7 did , is a pen.</sentence>
+	<opinion>aspect="Moto phone" sentiment="rock solid" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=20>
+	<sentence idSentence=1>This phone is awesome!</sentence>
+	<opinion>aspect="phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>With the moto JBL speaker mod, you have a portable music player that sounds great.</sentence>
+	<sentence idSentence=3>Can't wait for new moto mods to be developed!</sentence>
+</review>
+<review codeProduct=5387104 idReview=21>
+	<sentence idSentence=1>The phone is great all around.</sentence>
+	<opinion>aspect="phone" sentiment="great all around" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Charges fast and battery last all day.</sentence>
+	<opinion>aspect="Charges" sentiment="fast" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>Kinda hard to find mods and accessories right now.</sentence>
+	<sentence idSentence=4>Moto is back!!</sentence>
+	<opinion>aspect="Moto" sentiment="back" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=5>!</sentence>
+</review>
+<review codeProduct=5387104 idReview=22>
+	<sentence idSentence=1>Already loved Motorola phones (had the Droid Turbo before), and this one's even better.</sentence>
+	<sentence idSentence=2>Love the Moto Mods, great screen size, performance, everything.</sentence>
+	<opinion>aspect="screen size" sentiment="great" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="Moto Mods" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=23>
+	<sentence idSentence=1>During calls, the audio is distorted as if the speaker is busted.</sentence>
+	<sentence idSentence=2>Great phone everywhere else.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=24>
+	<sentence idSentence=1>This was an upgrade from a RazrM.</sentence>
+	<sentence idSentence=2>I like Motorola software.</sentence>
+	<opinion>aspect="Motorola software" sentiment="like" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<sentence idSentence=3>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Phone is fast and battery lasts for two days!</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=25>
+	<sentence idSentence=1>The hardware is great.</sentence>
+	<opinion>aspect="hardware" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Screen clarity is perfect.</sentence>
+	<opinion>aspect="Screen clarity" sentiment="perfect" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>Camera takes great pictures (and fast too).</sentence>
+	<opinion>aspect="Camera" sentiment="great pictures" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>Have noticed some software glitches lately (after about a month of use) but those are most likely related certain apps I've installed (usually is)</sentence>
+</review>
+<review codeProduct=5387104 idReview=26>
+	<sentence idSentence=1>So far, the phone has been awesome.</sentence>
+	<opinion>aspect="phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The battery easily lasts for the whole day.</sentence>
+	<sentence idSentence=3>The moto mods are nice, especially the speaker.</sentence>
+	<opinion>aspect="moto mods" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=27>
+	<sentence idSentence=1>This phone is awesome no problems with it is a little longer on the bottom but completely understandable with the Moto Mods and fingerprint scanner on the bottom which is way more useful than I originally thought.</sentence>
+	<opinion>aspect="phone" sentiment="awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=28>
+	<sentence idSentence=1>Very smooth and fast.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="smooth" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Camera is the best I have had.</sentence>
+	<sentence idSentence=3>Very happy with my decision to get the Z Force.</sentence>
+</review>
+<review codeProduct=5387104 idReview=29>
+	<sentence idSentence=1>Don't buy, defective or the box twice what a waste</sentence>
+</review>
+<review codeProduct=5387104 idReview=30>
+	<sentence idSentence=1>I'm very pleased with this phone.</sentence>
+	<opinion>aspect="phone" sentiment="pleased" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is very responsive to my needs as a power phone user.</sentence>
+	<sentence idSentence=3>I think the quick charge function is great.</sentence>
+	<opinion>aspect="quick charge function" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>I can use my phone with screen on for multiple hours and in a few minutes I'm back to full charge again.</sentence>
+</review>
+<review codeProduct=5387104 idReview=31>
+	<sentence idSentence=1>I like phone a lot , but need to use it a little more to really, get the whole story ... so speak!</sentence>
+	<opinion>aspect="phone" sentiment="like" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=32>
+	<sentence idSentence=1>I only took this phone because you were out of stock on s7 edge and I had to return the note 7.</sentence>
+	<sentence idSentence=2>I returned it in about 3 days, as soon as I could get the s7 edge.</sentence>
+</review>
+<review codeProduct=5387104 idReview=33>
+	<sentence idSentence=1>The battery life in my moto z force is great!</sentence>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=2>More than a full day usage with no problem!</sentence>
+	<sentence idSentence=3>I also love the moto mods!</sentence>
+	<opinion>aspect="moto mods" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Can't wait to get more!</sentence>
+</review>
+<review codeProduct=5387104 idReview=34>
+	<sentence idSentence=1>I miss smaller phones.</sentence>
+	<sentence idSentence=2>The phone is big and ugly.</sentence>
+	<opinion>aspect="big" sentiment="" polarity="Conflict" aspectClass="Dimension" type="implicit"</opinion>
+	<opinion>aspect="ugly" sentiment="" polarity="Negative" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=3>Also it's a pain to answer the phone when it's ringing.</sentence>
+	<sentence idSentence=4>I wouldn't recommend it, honestly.</sentence>
+</review>
+<review codeProduct=5387104 idReview=35>
+	<sentence idSentence=1>For the size of the battery it doesn't last very long.</sentence>
+</review>
+<review codeProduct=5387104 idReview=36>
+	<sentence idSentence=1>Even with a new battery in my S5, the Moto Z Force lasts twice as long.</sentence>
+	<sentence idSentence=2>Cant wait for more Moto Mods!</sentence>
+	<sentence idSentence=3>!</sentence>
+</review>
+<review codeProduct=5387104 idReview=37>
+	<sentence idSentence=1>I have owned several of the Droid iterations and enjoy this one as much as the previous versions.</sentence>
+	<sentence idSentence=2>The battery life is incredible compared to other phones.</sentence>
+	<sentence idSentence=3>The user interface is predictable Android.</sentence>
+	<opinion>aspect="user interface" sentiment="predictable Android" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>And, the special Motorola features like chop twice for flashlight and twist for camera are awesome.</sentence>
+	<opinion>aspect="twist for camera" sentiment="awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="chop twice for flashlight" sentiment="awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=5>If you're on the fence, I'd say go for it.</sentence>
+</review>
+<review codeProduct=5387104 idReview=38>
+	<sentence idSentence=1>I like the speaker module.</sentence>
+	<opinion>aspect="speaker module" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Sound without speaker module not great.</sentence>
+</review>
+<review codeProduct=5387104 idReview=39>
+	<sentence idSentence=1>I had a droid turbo and was time for my upgrades.</sentence>
+	<sentence idSentence=2>Love this phone, its fast and smooth.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="smooth" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=3>I'm definitely a fan of motorola phones.</sentence>
+</review>
+<review codeProduct=5387104 idReview=40>
+	<sentence idSentence=1>This is by far the best phone I ever had, and I have had many!</sentence>
+</review>
+<review codeProduct=5387104 idReview=41>
+	<sentence idSentence=1>Beside running down real fast it overheats!</sentence>
+	<sentence idSentence=2>I though by upgrading to the Motorola phone I'd be getting the best deal!</sentence>
+</review>
+<review codeProduct=5387104 idReview=42>
+	<sentence idSentence=1>No more laptop on vacation.</sentence>
+	<sentence idSentence=2>I used to take a laptop everywhere.</sentence>
+	<sentence idSentence=3>This phone was purchased thinking I could break that habit....it worked!</sentence>
+</review>
+<review codeProduct=5387104 idReview=43>
+	<sentence idSentence=1>Good update to my current phone.</sentence>
+	<sentence idSentence=2>I love the mods.</sentence>
+	<opinion>aspect="mods" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The only bad thing I can think about is that it's a bit over priced.</sentence>
+	<opinion>aspect="priced" sentiment="over" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=44>
+	<sentence idSentence=1>Can't say enough about this beauty.</sentence>
+	<sentence idSentence=2>Even without the mods it's perfect.</sentence>
+	<opinion>aspect="mods" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Glad I went with this one as it's been a fantastic device that will be hard to give up.</sentence>
+	<opinion>aspect="device" sentiment="fantastic" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=45>
+	<sentence idSentence=1>this is an amazing phone.</sentence>
+	<opinion>aspect="phone" sentiment="amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>love the micro sd card slot.</sentence>
+	<opinion>aspect="micro sd card slot" sentiment="love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>great battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>screen and camera look amazing</sentence>
+	<opinion>aspect="camera" sentiment="look amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="look amazing" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=46>
+	<sentence idSentence=1>Good phone very fast.</sentence>
+	<opinion>aspect="phone" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>Good sound.</sentence>
+	<opinion>aspect="sound" sentiment="Good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>The best part of the phone is the fact that you can charge your phone in 30 minutes.</sentence>
+</review>
+<review codeProduct=5387104 idReview=47>
+	<sentence idSentence=1>I had been checking the internet almost daily, trying to get as much information on the Moto Z Force that I could.I needed a new phone and waited until this was available.</sentence>
+	<sentence idSentence=2>I like it a lot.</sentence>
+	<sentence idSentence=3>I like screen size and it is user friendly.</sentence>
+	<opinion>aspect="screen size" sentiment="like" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="user friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=4>It was worth the wait.</sentence>
+</review>
+<review codeProduct=5387104 idReview=48>
+	<sentence idSentence=1>Had to get it swapped twice as two units had defects out the box.</sentence>
+	<sentence idSentence=2>Best buy also never knows what to do so exchanges took over an hour each</sentence>
+</review>
+<review codeProduct=5387104 idReview=49>
+	<sentence idSentence=1>This is my first Motorola and Judy have to say I love it.</sentence>
+	<sentence idSentence=2>Great pictures, easy to use, and lots of cool attachments.</sentence>
+	<opinion>aspect="pictures" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="attachments" sentiment="cool" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5387104 idReview=50>
+	<sentence idSentence=1>my moto z force lasted for 4 months, the bluetooth audio quit.</sentence>
+	<sentence idSentence=2>went thru motorola customer support.</sentence>
+	<sentence idSentence=3>(in india) sent the phone in for repair came back not fixed.</sentence>
+	<sentence idSentence=4>best buy wont help out, they said sorry, you are on your own!</sentence>
+	<sentence idSentence=5>$800 phone plus the mods and worthless for a truck driver.</sentence>
+</review>
+<review codeProduct=5580441 idReview=1>
+	<sentence idSentence=1>Great addition to the iPhone family.</sentence>
+	<sentence idSentence=2>A couple of things that really stand out: 1) The battery is great!, 2) the new "Portrait mode" exclusive to the iPhone 7plus is mind blowing.</sentence>
+	<opinion>aspect="battery" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>It automatically blurs the background while keeping the foreground in focusing.</sentence>
+	<sentence idSentence=4>The clarity in the pictures is unreal.</sentence>
+	<opinion>aspect="clarity in the pictures" sentiment="unreal" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=5>3) the divisive removal of the headphone jack allowed for additional speaker to be placed in the phone.</sentence>
+	<sentence idSentence=6>Having the phone be twice as loud while watching a show or movie on it is very nice.</sentence>
+	<sentence idSentence=7>Overall, great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=2>
+	<sentence idSentence=1>I love the iPhone but needed a bigger so I can see it.</sentence>
+	<opinion>aspect="iPhone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I was afraid it would be too big but it fits me well.</sentence>
+	<sentence idSentence=3>Love it</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="Processor" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580441 idReview=3>
+	<sentence idSentence=1>Absolutely love this phone!</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I will never change from and iPhone!</sentence>
+</review>
+<review codeProduct=5580441 idReview=4>
+	<sentence idSentence=1>Even though everyone was saying is same old phone with not much upgrades, it is great phone, it is quite fast, screen is very good, good battery life, iOS 10 is great also.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="good" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="good" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="iOS 10" sentiment="great" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=5>
+	<sentence idSentence=1>Pre ordered my phone online and got it right away in store.</sentence>
+	<sentence idSentence=2>Love the phone!</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=6>
+	<sentence idSentence=1>Needed a new upgrade for my mother.</sentence>
+	<sentence idSentence=2>she is I-phone fluent.</sentence>
+	<sentence idSentence=3>And not interested in other operating systems</sentence>
+</review>
+<review codeProduct=5580441 idReview=7>
+	<sentence idSentence=1>Much faster than my old 6plus, and no more battery issues.</sentence>
+</review>
+<review codeProduct=5580441 idReview=8>
+	<sentence idSentence=1>Same as all the other iPhones just water proof now and better battery</sentence>
+</review>
+<review codeProduct=5580441 idReview=9>
+	<sentence idSentence=1>I got my 7 on release day and I am very happy with all the upgrades and the speed performance.</sentence>
+	<opinion>aspect="speed performance" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=2>The new dual lens camera takes awesome pictures.</sentence>
+	<opinion>aspect="dual lens camera" sentiment="awesome pictures" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>I never us m y camera anymore just my iphone.</sentence>
+</review>
+<review codeProduct=5580441 idReview=10>
+	<sentence idSentence=1>I ordered an IPhone Plus 128 g on Sept. 20th and they delivered it on Sept. 24th when everywhere else the delays were almost a month.</sentence>
+	<sentence idSentence=2>Thanks Best Buy, you really came through.</sentence>
+</review>
+<review codeProduct=5580441 idReview=11>
+	<sentence idSentence=1>Great phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Awesome camera, waterproof, landscape mode on any screen, although "OK google" is a bit more helpful than Siri.</sentence>
+	<opinion>aspect="camera" sentiment="Awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>Display is the clearest I've had, long lasting battery life, and to me the best thing is that there's practically no loading time.</sentence>
+	<opinion>aspect="lasting battery life" sentiment="long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=4>It's super fast!</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=12>
+	<sentence idSentence=1>After needing to upgrade my wife's phone, we decided to upgrade both at the same time.</sentence>
+	<sentence idSentence=2>The upgrades are simple, but easy to get used to.</sentence>
+	<opinion>aspect="upgrades" sentiment="simple" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="get used to" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>I have upgraded to a Plus and increased my memory, worth each additional penny.</sentence>
+	<sentence idSentence=4>Its much easier to read and browse the web, and the additional lens is a very nice touch.</sentence>
+	<sentence idSentence=5>Neither my wife or myself miss the audio jack as we have a multitude of bluetooth speakers throughout the house, we also have bluetooth headphones.</sentence>
+	<sentence idSentence=6>It is much nicer not having a cord connected to my phone when I'm trying to get work done, or at the gym, when I may need to use my phone for a short time and don't want to interrupt what I'm working on, or the music I am listening to.</sentence>
+</review>
+<review codeProduct=5580441 idReview=13>
+	<sentence idSentence=1>I have he jet black iPhone , love the soft shiny finish .</sentence>
+	<opinion>aspect="soft shiny finish" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It fits perfectly into my wallet.</sentence>
+</review>
+<review codeProduct=5580441 idReview=14>
+	<sentence idSentence=1>I lucked out and got the Jet Black iPhone 7 Plus.</sentence>
+	<sentence idSentence=2>I love the look of the Jet Black, it's sharp.</sentence>
+	<opinion>aspect="look of the Jet Black" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>A case is on it so no worries about fingerprints or smudges.</sentence>
+	<sentence idSentence=4>This is a great update to the iPhone lineup.</sentence>
+	<sentence idSentence=5>Definitely worth the purchase.</sentence>
+</review>
+<review codeProduct=5580441 idReview=15>
+	<sentence idSentence=1>if you like iphones then you will really like this model with the exception of not having a head phone jack.</sentence>
+	<sentence idSentence=2>I use wireless headsets for all my calls and when I am at the gym.</sentence>
+	<sentence idSentence=3>I think the only time I will need a headset is when I am on a plane in airplane mode so not that big a deal.</sentence>
+</review>
+<review codeProduct=5580441 idReview=16>
+	<sentence idSentence=1>Great phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I thought I was going to regret going with the bigger size 7 Plus (I had a regular 7 before) and boy I was wrong.</sentence>
+	<sentence idSentence=3>Now I look at the smaller 4.7" iPhones and they just look too small for me.</sentence>
+	<sentence idSentence=4>The finish on the Jet Black is great but I do suggest getting a simple Jet Black color rubber case (so you do not take away from it's look) as it can easily scratch.</sentence>
+	<opinion>aspect="finish on the Jet Black" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=17>
+	<sentence idSentence=1>Love especially the camera, been trying out all the features, clear & crisp pictures.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="clear" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="pictures" sentiment="crisp" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>Speed faster than previous iPhones.</sentence>
+	<sentence idSentence=3>I've had every iPhone after the first one.</sentence>
+	<sentence idSentence=4>Very solid feeling performance.</sentence>
+	<opinion>aspect="feeling performance" sentiment="solid" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<sentence idSentence=5>Love the feel of the phone while holding it taking pictures or just working on it.</sentence>
+</review>
+<review codeProduct=5580441 idReview=18>
+	<sentence idSentence=1>Trying out the iPhone 7plus.</sentence>
+	<sentence idSentence=2>So far so good.</sentence>
+	<sentence idSentence=3>Like the 14 day return policy as it helped with the decision.</sentence>
+	<sentence idSentence=4>Service was great and quick.</sentence>
+	<opinion>aspect="Service" sentiment="quick" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="Service" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>Everyone was quick to help and explain the process.</sentence>
+</review>
+<review codeProduct=5580441 idReview=19>
+	<sentence idSentence=1>Always have, always will have an iPhone!</sentence>
+	<sentence idSentence=2>Must go get this!</sentence>
+</review>
+<review codeProduct=5580441 idReview=20>
+	<sentence idSentence=1>When I first purchased this phone I found out it was cheaper to buy retail through a credit card.</sentence>
+	<sentence idSentence=2>This iPhone has really be reinvented to produce better battery life, and the phone has been pushed forward to be tough I've dropped this phone a few times and still no scratches.</sentence>
+	<sentence idSentence=3>Compared to other colors my gold iPhone hasn't scratched easily even working in construction it's been a good phone.</sentence>
+	<opinion>aspect="phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>Internally I get better service as well.</sentence>
+	<sentence idSentence=5>Superb.</sentence>
+</review>
+<review codeProduct=5580441 idReview=21>
+	<sentence idSentence=1>I had the 6 plus, decided to try the 7 plus.</sentence>
+	<sentence idSentence=2>I like the Live Photos and force touch.</sentence>
+	<opinion>aspect="Live Photos" sentiment="like" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="force touch" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Phone seems faster, still wish there was an in between size sometimes the plus is bigger than I prefer.</sentence>
+</review>
+<review codeProduct=5580441 idReview=22>
+	<sentence idSentence=1>Great phone!</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Apple does it again.</sentence>
+	<sentence idSentence=3>Love the camera and speaker features on the phone.</sentence>
+	<opinion>aspect="camera" sentiment="Love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="speaker features" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=23>
+	<sentence idSentence=1>It's a great phone couldn't be happier battery life is great</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=24>
+	<sentence idSentence=1>Great iPhone that I have used yet.</sentence>
+	<opinion>aspect="iPhone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Great camera and Super fast.</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=25>
+	<sentence idSentence=1>Going from a Galaxy S5 that was on it's last leg, to a brand new IPhone, I'm quite impressed with this phone.</sentence>
+	<sentence idSentence=2>I love the extra storage, the camera is great and the phone is super fast with no lag time.</sentence>
+	<opinion>aspect="extra storage" sentiment="love" polarity="Positive" aspectClass="Memory" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=26>
+	<sentence idSentence=1>The new A10 chip is very fast.</sentence>
+	<opinion>aspect="A10 chip" sentiment="fast" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<sentence idSentence=2>The added water resistance is nice to finally have.</sentence>
+	<opinion>aspect="water resistance" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Stereo speakers are an improvement in sound.</sentence>
+	<opinion>aspect="Stereo speakers" sentiment="improvement" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Not a complete redesign but a bunch of small improvements.</sentence>
+</review>
+<review codeProduct=5580441 idReview=27>
+	<sentence idSentence=1>Great product, many uses.</sentence>
+	<opinion>aspect="product" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Camera is exceptional.</sentence>
+	<opinion>aspect="Camera" sentiment="exceptional" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>No issues.</sentence>
+</review>
+<review codeProduct=5580441 idReview=28>
+	<sentence idSentence=1>I got the iPhone 7 plus black since day 1 and I am really happy.</sentence>
+</review>
+<review codeProduct=5580441 idReview=29>
+	<sentence idSentence=1>This iPhone is their best one yet.</sentence>
+	<sentence idSentence=2>I accidentally dropped it and no scratches!!!</sentence>
+	<sentence idSentence=3>Love it!</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580441 idReview=30>
+	<sentence idSentence=1>I have been an Android user (Samsung) for 6 years now.</sentence>
+	<sentence idSentence=2>With the recall of the Note 7, it left me stuck between a rock and a hard place.</sentence>
+	<sentence idSentence=3>With extensive research, the iPhone 7 Plus is the next best thing.</sentence>
+	<sentence idSentence=4>It's a beautifully crafted phone with no shortcuts.</sentence>
+	<sentence idSentence=5>The phone is fast, stylish and everything I was needing to help me get over the Samsung fiasco.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="stylish" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=6>The missing head jack is no big deal for me as I have wireless headphones.</sentence>
+	<sentence idSentence=7>I would definitely recommend this phone for those on the fence of jumping from Android to Apple.</sentence>
+</review>
+<review codeProduct=5580441 idReview=31>
+	<sentence idSentence=1>Upgrade from iPhone 6 to a iPhone 7 Plus.</sentence>
+	<sentence idSentence=2>Love it so much more.</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580441 idReview=32>
+	<sentence idSentence=1>I am enjoying the larger screen.</sentence>
+	<sentence idSentence=2>Love the sleek design.</sentence>
+	<opinion>aspect="sleek design" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Love two cameras</sentence>
+	<opinion>aspect="two cameras" sentiment="Love" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=33>
+	<sentence idSentence=1>I love this phone but the price for is really absurd.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="absurd" polarity="Negative" aspectClass="Price" type="explicit"</opinion>
+	<sentence idSentence=2>I suggest you only get this iPhone if you have Best Buy credit card.</sentence>
+</review>
+<review codeProduct=5580441 idReview=34>
+	<sentence idSentence=1>When I say best iPhone yet I mean it it's skash and water resistant plus the 7 plus has two cameras and a new home button</sentence>
+</review>
+<review codeProduct=5580441 idReview=35>
+	<sentence idSentence=1>This is my 5th iPhone, because of a current offer available it made the phone almost free.</sentence>
+	<sentence idSentence=2>It is very fast and user friendly but with the case makes it a little bulky</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="user friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=36>
+	<sentence idSentence=1>The IPhone has such amazing features and qualities built in.</sentence>
+	<opinion>aspect="features" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="qualities built in" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>It looks amazing and is super fast!</sentence>
+	<opinion>aspect="looks" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=3>I could not wait to get it.</sentence>
+	<sentence idSentence=4>This is my 4th.</sentence>
+	<sentence idSentence=5>IPhone series already, and clearly the best.</sentence>
+	<sentence idSentence=6>There is so much storage for all my songs, pictures, and videos.</sentence>
+	<sentence idSentence=7>I found my perfect phone !</sentence>
+	<opinion>aspect="phone" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=37>
+	<sentence idSentence=1>I love my new phone and I was very happy with the customer service</sentence>
+	<opinion>aspect="customer service" sentiment="happy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=38>
+	<sentence idSentence=1>Totally waterproof, super thin, works hella fast.</sentence>
+	<opinion>aspect="thin" sentiment="super" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="waterproof" sentiment="Totally" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>This phone is beautiful!</sentence>
+	<opinion>aspect="phone" sentiment="beautiful" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=39>
+	<sentence idSentence=1>A little big but great battery life.</sentence>
+	<opinion>aspect="big" sentiment="little" polarity="Negative" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=2>Nice display.</sentence>
+	<opinion>aspect="display" sentiment="Nice" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=40>
+	<sentence idSentence=1>My son broke his phone so I gave my IP6 and got a IP7.</sentence>
+	<sentence idSentence=2>Big difference in the camera and a lot faster.</sentence>
+</review>
+<review codeProduct=5580441 idReview=41>
+	<sentence idSentence=1>I have always been an Android user and would have purchased the Note 7 if they had not been defective.</sentence>
+	<sentence idSentence=2>My Note 3 was 3 years old and I decided to purchase the iPhone 7 Plus and have not been disappointed.</sentence>
+	<sentence idSentence=3>Great phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=4>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=5>I am glad I made the switch.</sentence>
+</review>
+<review codeProduct=5580441 idReview=42>
+	<sentence idSentence=1>I am not an Apple user but thanks to the disappointment of Samsung caused me to switch.</sentence>
+	<sentence idSentence=2>I like the phone I am still learning but it seems to be a pretty good phone.</sentence>
+	<opinion>aspect="phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=43>
+	<sentence idSentence=1>The new iPhone 7 Plus is great.</sentence>
+	<opinion>aspect="iPhone 7 Plus" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Love the speed of operation and the camera is excellent.</sentence>
+	<opinion>aspect="speed of operation" sentiment="Love" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="excellent" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=44>
+	<sentence idSentence=1>Love my new phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>First time getting the plus size.</sentence>
+	<sentence idSentence=3>Great design!</sentence>
+	<opinion>aspect="design" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=45>
+	<sentence idSentence=1>Awesome phone, depth effect with camera is mind blowing.</sentence>
+	<opinion>aspect="phone" sentiment="Awesome" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=46>
+	<sentence idSentence=1>This is the best iphone so far.</sentence>
+	<sentence idSentence=2>I highly recommend it.</sentence>
+</review>
+<review codeProduct=5580441 idReview=47>
+	<sentence idSentence=1>upgrade my phone and really satisfied.</sentence>
+	<sentence idSentence=2>The camera is improved.</sentence>
+	<opinion>aspect="camera" sentiment="improved" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=48>
+	<sentence idSentence=1>I love my big phone!</sentence>
+	<opinion>aspect="big phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Wouldn't trade it for any other phone!</sentence>
+</review>
+<review codeProduct=5580441 idReview=49>
+	<sentence idSentence=1>Excellent phone with a great high definition camera.</sentence>
+	<opinion>aspect="high definition camera" sentiment="great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580441 idReview=50>
+	<sentence idSentence=1>Although the hardware hasn't been innovated recently, the camera is truly a great upgrade and I'm loving taking pictures with it.</sentence>
+	<opinion>aspect="taking pictures" sentiment="loving" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>The device is definitely much faster and the battery life is amazing.</sentence>
+	<opinion>aspect="battery life" sentiment="amazing" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>I can't wait to try out the depth of field feature once it's released.</sentence>
+</review>
+<review codeProduct=5580977 idReview=1>
+	<sentence idSentence=1>Finally upgraded my iPhone 5s.</sentence>
+	<sentence idSentence=2>Did not want to go too big and the 6s was the correct choice.</sentence>
+</review>
+<review codeProduct=5580977 idReview=2>
+	<sentence idSentence=1>Great phone!</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Long battery life.</sentence>
+	<opinion>aspect="battery life" sentiment="Long" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>This is my 3rd iPhone and I couldn't be happier!</sentence>
+</review>
+<review codeProduct=5580977 idReview=3>
+	<sentence idSentence=1>It is what my daughter was looking goooooooooooooood</sentence>
+</review>
+<review codeProduct=5580977 idReview=4>
+	<sentence idSentence=1>Loved it, bought it for my wife n it's way better than previous versions</sentence>
+	<opinion>aspect="it" sentiment="Loved" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580977 idReview=5>
+	<sentence idSentence=1>Sounds like I'm sitting next to the person I'm speaking with.</sentence>
+</review>
+<review codeProduct=5580977 idReview=6>
+	<sentence idSentence=1>Great quality as always.</sentence>
+	<opinion>aspect="quality" sentiment="Great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Had apple 5c.</sentence>
+	<sentence idSentence=3>6s is by far better</sentence>
+</review>
+<review codeProduct=5580977 idReview=7>
+	<sentence idSentence=1>Daughter switched from a Samsung phone to iPhone.</sentence>
+	<sentence idSentence=2>She absolutely loves it and says it's best phone she's ever had.</sentence>
+</review>
+<review codeProduct=5580977 idReview=8>
+	<sentence idSentence=1>The best phone ever, I really recommend it to everybody</sentence>
+</review>
+<review codeProduct=5580977 idReview=9>
+	<sentence idSentence=1>Another iPhone added to the plan.</sentence>
+	<sentence idSentence=2>Great phone, easy to use, and very reliable.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="reliable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=10>
+	<sentence idSentence=1>It's a great smartphone I love it enjoy it every single time I use it I'm in love with it</sentence>
+	<opinion>aspect="smartphone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=11>
+	<sentence idSentence=1>I'm very happy with my purchase of the iPhone 6. !</sentence>
+</review>
+<review codeProduct=5580977 idReview=12>
+	<sentence idSentence=1>tax is charged more $17.03 ( $49.41 for $32.38) pl</sentence>
+</review>
+<review codeProduct=5580977 idReview=13>
+	<sentence idSentence=1>Apple keeps getting better.</sentence>
+	<sentence idSentence=2>The interface is quick and amazing.</sentence>
+	<opinion>aspect="interface" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="interface" sentiment="quick" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Crystal clear clarity and the updated processing speed is quicker than my wifes new Samsung</sentence>
+</review>
+<review codeProduct=5580977 idReview=14>
+	<sentence idSentence=1>My son loves this phone.</sentence>
+	<opinion>aspect="phone" sentiment="loves" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>So many great options.</sentence>
+	<opinion>aspect="options" sentiment="many great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Easy to use.</sentence>
+	<opinion>aspect="use" sentiment="Easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=15>
+	<sentence idSentence=1>Purchased for my son.</sentence>
+	<sentence idSentence=2>Works well so far.</sentence>
+	<opinion>aspect="Works" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Some really great features.</sentence>
+	<opinion>aspect="features" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=16>
+	<sentence idSentence=1>It does everything I need it to do and is a huge upgrade from the iPhone 5.</sentence>
+	<sentence idSentence=2>Love the pretty color too.</sentence>
+	<opinion>aspect="pretty color" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=17>
+	<sentence idSentence=1>I absolutely love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's perfect.</sentence>
+	<opinion>aspect="It" sentiment="perfect" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Good camera too.</sentence>
+	<opinion>aspect="camera" sentiment="Good" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=18>
+	<sentence idSentence=1>Very happy with phone.</sentence>
+	<opinion>aspect="phone" sentiment="happy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It came unlocked and I was able to activate on Sprint without any issue.</sentence>
+</review>
+<review codeProduct=5580977 idReview=19>
+	<sentence idSentence=1>iPhone is working great!</sentence>
+	<opinion>aspect="working" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="Processor" type="anaphora"</opinion>
+	<sentence idSentence=3>They even helped me set it up!</sentence>
+</review>
+<review codeProduct=5580977 idReview=20>
+	<sentence idSentence=1>My 16 year had to have an iPhone...he finally got one and loved it.</sentence>
+	<sentence idSentence=2>I don't know how to use it but he does...he loves it.</sentence>
+</review>
+<review codeProduct=5580977 idReview=21>
+	<sentence idSentence=1>I don't like it that much I wanted to switch to the 6s Plus but went over my 14 days so I'm stuck with this.</sentence>
+</review>
+<review codeProduct=5580977 idReview=22>
+	<sentence idSentence=1>Finally upgraded from a flip phone, love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580977 idReview=23>
+	<sentence idSentence=1>Great phone as a starter phone or a primary phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=24>
+	<sentence idSentence=1>It's an iPhone and you know it's good.</sentence>
+	<sentence idSentence=2>This was a gift for my daughter and she loves it.</sentence>
+</review>
+<review codeProduct=5580977 idReview=25>
+	<sentence idSentence=1>having a earphone plug is must..</sentence>
+	<sentence idSentence=2>I also have 7plus....but I like 6s better</sentence>
+</review>
+<review codeProduct=5580977 idReview=26>
+	<sentence idSentence=1>My son loves his new Apple phone and all its features.</sentence>
+	<sentence idSentence=2>Very easy to use.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=27>
+	<sentence idSentence=1>This phone is the best out there for the price no problems after using for several months.</sentence>
+</review>
+<review codeProduct=5580977 idReview=28>
+	<sentence idSentence=1>Does not have the feature where I can change voice to text.</sentence>
+</review>
+<review codeProduct=5580977 idReview=29>
+	<sentence idSentence=1>iPhones are so easy to use and very reliable.</sentence>
+	<opinion>aspect="use" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="reliable" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>Adding a fourth iPhone to our family plan.</sentence>
+</review>
+<review codeProduct=5580977 idReview=30>
+	<sentence idSentence=1>iPhone works great no complaints love it no problems</sentence>
+	<opinion>aspect="works" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="Others" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580977 idReview=31>
+	<sentence idSentence=1>I love my new iphone!</sentence>
+	<opinion>aspect="new iphone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The camera features are fabulous</sentence>
+	<opinion>aspect="camera features" sentiment="fabulous" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=32>
+	<sentence idSentence=1>It's beyond my expectations, it's a wonderful device and make decisions for your life.</sentence>
+	<opinion>aspect="device" sentiment="wonderful" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=33>
+	<sentence idSentence=1>Got this for my son and he loves it.</sentence>
+	<sentence idSentence=2>FaceTime quality is fantastic</sentence>
+	<opinion>aspect="FaceTime quality" sentiment="fantastic" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=34>
+	<sentence idSentence=1>Went from a flip phone to the 6s, love it.</sentence>
+	<opinion>aspect="it" sentiment="love" polarity="Positive" aspectClass="Processor" type="anaphora"</opinion>
+	<sentence idSentence=2>Have a lot to learn about the features yet.</sentence>
+</review>
+<review codeProduct=5580977 idReview=35>
+	<sentence idSentence=1>Great phone and it was wonderful to receive a gift card as well.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=36>
+	<sentence idSentence=1>Love my iPhone 6.</sentence>
+	<opinion>aspect="iPhone 6" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>This is my second one, due to dropping my first in water.</sentence>
+	<sentence idSentence=3>Love the rose gold color.</sentence>
+	<opinion>aspect="rose gold color" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=37>
+	<sentence idSentence=1>This phone was an amazing buy!</sentence>
+	<opinion>aspect="buy" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The customer service was over the top!</sentence>
+	<opinion>aspect="customer service" sentiment="over the top" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=38>
+	<sentence idSentence=1>I think Iphone 6s is perfect I ever owned.</sentence>
+	<opinion>aspect="Iphone 6s" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>not too big, not too small.</sentence>
+	<sentence idSentence=3>it is super fast and works with almost all the us carrier.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=39>
+	<sentence idSentence=1>Love my iPhone but I wish they kept the voice message from the 3GS.</sentence>
+	<opinion>aspect="iPhone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=40>
+	<sentence idSentence=1>Good size not bulky.</sentence>
+	<opinion>aspect="size" sentiment="Good" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<opinion>aspect="size" sentiment="not bulky" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+	<sentence idSentence=2>Easy to read screen.</sentence>
+	<opinion>aspect="read screen" sentiment="Easy" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<sentence idSentence=3>Love it.</sentence>
+	<opinion>aspect="it" sentiment="Love" polarity="Positive" aspectClass="Processor" type="anaphora"</opinion>
+</review>
+<review codeProduct=5580977 idReview=41>
+	<sentence idSentence=1>Love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It is light weight & easy to read.</sentence>
+	<opinion>aspect="read" sentiment="easy" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="weight" sentiment="light" polarity="Positive" aspectClass="Dimension" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=42>
+	<sentence idSentence=1>Have had this phone about a month, and have had no problems.</sentence>
+	<sentence idSentence=2>I specifically chose this phone because I wanted a traditional headphone jack.</sentence>
+</review>
+<review codeProduct=5580977 idReview=43>
+	<sentence idSentence=1>Decided to go with the 6 over the 7.</sentence>
+	<sentence idSentence=2>So far it's a great phone.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=44>
+	<sentence idSentence=1>Flip phone to iPhone 4,back to flip and now this.</sentence>
+	<sentence idSentence=2>Super ez purchase, always helpful staff and imho, good value for money.</sentence>
+	<opinion>aspect="value" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=45>
+	<sentence idSentence=1>Best phone I have ever purchased.</sentence>
+	<sentence idSentence=2>I would recommend to everyone.</sentence>
+</review>
+<review codeProduct=5580977 idReview=46>
+	<sentence idSentence=1>Got new iPhone 6 for my son he is really enjoying it!</sentence>
+</review>
+<review codeProduct=5580977 idReview=47>
+	<sentence idSentence=1>Performance is great.</sentence>
+	<opinion>aspect="Performance" sentiment="great" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=48>
+	<sentence idSentence=1>I am not a cell phone person, so I don't need the newest phone.</sentence>
+	<sentence idSentence=2>The 6s is a good phone at a good price.</sentence>
+	<opinion>aspect="6s" sentiment="good phone" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="price" sentiment="good" polarity="Positive" aspectClass="Price" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=49>
+	<sentence idSentence=1>My college-aged daughter needed a new iPhone.</sentence>
+	<sentence idSentence=2>This was the size she wanted, plus it was so much cheaper than all the other options.</sentence>
+	<sentence idSentence=3>A great choice!</sentence>
+	<opinion>aspect="choice" sentiment="great" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5580977 idReview=50>
+	<sentence idSentence=1>Operation system and battery life is wonderful and user friendly for those new to Iphone software.</sentence>
+	<opinion>aspect="Operation system" sentiment="wonderful" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="wonderful" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="user friendly" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=1>
+	<sentence idSentence=1>I'm an avid Samsung user and I must say this is by far the best phone I've ever used!</sentence>
+	<sentence idSentence=2>It just works!</sentence>
+	<opinion>aspect="works" sentiment="just" polarity="Neutral" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>Must give it a try.</sentence>
+	<sentence idSentence=4>You won't be disappointed at all!</sentence>
+</review>
+<review codeProduct=5656048 idReview=2>
+	<sentence idSentence=1>Previous to buying this phone I had a Samsung Note 4 that was my favorite phone to date.</sentence>
+	<sentence idSentence=2>I don't regret trading it for the Pixel XL.</sentence>
+	<sentence idSentence=3>I like the features of the phone and Google Assistant is great, but my favorite thing is no third party bloatware.</sentence>
+	<opinion>aspect="Google Assistant" sentiment="great" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>I hated all the Samsung app add-ons that I could not get rid of, the Pixel does not have this issue.</sentence>
+</review>
+<review codeProduct=5656048 idReview=3>
+	<sentence idSentence=1>I was expecting a little more from this phone.</sentence>
+	<sentence idSentence=2>There were no issues with it, but it doesn't really excite me.</sentence>
+	<sentence idSentence=3>Solid hardware, great battery life, good reception on Verizon.</sentence>
+	<opinion>aspect="hardware" sentiment="Solid" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="battery life" sentiment="great" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="reception" sentiment="good" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>But nothing really makes this phone stand out as excellent.</sentence>
+	<sentence idSentence=5>I never was able to get the fingerprint sensor to work.</sentence>
+</review>
+<review codeProduct=5656048 idReview=4>
+	<sentence idSentence=1>Good phone, really good camera, set up like the iPhone</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="Good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=5>
+	<sentence idSentence=1>Great phone, I would recommend this products to all my family and friends and I am pretty sure they would like it</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=6>
+	<sentence idSentence=1>Traded in my second Samsung Galaxy Note 7 for this phone, what great luck!!!</sentence>
+	<sentence idSentence=2>I love this phone!</sentence>
+	<opinion>aspect="phone" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=7>
+	<sentence idSentence=1>It's been a nice phone.</sentence>
+	<opinion>aspect="phone" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Although it's slippery so get a case right away!</sentence>
+</review>
+<review codeProduct=5656048 idReview=8>
+	<sentence idSentence=1>This was a replacement for my note 7 it's OK but I would prefer my note7</sentence>
+</review>
+<review codeProduct=5656048 idReview=9>
+	<sentence idSentence=1>Upgraded from an iPhone 6s plus, it's ok, but to get straight to the point, i believe I would have been better off getting the iPhone 7 plus...</sentence>
+</review>
+<review codeProduct=5656048 idReview=10>
+	<sentence idSentence=1>This phone is great.</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Very fast and sleek, I love the OS and uploading pics straight to the cloud.</sentence>
+	<opinion>aspect="OS" sentiment="love" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="uploading pics straight to the cloud" sentiment="love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="sleek" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=11>
+	<sentence idSentence=1>Love this phone.</sentence>
+	<opinion>aspect="phone" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It's fast and has no bloatware.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<sentence idSentence=3>Camera is sharp.</sentence>
+	<opinion>aspect="Camera" sentiment="sharp" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=4>Wish it had wireless charging.</sentence>
+	<sentence idSentence=5>Should have bought the 128gb though because I don't see replacing it for a while.</sentence>
+</review>
+<review codeProduct=5656048 idReview=12>
+	<sentence idSentence=1>Great phone still learning everything this baby can do!</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=13>
+	<sentence idSentence=1>Great first phone, can't wait to see what's next!</sentence>
+	<opinion>aspect="first phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>!</sentence>
+</review>
+<review codeProduct=5656048 idReview=14>
+	<sentence idSentence=1>i'm in love for my google pixel, the phone is perfect, the camera is amazing, it is always fluid never frozen.</sentence>
+	<opinion>aspect="phone" sentiment="perfect" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="amazing" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="google pixel" sentiment="love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=15>
+	<sentence idSentence=1>Love the ok Google.</sentence>
+	<opinion>aspect="ok Google" sentiment="Love" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>Great camera!</sentence>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>Finding new things daily.</sentence>
+</review>
+<review codeProduct=5656048 idReview=16>
+	<sentence idSentence=1>Great phone.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Better then Galaxy.</sentence>
+	<sentence idSentence=3>Would highly recommend this to anyone.</sentence>
+</review>
+<review codeProduct=5656048 idReview=17>
+	<sentence idSentence=1>Love my new pixel xl.</sentence>
+	<opinion>aspect="pixel xl" sentiment="Love" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Came from the note 7 and has certain features I like more than the samsung.</sentence>
+	<sentence idSentence=3>Overall it feels a little faster than the note and is a little smaller and lighter.</sentence>
+	<sentence idSentence=4>I do miss the stylus of the note 7 and the sleek look it had, but other than that I don't miss much switching to the pixel.</sentence>
+</review>
+<review codeProduct=5656048 idReview=18>
+	<sentence idSentence=1>This is a solid phone, there are a lot of mediocre points to it, but it is a pretty smooth phone and runs well.</sentence>
+	<opinion>aspect="phone" sentiment="solid" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="runs" sentiment="well" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I just cant get over the price, debating whether it is worth it or not.</sentence>
+</review>
+<review codeProduct=5656048 idReview=19>
+	<sentence idSentence=1>Just awesome work from Google.</sentence>
+	<sentence idSentence=2>No Comments, Quality was so premium and OS was so polished.</sentence>
+	<opinion>aspect="OS" sentiment="polished" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="Quality" sentiment="premium" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=20>
+	<sentence idSentence=1>Interesting specifications!</sentence>
+	<opinion>aspect="specifications" sentiment="Interesting" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>I am excited to have it on hand, but why ONLY Verizon?</sentence>
+</review>
+<review codeProduct=5656048 idReview=21>
+	<sentence idSentence=1>Has Google specific apps; allo, duo, etc.</sentence>
+	<sentence idSentence=2>Charges a little slow and no removable storage.</sentence>
+	<opinion>aspect="storage" sentiment="no removable" polarity="Negative" aspectClass="Memory" type="explicit"</opinion>
+	<opinion>aspect="Charges" sentiment="slow" polarity="Negative" aspectClass="Battery" type="explicit"</opinion>
+	<sentence idSentence=3>Other than that awesome smart phone.</sentence>
+</review>
+<review codeProduct=5656048 idReview=22>
+	<sentence idSentence=1>It's a very nice phone and has a nice camera and screen</sentence>
+	<opinion>aspect="camera" sentiment="nice" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="screen" sentiment="nice" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="phone" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=23>
+	<sentence idSentence=1>So many cool features.</sentence>
+	<opinion>aspect="features" sentiment="many cool" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>The camaraderie is the best.</sentence>
+</review>
+<review codeProduct=5656048 idReview=24>
+	<sentence idSentence=1>I got this for my son for his 17th bday and he lives it and all the things it does.</sentence>
+</review>
+<review codeProduct=5656048 idReview=25>
+	<sentence idSentence=1>Best buy forgot to add my protection plan to this phone.</sentence>
+	<sentence idSentence=2>My first pixel had software issues which they helped zero and told me to contact the manufacturer.</sentence>
+	<sentence idSentence=3>Not impressed.</sentence>
+</review>
+<review codeProduct=5656048 idReview=26>
+	<sentence idSentence=1>One of the best Android phone I have ever seen it a while.</sentence>
+</review>
+<review codeProduct=5656048 idReview=27>
+	<sentence idSentence=1>Since my note 7 turned into an IED then this is the next best thin</sentence>
+</review>
+<review codeProduct=5656048 idReview=28>
+	<sentence idSentence=1>great phone except bug that wont allow you to connect bluetooth devises in 7.1.1</sentence>
+	<opinion>aspect="phone" sentiment="great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=29>
+	<sentence idSentence=1>this phone is WAY better than an iphone and has many features</sentence>
+</review>
+<review codeProduct=5656048 idReview=30>
+	<sentence idSentence=1>Really enjoy this phone.</sentence>
+	<opinion>aspect="phone" sentiment="enjoy" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The camera is good and so is the software.</sentence>
+	<opinion>aspect="camera" sentiment="good" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="software" sentiment="good" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=31>
+	<sentence idSentence=1>I got this as a replacement for the Note 7.</sentence>
+	<sentence idSentence=2>It is not quite the note 7 but close.</sentence>
+</review>
+<review codeProduct=5656048 idReview=32>
+	<sentence idSentence=1>The only thing i can complain about is the internet connectivity.</sentence>
+	<sentence idSentence=2>i do have issues with it holding my ip address and then it stops working when there is a conflict and I need to reboot.</sentence>
+	<sentence idSentence=3>Also, if not rebooted at least once a week, i get lagging when switching from app to app.</sentence>
+</review>
+<review codeProduct=5656048 idReview=33>
+	<sentence idSentence=1>Great phone for Googles first.</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>Would love if it has low light option with the camera.</sentence>
+	<sentence idSentence=3>Can't wait to see what's next!</sentence>
+</review>
+<review codeProduct=5656048 idReview=34>
+	<sentence idSentence=1>Loving it so far.. Google did an AWESOME job!!</sentence>
+	<opinion>aspect="it" sentiment="Loving" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>Allows me to access all of my documents without converting.</sentence>
+</review>
+<review codeProduct=5656048 idReview=35>
+	<sentence idSentence=1>Great camera, smooth screen response, simple design but the hardware and software are amazing.</sentence>
+	<opinion>aspect="screen response" sentiment="smooth" polarity="Positive" aspectClass="Display" type="explicit"</opinion>
+	<opinion>aspect="design" sentiment="simple" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="software" sentiment="amazing" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="hardware" sentiment="amazing" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<opinion>aspect="camera" sentiment="Great" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=2>Only con for me is the inability to use mobile data during a phone call.</sentence>
+</review>
+<review codeProduct=5656048 idReview=36>
+	<sentence idSentence=1>Amazing phone.</sentence>
+	<opinion>aspect="phone" sentiment="Amazing" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>I have owned top end Windows, Android, and Apple phones, and this simply outclasses all others before it.</sentence>
+</review>
+<review codeProduct=5656048 idReview=37>
+	<sentence idSentence=1>"Okay Google" is such a helpful thing, but not helpful all the time.</sentence>
+	<sentence idSentence=2>Hoping for a better phone in the future.</sentence>
+</review>
+<review codeProduct=5656048 idReview=38>
+	<sentence idSentence=1>Great phone the only complaint I have is that one day you have the video chat option and one day you may not and no one seem be able to fix it</sentence>
+	<opinion>aspect="phone" sentiment="Great" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=39>
+	<sentence idSentence=1>I am really liking my new google phone so far it's great!</sentence>
+	<opinion>aspect="it" sentiment="great" polarity="Positive" aspectClass="General" type="anaphora"</opinion>
+	<sentence idSentence=2>!</sentence>
+</review>
+<review codeProduct=5656048 idReview=40>
+	<sentence idSentence=1>I like the simplicity of the device.</sentence>
+	<opinion>aspect="simplicity" sentiment="like" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=2>While it still allows you to cusmize it.</sentence>
+</review>
+<review codeProduct=5656048 idReview=41>
+	<sentence idSentence=1>By far the fastest Android phone I have ever used.</sentence>
+	<sentence idSentence=2>The UI is buttery smooth, the camera takes great pictures, and the battery life could get you through 2 days of casual use.</sentence>
+	<opinion>aspect="camera" sentiment="great pictures" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>Daydream VR is a nice addition allowing this phone to stand out even more but in the end this phone gets all the essentials right.</sentence>
+	<opinion>aspect="Daydream VR" sentiment="nice addition" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=4>Even the live cases google has come out with is just an awesome addition to the phone.</sentence>
+</review>
+<review codeProduct=5656048 idReview=42>
+	<sentence idSentence=1>Google has done an excellent job designing this phone, I have enjoyed using it over the past month.</sentence>
+	<opinion>aspect="designing" sentiment="excellent" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=43>
+	<sentence idSentence=1>The only thing I can think of is I bought it to soon.</sentence>
+	<sentence idSentence=2>Now they are giving them away or for as low as $10.</sentence>
+	<sentence idSentence=3>Otherwise it is a pretty good phone..</sentence>
+	<opinion>aspect="phone" sentiment="good" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=44>
+	<sentence idSentence=1>Top notch phone.</sentence>
+	<opinion>aspect="notch phone" sentiment="Top" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It has the best rated camera on any cell phone.</sentence>
+	<sentence idSentence=3>Phone is very fast and responsive.</sentence>
+	<opinion>aspect="fast" sentiment="" polarity="Positive" aspectClass="Processor" type="implicit"</opinion>
+	<opinion>aspect="responsive" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=45>
+	<sentence idSentence=1>Excellent phone!</sentence>
+	<opinion>aspect="phone" sentiment="Excellent" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>The google phone/data plan is an awesome price.</sentence>
+	<opinion>aspect="phone/data plan" sentiment="awesome price" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+	<sentence idSentence=3>This phone totally met my expectations!</sentence>
+	<sentence idSentence=4>Would recommend to anyone!</sentence>
+</review>
+<review codeProduct=5656048 idReview=46>
+	<sentence idSentence=1>What a horrible phone!</sentence>
+	<opinion>aspect="phone" sentiment="horrible" polarity="Negative" aspectClass="General" type="explicit"</opinion>
+	<sentence idSentence=2>It drops calls, even after the latest fix.</sentence>
+	<sentence idSentence=3>I'm having failed e-mails.</sentence>
+	<sentence idSentence=4>Turns out lots of pixel owners are having trouble.</sentence>
+	<sentence idSentence=5>I'm hearing unhappy customers get referred back and forth from Verizon to Google.</sentence>
+	<sentence idSentence=6>Expensive piece of junk!</sentence>
+	<opinion>aspect="Expensive" sentiment="" polarity="Negative" aspectClass="Price" type="implicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=47>
+	<sentence idSentence=1>If you want a nice phone with nice features that drops 50 percent of the calls then this is the phone for you.I Paid 159 for Geek squad protection and they want to charge me a 150 deductible to send me back a refurbished phone when Verizon wireless and Google say it is a device issue and the phone should be replaced with new device.</sentence>
+	<opinion>aspect="phone" sentiment="nice" polarity="Positive" aspectClass="General" type="explicit"</opinion>
+	<opinion>aspect="features" sentiment="nice" polarity="Positive" aspectClass="Others" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=48>
+	<sentence idSentence=1>This phone is a thing of beauty.</sentence>
+	<opinion>aspect="thing of beauty" sentiment="" polarity="Positive" aspectClass="Others" type="implicit"</opinion>
+	<sentence idSentence=2>This phone features an awesome camera, great speed and (my favorite feature of this phone) Google Assistant.</sentence>
+	<opinion>aspect="camera" sentiment="awesome" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<opinion>aspect="speed" sentiment="great" polarity="Positive" aspectClass="Processor" type="explicit"</opinion>
+</review>
+<review codeProduct=5656048 idReview=49>
+	<sentence idSentence=1>I got to play around with a Google Pixel For a weekend and let me tell you I am truly impressed.</sentence>
+	<sentence idSentence=2>Google has added a beautiful camera and the all new google assistant.</sentence>
+	<opinion>aspect="camera" sentiment="beautiful" polarity="Positive" aspectClass="Camera" type="explicit"</opinion>
+	<sentence idSentence=3>This phone moved with every button I touch and just was very smoove in all of its movements.</sentence>
+	<sentence idSentence=4>With the Samsung out of the way I say this is the phone to go for.</sentence>
+</review>
+<review codeProduct=5656048 idReview=50>
+	<sentence idSentence=1>The Pixel XL is a boring phone physically, but the software and battery life is amazing.</sentence>
+	<opinion>aspect="battery life" sentiment="amazing" polarity="Positive" aspectClass="Battery" type="explicit"</opinion>
+	<opinion>aspect="software" sentiment="amazing" polarity="Positive" aspectClass="Software" type="explicit"</opinion>
+	<opinion>aspect="physically" sentiment="boring" polarity="Negative" aspectClass="Others" type="explicit"</opinion>
+</review>

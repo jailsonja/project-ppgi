@@ -1,0 +1,154 @@
+4 k video: 1
+4k video: 5
+4x digital zoom: 1
+ability to perform in low light: 1
+accessories: 2
+autofocus: 1
+bag: 2
+battery case: 1
+battery life: 11
+big: 4
+body: 2
+build quality: 1
+cam: 211
+camara: 3
+camara instantanea: 1
+camara package: 1
+camcorder: 1
+camera: 204
+cameras: 8
+capture quick moments: 1
+carry: 10
+cartridges: 1
+case: 5
+color: 6
+colors: 3
+compact: 10
+compact camera: 3
+compact point: 1
+controls: 6
+convenient: 4
+cost of the film: 1
+craft work: 1
+cute: 8
+deal: 7
+device: 1
+digital camera: 2
+digital pics: 1
+disappointed: 4
+dslr camera: 2
+dslr features: 2
+durability: 1
+durable: 2
+ergonomics: 1
+exposure setting: 1
+extras: 1
+f/1.7: 1
+face tracking: 1
+features: 13
+feel: 5
+film: 24
+first camera: 4
+flash: 8
+focus: 9
+fuji film instant camera: 1
+gatherings: 1
+gift: 16
+hold: 6
+image quality: 1
+instant camera: 5
+instant picture: 6
+instant picture camera: 1
+instant prints: 1
+instructional: 1
+intelligent auto: 1
+intelligent options: 1
+investment: 1
+item: 3
+jpg stores: 1
+lack of zoom: 1
+learn: 6
+leica lens: 2
+lens: 23
+lenses: 8
+light: 20
+lightweight: 2
+little camera.: 2
+lx100: 2
+memories: 8
+menu text: 1
+night pictures: 1
+night time images: 1
+olympus prime lenses: 1
+operate: 2
+operation: 1
+options: 8
+performance: 7
+performed: 2
+photo performance: 1
+photos: 30
+pics: 18
+picture: 79
+picture quality: 4
+picture suddenly appears: 1
+pictures: 61
+pictures in low light: 2
+piece of equipment: 1
+pincture: 1
+plays: 1
+plenty of features: 1
+polaroid: 13
+powerful: 1
+price: 27
+price on film: 1
+print: 8
+print outs: 1
+prints: 2
+product: 5
+purchase: 22
+put film: 1
+quailty photos: 1
+quality: 38
+quality of colors: 1
+quality of pictures: 1
+quality of the photos: 1
+quality of the picture: 3
+quality of the pictures on the screen: 1
+quality pics: 2
+quality pictures: 4
+quality video: 1
+quick: 7
+scrapbooks: 1
+separate controls: 1
+shipping: 1
+size: 10
+small: 19
+small pocket size: 1
+sony camera: 1
+stabilization: 1
+take with you: 2
+takes pics: 1
+travel photography: 1
+tutorial online: 1
+use: 80
+user guide: 1
+using: 7
+value: 4
+variety of scene options: 1
+versatility: 2
+video: 20
+video capability: 1
+video dslr: 1
+video option: 1
+video quality: 1
+viewfinder: 1
+watching the pic develop: 1
+weighs: 1
+weight: 5
+wi-fi feature: 1
+wifi app: 1
+work: 17
+works: 8
+zoom: 9
+zoom lens: 4
+zoom lenses: 2
